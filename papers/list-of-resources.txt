@@ -1,0 +1,33 @@
+interesting resources:
+
+- video lectures 
+
+Sam Roweis at
+http://videolectures.net/mlss06tw_roweis_mlpgm/
+ and 
+http://videolectures.net/mlss05au_roweis_pgm/
+
+Nando de Freitas
+
+Mark Girolami
+
+
+- related lecture series
+
+http://www.dcs.gla.ac.uk/~girolami/Machine_Learning_Module_2006/index.htm
+
+http://www.postech.ac.kr/~seungjin/courses/ml/ml08.html
+
+http://www.cedar.buffalo.edu/~srihari/CSE574/
+
+http://www.daimi.au.dk/~cstorm/courses/ML_f07/schedule.html
+
+
+
+- reading materials
+
+Tom Minka, Nuances of probability theory, http://research.microsoft.com/~minka/papers/nuances.html
+
+Tom Minka, Discriminative models, not discriminative training, http://research.microsoft.com/research/pubs/view.aspx?type=Technical%20Report&id=998, October 2005
+
+Tom Minka, From Hidden Markov Models to Linear Dynamical Systems, http://vismod.media.mit.edu/tech-reports/TR-531-ABSTRACT.html, 1999

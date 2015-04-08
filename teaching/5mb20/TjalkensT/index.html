@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="stylesheet" type="text/css" href="../../css/style.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<meta name="Robots" content="index,follow" />
+<meta name="author" content="Bert de Vries" />
+<meta name="keywords" content="bayesian, machine learning, probability theory, evidence-based, kalman filtering, EM algorithm, information processing, signal processing, decision theory" /><title>5MB20 Adaptive Information Processing Course Web Page</title>
+
+</head>
+
+<body>
+
+<div id="head">
+<div id="title">5MB20</div>
+<div id="menu">
+
+<ul>
+<li> <a href="../../index.html" title="home">Home</a>
+</li>
+<li> <a href="../../research/research.html" title="Research">Research</a> </li>
+<li class="active"> <a href="#" title="Teaching">Teaching</a> </li>
+<li> <a href="../../vitae/CV-Bert-de-Vries.html" title="Resume">Resum&#233;</a> </li>
+<li> <a href="../../misc/misc.html" title="Miscellaneous">Misc.</a> </li>
+</ul>
+
+</div><!--- id="menu" --> 
+</div><!--- id="head" -->
+
+<div id="body_wrapper">
+<div id="body">
+<div id="all">
+<div class="top"></div>
+<div class="content">
+
+<h1 style="text-align: center;">5MB20 Adaptive Information
+Processing</h1>
+<h2 style="text-align: center;">2009 Course Web Page</h2>
+<h1>Course Description</h1>
+Signal processing is primarily concerned with filtering, smoothing
+and
+prediction of time-ordered sequences. Information processing extends
+this application terrain to such (seemingly) varied areas as pattern
+classification, language processing, bio-informatics, error-correcting
+coding and database searching, just to name a few. In this course,
+using fundamental concepts of probability and information theory, we
+present an introduction to the design of such information processing
+systems. This course, which can also be taken as an <span style="font-weight: bold;">Introduction to Machine Learning</span>,
+is structured in two parts: <br />
+<h3>Part
+1: Linear Gaussian Models
+and the EM Algorithm</h3>
+First, we present the fundamentals of machine learning from a
+(Bayesian) probability theory perspective. A classic machine learning
+task is
+to determine good estimates for the parameters of a given model
+structure from a set of observed data. We introduce Maximum
+Likelihood (ML) estimation as an effective method to estimate model
+parameters. It
+turns out that for an important class of models, the Linear Gaussian
+Models, ML estimation problems can be solved using the
+Expectation-Maximization (EM) algorithm. We derive ML estimation
+methods and discover the connections for many Linear Gaussian Models,
+including Gaussian mixture models, Kalman filters, hidden
+Markov models, principal and independent component analysis circuits
+and neural
+networks.
+<h3>Part
+2: Model Complexity
+Control and the MDL Principle</h3>
+If we assume more than one possible model then we can find a good
+estimate for the parameters for each class. However, we still
+have to
+select a good class. In part 2, the notion of 'Stochastic Complexity'
+will be developed and the Minimum Description Length (MDL) principle
+will be
+used to select an appropriate model.<br />
+<br />
+<h1>When and Where</h1>
+In 2009 this class is taught in Block D. We meet
+<ul>
+<li> Mondays (10:45 - 12:30, 3rd and 4th hour) in room PT 1.05
+</li>
+<li> Fridays (13:30 - 15:15, 5th and 6th hour) in room <a href="http://w3.tue.nl/nl/de_universiteit/route_en_plattegrond/plattegrond/">PT 1.05</a></li>
+</ul>
+<h1>Instructors</h1>
+<a href="http://www.sps.ele.tue.nl/members/T.J.Tjalkens/">Dr.ir.
+Tjalling J. Tjalkens</a> and <a href="http://www.sps.ele.tue.nl/members/B.Vries/">Dr.ir.
+Bert de Vries</a>. Send us an email or drop by if you want more
+information about the class.
+<h1>Prerequisites</h1>
+Mathematical maturity equivalent to undergraduate engineering program.
+Some matlab programming skills is helpful.
+
+<h1>Material</h1>
+<span style="float: right;"><img src="./DeVriesB/slides/figures/Bishop-book-cover.jpg" alt="book" width="100" /> </span>We will use the following text
+book:
+<p></p>
+<div style="color: blue; font-size: 1.1em;">Christopher M.
+Bishop, <a href="http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm"><em>Pattern
+Recognition
+and Machine Learning</em></a>. Springer, 2006.
+</div>
+
+<p>
+Try to get the book before classes start, e.g. through <a href="http://www.nl.bol.com/is-bin/INTERSHOP.enfinity/eCS/Store/nl/-/EUR/BOL_DisplayProductInformation-Start?BOL_OWNER_ID=1001004002773122&amp;Section=BOOK_EN">bol.com</a>
+or the links at the <a href="http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm">book's
+web site</a>.
+Next to the reading assignments in the book, further material consists 
+of lecture notes
+(slides) and exercises, which will be made available through this
+website. You're strongly advised to download the slides from this
+website and take them with you to the class in order to add your
+personal comments. </p>
+
+<p>
+In 2009, there will be written exams on <span style="color: red;">March
+11th</span> and on <span style="color: red;">June
+19th</span>, both in the <span style="color: red;">14:00-17:00</span>
+slot (see the <a href="http://owinfo.tue.nl">official
+TU/e announcement site</a>). <span style="color: red;">You cannot bring notes or books to the exam. Needed formulas are supplied at the exam sheet.</span> To get some extra practice, here are
+some exercises
+</p>
+<ul>
+
+<li><a href="./DeVriesB/exercises/2009-5MB20-exercises-part-1.pdf">Exercises
+for part 1</a> here. And the same <a href="./DeVriesB/exercises/2009-5MB20-exercises-part-1-with-solutions.pdf">exercises
+for part-1 with solutions</a>.</li>
+<!--
+<li><a href="./TjalkensT/exercises.pdf">Exercises for part 2</a> here. <a href="./TjalkensT/hints.pdf">Some hints</a> are available too. </li> 
+-->
+</ul>
+
+<p>
+Furthermore, we have some old exams here. This is an excellent
+preparation for the exam:
+</p>
+<ul>
+<!--
+<li> <a href="./exams/050315/050315-5mb20-exam.pdf">exam
+of March 15, 2005</a> (and the same <a href="./exams/050315/050315-5mb20-exam-with-solutions.pdf">exam
+with solutions</a>).
+</li>
+<li> <a href="./exams/060324/060324-5mb20-exam.pdf">exam
+of March 24, 2006</a> and also <a href="./exams/060324/060324-5mb20-exam-with-solutions.pdf">with
+solutions</a>.
+</li>
+<li> <a href="./exams/060628/060628-5mb20-exam.pdf">exam
+of June 28, 2006</a> and also <a href="./exams/060628/060628-5mb20-exam-with-solutions.pdf">with
+solutions</a>.
+</li>
+-->
+<li> <a href="./exams/070321/070321-5mb20-exam.pdf">exam
+of March 21, 2007</a> and also <a href="./exams/070321/070321-5mb20-exam-with-solutions.pdf">with
+solutions</a>.
+</li>
+
+<li> <a href="./exams/070704/070704-5mb20-exam.pdf">exam
+of July 4, 2007</a> and <a href="./exams/070704/070704-5mb20-exam-with-solutions.pdf">with
+solutions</a>.
+</li>
+<li> <a href="./exams/080312/080312-5mb20-exam.pdf">exam
+of March 12, 2008</a> and also <a href="./exams/080312/080312-5mb20-exam-with-solutions.pdf">with
+solutions</a>.
+</li>
+<li> <a href="./exams/080620/080620-5mb20-exam.pdf">exam
+of June 20, 2008</a> and also <a href="./exams/080620/080620-5mb20-exam-with-solutions.pdf">with
+solutions</a>.
+</li>
+</ul>
+
+<h1>Further references</h1>
+
+<ul>
+<li>The following 'cheat sheets' by <a href="http://www.cs.toronto.edu/%7Eroweis/notes.html">Sam
+Roweis</a> are handy when doing the exercises.
+
+<ul>
+<li><a href="./papers/RoweisS-gaussian_identities.pdf">Gaussian
+Identities</a></li>
+<li><a href="./papers/RoweisS-matrix_identities.pdf">Matrix
+Identities</a></li>
+</ul>
+</li>
+
+<li>Or use <a href="http://matrixcookbook.com/">this comprehensive resource on Matrix calculus</a>.</li>
+</ul>
+
+
+<h1>Video</h1>
+The 2007 class meetings were recorded and can be <a href="http://videocollege.tue.nl/mediasite/viewer/?cid=c82851da-1677-4122-864d-d7105cddb0e8">viewed</a>
+if you have a valid TU/e account. Note however that the 2009 class will
+change a bit relative to the 2007 class. Talk to us before you plan to
+follow the class only from video.
+<hr style="height: 3px;" />
+<h1>Part 1: Linear
+Gaussian
+Models
+and the EM Algorithm</h1>
+<b>Instructor</b>:
+<a href="http://www.sps.ele.tue.nl/members/B.Vries/">Dr.
+Bert de Vries</a>
+<h2>Course Schedule</h2>
+<p>
+</p>
+
+
+<table border="1" cols="3" width="95%">
+<tbody>
+<tr>
+<td width="25%"><b>Date/ Title</b></td>
+<td width="35%"><b>Topics</b></td>
+<td><b>Materials</b></td>
+<!-- first --> </tr>
+
+<td><span style="color: rgb(0, 0, 110); font-weight: bold;">Mon Jan 26</span><br />
+<i>Perspective;<br />
+Intro Machine Learning</i></td>
+<td> (0) Administrative issues<br />
+(1) Introduction <br />
+(2) Prob. theory review <br />
+(3) Bayesian Machine Learning <br />
+(4) Working with Gaussians</td>
+
+<td><a href="./DeVriesB/slides/2009-5MB20-lect-1-article.pdf">slides</a><br />
+
+<br />
+<span style="color: rgb(0, 100, 0);">reading:</span><br />
+Bishop pp. (1) 1-4 , (2) 12-20, (3) 21-24, (4) 85-93 <br />
+<span style="color: rgb(0, 100, 0);">optional reading:</span><br />
+Minka: <a href="http://research.microsoft.com/en-us/um/people/minka/papers/nuances.html">Nuances of prob. theory</a> 
+</td>
+</tr>
+
+<!-- 2nd --> <tr>
+<td><span style="color: rgb(0, 0, 110); font-weight: bold;">Fri Jan 30</span><br />
+<i>Maximum
+Likelihood estimation,<br />
+Fully observed Gaussian models</i></td>
+<td> (5) Density estimation <br />
+(6) Linear Regression <br />
+(7.1) Generative classification <br />
+(7.2) Discriminative class.</td>
+<td><a href="./DeVriesB/slides/2009-5MB20-lect-2-article.pdf">slides</a><br />
+
+<br />
+<span style="color: rgb(0, 100, 0);">background
+reading:</span><br />
+Bishop (5) 67-70, 74-76, 93-94, (6) 140-144, (7.1) 196-202, (7.2)
+203-206<br />
+<span style="color: rgb(0, 100, 0);">matlab demo:</span>
+<a href="./DeVriesB/matlab/demo_classification.m.txt">demo_classification.m</a>
+
+</td>
+</tr>
+
+<!-- 3rd --> <tr>
+<td><span style="color: rgb(0, 0, 110); font-weight: bold;">Mon Feb 2</span><br />
+<i>Latent
+Variable Models</i></td>
+<td> 
+(8) Gaussian mixture models<br />
+(9) EM algorithm
+
+</td>
+
+<td> <a href="./DeVriesB/slides/2009-5MB20-lect-3-article.pdf">slides</a><br />
+<br />
+<span style="color: rgb(0, 100, 0);">background
+reading:</span><br />
+Bishop (8) 430-439, (9) 55-57, 439-443, 450-455<br />
+<span style="color: rgb(0, 100, 0);">matlab demo:</span>
+<a href="./DeVriesB/matlab/demo_gmm.m.txt">demo_gmm.m</a>, <a href="./DeVriesB/matlab/circle.m.txt">circle.m</a>
+
+</td>
+</tr>
+
+<!-- 4th--> <tr>
+<td><span style="color: rgb(0, 0, 110); font-weight: bold;">Fri Feb 6</span><br />
+<i>Linear
+Continuous Latent Variable Models</i></td>
+<td> (10.1) Factor Analysis and PCA <br />
+(10.2) Independent Component Analysis
+
+</td>
+
+<td><a href="./DeVriesB/slides/2009-5MB20-lect-4-article.pdf">slides</a><br />
+<br />
+<span style="color: rgb(0, 100, 0);">background
+reading:</span><br />
+Bishop (10.1) 570-573, 577-580, 584-586, (10.2) 591-592
+</td>
+</tr>
+
+<!-- 5th --> <tr>
+<td><span style="color: rgb(0, 0, 110); font-weight: bold;">Mon Feb 9</span><br />
+<i>Temporal
+Latent Variable Models</i></td>
+<td> (11.1) Hidden Markov Models<br />
+(11.2) Kalman Filters 
+</td>
+
+<td> <a href="./DeVriesB/slides/2009-5MB20-lect-5-article.pdf">slides</a><br />
+<br />
+<span style="color: rgb(0, 100, 0);">background
+reading:</span><br />
+Bishop (11.1) 605-615, (11.2) 635-641
+</td>
+</tr>
+
+
+<!-- 6th --> <tr>
+<td><span style="color: rgb(0, 0, 110); font-weight: bold;">Fri Feb 13</span><br />
+<i>Review</i></td>
+<td><!-- (11.1) Hidden Markov Models<br />
+(11.2) Kalman Filters 
+-->
+</td>
+
+<td><!-- 
+<a href="./DeVriesB/slides/2008-5MB20-lect-5-article.pdf">slides</a><br />
+<br />
+<span style="color: rgb(0, 100, 0);">background
+reading:</span><br />
+Bishop (11.1) 605-615, (11.2) 635-641
+-->
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+<!-- ************************************ *** FROM HERE ON TJALLING'S PART *** ************************************ -->
+<hr style="height: 3px;" />
+<h1>Part 2: Model
+Complexity
+Control and the MDL Principle </h1>
+<b>Instructor</b>:
+<a href="http://www.sps.ele.tue.nl/members/T.J.Tjalkens/">Dr.ir.
+Tjalling J. Tjalkens</a>
+<h2>Course Schedule</h2>
+<table border="1" cols="3" width="95%">
+<tbody>
+<tr>
+<td width="70%"><b>Date / Title</b></td>
+<td><b>Materials</b></td>
+</tr>
+
+<!-- 7th --> <tr>
+<td width="70%">Mon Feb 16 <br />
+<i>Model selection: The Bayesian Information Criterion,
+Descriptive Complexity</i>.</td>
+<!-- 
+<td colspan="1" rowspan="5"><a href="TjalkensT/part_2-4.pdf">Printable version</a> of
+the slides.<br />
+<a href="TjalkensT/part_2.pdf">The slides</a>
+as shown during the lectures.<br />
+<a href="TjalkensT/exercises.pdf">Exercises</a>
+and <a href="TjalkensT/hints.pdf">hints</a>.&nbsp;
+-->
+</td>
+<!-- <td rowspan="2"><a href="./TjalkensT/part_2-4.pdf">slides</a></td> -->
+</tr>
+
+<!-- 8th --> <tr>
+<td width="70%">Fri Feb 20 <br />
+<i>Descriptive complexity: Probabilistic complexity upto
+The meaning of model information</i>.</td>
+</tr>
+
+
+<!-- carnaval break --> <tr>
+<td><span style="color: rgb(255, 0, 0); font-weight: bold;">Mon Feb 23
+and Fri Feb 28</span> no classes</td>
+</tr>
+
+<!-- 9th --> <tr>
+<td width="70%">Mon Mar 2 <br />
+<i>Bayesian model estimation</i>.</td>
+</tr>
+
+<!-- 10th --><tr>
+<td width="70%">Fri Mar 6 <br />
+<i>Model posterior for Context trees</i>.</td>
+</tr>
+
+</tbody>
+</table>
+<!-- 
+Additional reading:<br />
+T.M. Cover and J.A. Thomas, <span style="font-style: italic;">Elements
+of Information Theory</span>, Wiley. Chapters 13 and 14.<br />
+Rissanen: <a href="http://www.mdl-research.org/pub/lectures.pdf">J.
+Lectures on statistical modeling theory</a>. Chapter
+5.<br />&nbsp;
+-->
+
+
+          </div><!- class="content" ->
+          <div class="bottom"></div>
+        </div> <!- id="all" ->
+        <div class="clearer"></div>
+      </div> <!- id="body" ->
+      <div class="clearer"></div>
+
+    </div><!- id="body_wrapper" ->
+    <div id="end_body"></div>
+  </body>
+</html>
+

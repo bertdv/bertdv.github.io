@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+    <meta name="Robots" content="index,follow" />
+        <meta name="author" content="Bert de Vries" />
+    <meta name="keywords" content="hearing aids, utility, bayes, bayesian, machine learning, probability theory, evidence-based, evidence, clinical trial, signal processing, hearclip, preference elicitation, decision theory" />
+    <title>
+      The HearClip Research Project
+    </title>
+
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+  </head>
+
+
+
+
+<body>
+     <div id="head">
+
+          <div id="title"> HearClip</div>
+
+     <div id="menu">
+        <ul>
+		  <li  class="active">
+            <a href="#HearClip" title="hearclip">HearClip</a>
+          </li>
+		    <li>
+            <a href="#Team" title="team">Team</a>
+          </li>
+          <li>
+            <a href="#Literature"  title="literature">Literature</a>
+          </li>
+        
+         
+        
+      
+        </ul>
+      </div><!- id="menu" ->
+
+    </div><!- id="head" ->
+
+
+
+<div id="body_wrapper">
+
+      <div id="body">
+      <div id="all">
+          <div class="top"></div>
+
+          <div class="content">
+
+
+
+
+  <br />
+
+
+
+<div class="clearer"></div>
+
+<a name="HearClip"><h1>HEARCLIP: Personalization of Hearing Aids through Bayesian Preference Elicitation</h1></a>
+<p>
+<span style="float:right; padding-right:15px; padding-bottom:15px;">
+ <img src="../images/HearClipLogo.jpg" alt="HearClip Logo"  width="150px" >
+ </span> Modern hearing aids have evolved into complex digital signal processing (DSP) devices. The
+tuning of DSP parameters so as to maximize patient satisfaction (a.k.a. <em>fitting</em>) of a hearing aid, has
+become similarly complex. Several factors contribute to the complexity of this optimization
+task, including:
+<ul>
+<li> the dimensionality of the parameter space is large; </li>
+<li> the determinants of hearing-impaired user satisfaction are unknown;</li>
+<li> the evaluation of this satisfaction through listening tests is costly (in terms of patient
+burden and clinical time investment) and unreliable (due to inconsistent responses).
+</ul>
+
+As a result, the vast majority of the many parameters of a hearing aid algorithm are fixed by the manufacturer at a 'best guess' value. Just a few parameters are personalized by the hearing aid dispenser based on the nature of the hearing loss. Thus, fitting of hearing aids relies more on empirical procedures than on mathematical optimization methods.
+</p>
+<p>
+In February 2007 we started a research project on developing efficient hearing aid fitting algorithms. The project is funded by the Dutch funding agency STW (Foundation for Technological Sciences) and <a href="http://www.stw.nl/Projecten/N/nif/07605.htm">the official web page for the project is here</a>. On this website, we describe the problem statement and provide a list of our downloadable publications. 
+</p>
+ 
+ <p>
+The goal of the project is to improve the hearing aid fitting procedure. We take a Bayesian Decision theoretic approach. If we knew what determines patient satisfaction, the task would be easy. Since we do not know this, we model the uncertainty about patient satisfaction through probability distributions over utility models. Using listening tests of the type <em>'which of the two audio samples sounds best?'</em> we elicit responses from the user. Combining patient responses with a probabilistic utility model in a Bayesian fashion, we are able to learn more about the determinants of patient satisfaction. A second feature of the Bayesian method is the possibility to select the best next listening experiment throughout a fitting session. Learning about the patient satisfaction model in the HearClip fitting process is similar to the decision-theoretic process of <em>incremental utility elicitation</em>. In the second stage of HearClip fitting, we find the tuning parameters that optimize the utilities, averaged over a data base of relevant audio samples. This process is known as <em>expected utility maximization</em> and involves research into efficient optimization algorithms. In the Figure below, we show in a flow diagram the two stages of the HearClip fitting protocol. 
+
+
+<img src="../images/hearclip-flow-diagram.jpg" align="center"  alt="hearclip flow diagram" width="675px"></img>
+
+
+<div class="clearer"></div>
+<span style="text-align:center;"><strong>Figure</strong>--The HearClip flow diagram for tuning hearing aids algorithms.</span>
+
+</p>
+<p>
+The proposed method is new to the hearing aid domain but can also be applied to perceptual optimization tasks that are unrelated to hearing aids, e.g. tuning of image processing algorithms. The framework and some initial research results have been laid out by us through a few publications, see the <a href="#Literature">literature</a> list below. 
+
+</p>
+<a name="Team"><h1>Team</h1></a>
+Our research team draws from a multidisciplinary group of people with expertise in (Bayesian) machine learning, signal processing, clinical audiology and the hearing aids industry:
+  
+<ul>
+<li> <a href="http://www.cs.ru.nl/~tomh/">Prof. Tom Heskes</a>, Inst. for Computing and Information Sciences, Radboud Univ. Nijmegen</li>
+<li> <a href="http://www.cs.ru.nl/~perry/">Dr. Perry Groot</a>, Inst. for Computing and Information Sciences, Radboud Univ. Nijmegen</li>
+<li> <a href="http://osiris.cs.ru.nl/~adrianab/">Adriana Birlutiu, M.Sc.</a>, Inst. for Computing and Information Sciences, Radboud Univ. Nijmegen</li>
+<li> <a href="http://www.bertdv.nl/">Dr. Bert de Vries</a>, Signal Processing Systems group, Technical Univ. Eindhoven, and GN ReSound, Eindhoven</li>
+<li> <a href="http://www.tue.nl/staff/i.mossavat">Iman Mossavat, M.Sc.</a>, Signal Processing Systems group, Technical Univ. Eindhoven</li>
+<li> <a href="http://www.ac-amc.nl/medewerkers/dreschler.html">Prof. Wouter Dreschler</a>, Clinical & Experimental Audiology, AMC Amsterdam</li>
+<li> <a href="http://www.ac-amc.nl/medewerkers/houben.html">Dr. Rolph Houben</a>, Clinical & Experimental Audiology, AMC Amsterdam</li>
+<li> <a href="mailto:"tjeerdd@mbfys.kun.nl">Dr. Tjeerd Dijkstra</a>, Inst. for Computing and Information Sciences, Radboud Univ. Nijmegen, and Signal Processing Systems group, Technical Univ. Eindhoven</li>
+</ul> 
+
+The project is funded by the Dutch funding agency <a href="http://www.stw.nl/Projecten/N/nif/07605.htm">STW (Foundation for Technological Sciences)</a>. Feel free to contact any of us for more information about the project. 
+
+<a name="Literature"><h1>Publications</h1></a>
+
+<div id="ref1"> Perry Groot, Tom Heskes, Tjeerd dijkstra and James Kates, <a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5545403">Predicting Preference Judgments of Individual Normal and Hearing-Impaired Listeners With Gaussian Processes</a>, <em>IEEE Tr. on Audio, Speech and Language Processing, vol.PP, issue 99, Ag. 2010, doi: 10.1109/TASL.2010.2064311</div>
+
+<div id="ref1">S.I. Mossavat, O. Amft, B. de Vries, P.N. Petkov, W.B. Kleijn, A Bayesian hierarchical approach to estimate speech quality. Second International Workshop on Quality of Multimedia Exerience (QoMEX), pages 200-205, 2010, doi: 10.1109/QOMEX.2010.5516203</div>
+
+
+<div id="ref1"> Perry Groot, Adriana Birlutiu and Tom Heskes, <a href = "../papers/groot-ecai2010.pdf">Bayesian Monte Carlo for the Global Optimization of
+Expensive Functions</a>, <em>19th European Conference on Artificial Intelligence</em> (ECAI), 2010</div>
+
+<div id="ref1">Adriana Birlutiu, Perry Groot and Tom Heskes, <a href = "../papers/Birlutiu10-multi-task-preference-learning-esann10.pdf">Multi-Task Preference Learning with an Application to Hearing-Aid Personalization</a>, <em>Neurocomputing</em>, Volume 73, Issues 7-9, Pages 1177-1185, 2010. doi:10.1016/j.neucom.2009.11.025</div>
+
+<div id="ref1">Adriana Birlutiu, Perry Groot and Tom Heskes, <a href="../papers/birlutiu09-multitask-preference-learning-esann09.pdf">Multi-Task Preference Learning with Gaussian Processes</a>, <em>Proceedings of the 17th European Symposium on Artificial Neural Networks (ESANN-09)</em>, pages 123-128, 2009</div>
+
+<div id="ref1">Adriana Birlutiu and Tom Heskes, <a href="../papers/Birlutiu08-optimal-experimental-design-nips08.pdf">Optimal experimental design in a hierarchical setting
+for probabilistic choice models</a>, <em>NIPS-08 workshop on Cost Sensitive Learning</em>, 2008</div>
+
+<div id="ref1">Perry Groot, Tom Heskes, Tjeerd Dijkstra and James M. Kates, <a href="../papers/groot08-Nonlinear-perception-JASA-EL.pdf">Non-linear Perception of Hearing Impaired People using Preference Learning with Gaussian Processes</a>, submitted to <em>JASA Express letters</em>, 2008</div>
+
+<div id="ref1">Adriana Birlutiu, Perry Groot, Tom Heskes, Iman Mossavat, Bert de Vries and Tjeerd Dijkstra, <a href="../papers/Birlutiu08-towards-hearing-aid-personalization-Siren08.pdf">Towards Hearing-Aid Personalization:
+Preference Elicitation from Audiological Data</a>, presented at <em>Scientific ICT-Research Event Netherlands (SIREN-08)</em>, Amsterdam, Sep. 2008</div>
+
+<div id="ref1">Bert de Vries, Iman Mossavat, Tjeerd Dijkstra and Rolph Houben, <a href="../papers/devries08-fast-model-based-fitting-IHCON08-poster.pdf">Fast Model-Based Fitting through Active
+Data Selection</a>, presented at <em>International Hearing Aid Research Conference</em>, Lake Tahoe, CA, Aug. 2008</div>
+
+<div id="ref1"> Rolph Houben, Wouter Dreschler, Bert de Vries and Tjeerd Dijkstra, A listener response database for the benchmarking of hearing aid personalization,  presented at <em>International Hearing Aid Research Conference</em>, Lake Tahoe, CA, Aug. 2008</div>
+
+<div id="ref1">Perry Groot, Tom Heskes and Tjeerd Dijkstra, <a href="../papers/GrootP08-TR-nonlinear-perception-of-hearing-impaired-people-using-preference-learning-with-GPs.pdf">Non-linear Perception of Hearing Impaired People using Preference Learning with Gaussian Processes</a>, <em>Technical Report ICIS-R08018</em>, Radboud University Nijmegen, 2008</div>
+
+<div id="ref1">Tjeerd Dijkstra, Tom Heskes, Bert de Vries, Adriana Birlutiu, Perry Groot, Iman Mossavat, Rolph Houben and Wouter Dreschler, <a href="../papers/Dijkstra08-Hearclip-an-application-of-Bayesian-ML.pdf">HearClip: an Application of Bayesian Machine Learning to Personalization of Hearing Aids</a>, Presentation at <em>Dutch Society for Audiology Meeting</em>, Sep. 2008</div>
+
+<div id="ref1">Adriana Birlutiu and Tom Heskes, <a href="../papers/Birlutiu07-Expectation-propagation-for-rating-players-BNAIC.pdf">Expectation propagation for rating players in sports competitions</a>
+19th Belgian-Dutch Conference on Artificial Intelligence (BNAIC 2007), Utrecht, Nov.2007</div>
+
+
+<div id="ref1">Adriana Birlutiu and Tom Heskes, <a href="../papers/Birlutiu07-Expectation-propagation-for-rating-players-ECML-Paper.pdf">Expectation propagation for rating players in sports competitions</a>. (download  <a href="../papers/Birlutiu07-Expectation-propagation-for-rating-players-ECML-Poster.pdf">poster</a>). In Joost N. Kok, Jacek Koronacki, Ramon Lspez de Mantaras, Stan Matwin, Dunja Mladenic, and Andrzej Skowron, editors, Proceedings ECML/PKDD, volume 4702 of <em>Lecture Notes in Computer Science</em>, Springer, pages 374-381, 2007</div>
+		
+
+<div id="ref1">Adriana Birlutiu, Tom Heskes, Bert de Vries, Alexander Ypma and
+Tjeerd Dijkstra,<a href="../papers/Birlutiu07-Bayesian-incremental-utility-elicitation-with-app-to-HA-personalization-SIREN07.pdf">Bayesian Incremental Utility Elicitation with Application to Hearing Aids Personalization</a>, Scientific ICT-Research Event Netherlands (SIREN-07), Delft, Sep. 2007</div>
+
+
+<div id="ref1">Bert de Vries, Alexander Ypma and Tjeerd Dijkstra, Bayesian Machine Learning for Personalization of Hearing Aid Algorithms, <em>Int'l Hearing Aid Research Conference</em>, Lake Tahoe, CA, August 2006 </div>
+
+<div id="ref1">Bert de Vries, Tom Heskes and Tjeerd Dijkstra, <a href="../papers/060602-Valencia-Personalization-poster.pdf">Bayesian Incremental Utility Elicitation with Application to Hearing Aids Personalization</a>, <em> Valencia/ISBA 8th World Meeting on Bayesian Statistics</em>, Benidorm, Spain, June 2006</div>
+
+<div id="ref1">Tom Heskes and Bert de Vries, <a href="../papers/Heskes-deVries-05-Incremental-Utility-Elicitation-for-Adaptive-Personalization.pdf">Incremental Utility Elicitation for Adaptive Personalization</a>,<em> Belgian-Dutch Conference on Artificial Intelligence (BNAIC)</em>, Brussels, October 2005 </div>
+                
+				
+		
+		
+		
+          </div><!- class="content" ->
+          <div class="bottom"></div>
+        </div> <!- id="all" ->
+        <div class="clearer"></div>
+      </div> <!- id="body" ->
+      <div class="clearer"></div>
+
+    </div><!- id="body_wrapper" ->
+    <div id="end_body"></div>
+  </body>
+</html>
+
