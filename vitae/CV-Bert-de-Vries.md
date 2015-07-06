@@ -1,596 +1,467 @@
-Resumé
+subtitle: Bert de Vries
 
--   [Home](../index.html "...sweet home")
--   [Research](../research/research.html "Research")
--   [Teaching](../teaching/5mb20/index.html "Teaching")
--   [Resumé](# "Resume")
+{% columns 2,1 %}
 
-![Bert profile picture](./bertprofile.jpg)
+GN ReSound & Eindhoven University of Technology
+Het Eeuwsel 6
+5612 AS Eindhoven, the Netherlands
+{% icon phone %} +31-40-247-8328
+{% icon envelope %} bdevries _at_ ieee _dot_ org  
+{% icon home %} [http://bertdv.nl](http://bertdv.nl)  
+<!--- {% icon skype %} skype id: bertdv1 --->
 
-#### Bert de Vries, Ph.D.
+Version: Spring 2014  
 
-\
- [GN ReSound A.S.](http://www.gnresound-group.com/)\
- Het Eeuwsel 6\
- 5612 AS Eindhoven, the Netherlands\
- tel. +31-40-2478328\
- e-mail:
-[bdevries@remove-this.gnresound.com](javascript:linkTo_UnCryptMailto('nbjmup;c/efwsjftAuvf/om');)
-\
- \
- Download [resumé in PDF format](CV-Bert-de-Vries.pdf)
+{% column %}
 
--   [Interests](#principalInterests)
--   [Academic](#academicBackground)
--   [Employment](#employmentHistory)
--   [Achievements](#specialAchievements)
--   [University](#university)
--   [Publications](#publications)
+{% well %}
+### Contents
+- [principal interests](#interests) <br />
+- [academic background](#background) <br />
+- [employment history](#history) <br />
+- [special achievements](#achievements) <br />
+- [university activities](#university) <br />
+- [publications & patents](#publications)
+{% endwell %}
 
-\
+{% endcolumns %}
+
+
+
+
+
+<a name="interests"></a>  
 
 Principal Interests
-===================
+-------------------
 
-Signal processing, medical engineering, machine learning, statistics,
-research management, technical writing; applications to medical devices,
-clinical trial design/analysis, hearing rehabilitation, multimedia
-processing, digital communications and neural engineering.
+Signal processing, machine learning, computational neuroscience, data science, biomedical engineering, research management, technical writing; applications to multimedia processing, medical devices, hearing rehabilitation and clinical trial design/analysis
+
+<a name="background"></a>
 
 Academic Background
-===================
+-------------------
 
-**12/91, Ph.D. Electrical Engineering, [University of
-Florida](http://www.ufl.edu/)**, Gainesville, FL\
- Ph.D. research in signal processing under direction of Professor [Jose
-C. Principe](http://www.cnel.ufl.edu/principe/principe.html).
-Dissertation title: *[Temporal processing with neural networks-the
-development of the gamma
-model](http://www.uflib.ufl.edu/ufdc/?g=all&b=UF00082173)*.
+* 1999, **Ph.D. Electrical Engineering**, [University of
+Florida](http://www.ece.ufl.edu/), Gainesville, FL
+    - Ph.D. research in signal processing under direction of Professor Jose C. Principe
+    - Dissertation title: _Temporal processing with neural networks--the development of the gamma model_
 
-**12/86, M.E. Electrical Engineering (equiv.), [Technical University
-Eindhoven](http://www.tue.nl/en_index.html)**, Eindhoven, the
-Netherlands\
- Focus areas: medical (thesis: intelligent alarms during anaesthesia)
-and digital communications engineering.
+* 1986, M.Sc. Electrical Engineering, [Eindhoven University of Technology](http://tue.nl), Eindhoven, the Netherlands
+    - Focus areas: medical engineering (thesis: intelligent alarms during anaesthesia) and
+digital communications
+
+<a name="history"></a>
 
 Employment History
-==================
+------------------
 
-**'12 - pres., Professor, [Technical University
-Eindhoven](http://www.tue.nl/en_index.html)**, Signal Processing Systems
-Group, EE dept., Eindhoven, the Netherlands.\
+*  **2012-pres.**, **Professor**, [Eindhoven University of Technology](http://tue.nl), [Signal Processing Systems Group](http://www.sps.ele.tue.nl/) (EE dept.),  Eindhoven, the Netherlands
+    - 1 day/week appointment; previous engagement: Research Fellow ('04-'11)
+    - Research on _Personalization of Medical Signal Processing Systems_
+    - Teach graduate class on [Adaptive Information Processing](http://www.sps.ele.tue.nl/members/b.vries/teaching/5mb20/index.html)
+    - Inaugural lecture: [_In Situ Personalization of Signal Processing Systems_](https://dl.dropboxusercontent.com/u/4512522/cv/Bert%20de%20Vries%20-%2013sep2013%20-%20In%20situ%20personalization%20of%20signal%20processing%20systems%20-%20%20inaugural%20lecture%20booklet%20%28final%20version%29.pdf) (at [youtube](http://goo.gl/EoU0SE)), Sep. 2013
 
--   1 day/week appointment; Previous engagement: Research Fellow
-    ('04-'11)
--   Research on **Personalization of Medical Signal Processing Systems**
--   Teach graduate class on [Adaptive Information
-    Processing](../teaching/5mb20/index.html).
 
-**'99-pres., Principal Scientist, [GN ReSound
-A/S](http://www.gnresound.com/) (Philips Hearing Technologies** until
-2001), Eindhoven, the Netherlands. \
+* **1999-pres.**, **Principal Scientist**, [GN ReSound](http://www.gnresound.dk/) (Philips Hearing Technologies until 2001), Eindhoven, the Netherlands
+    -  Other engagements include: DSP Functional Leader ('11-pres.), Head DSP Research ('08-'11), Manager External Research ('01-'08), Technology Leader ('99-'01, Philips)
+    -  Research PI on low-power signal processing technology for the next generation of digital hearing aids
+    - Leadership/management tasks include(d) all aspects
+of team and project management (teams of about 10 engineers); (responsible for) the corporate DSP research track, including the roadmap, budget and management; initiating and managing key studies at academic institutions and contract research organizations
 
--   Other engagements include: DSP Functional Leader ('11-pres.), Head
-    DSP Research ('08-'11), Manager External Research ('01-'08),
-    Technology Leader ('99-'01, Philips)
--   Research PI on low-power signal processing technology for the next
-    generation of digital hearing aids.
--   Leadership/management tasks include(d) all aspects of team and
-    project management (teams of about 10 engineers); (responsible for)
-    the corporate DSP research track, including the roadmap, budget and
-    management; initiating and managing key studies at academic
-    institutions and contract research organizations.
 
-**'93-'99, Member Technical Staff, [Sarnoff
-Corporation](http://www.sarnoff.com/)**, Princeton, NJ.\
+* 1993-'99, **Member Technical Staff**, [Sarnoff
+Corporation](http://www.sarnoff.com/) (today [SRI Int'l](http://www.sri.com)), Princeton, NJ
+    - Research in advanced signal processing algorithms, initiating new technical and commercial thrusts, technical proposal writing and project management
+    - Principal investigator of funded projects on keyword spotting, digital hearing aids signal processing, speech enhancement and noise-robust speech recognition (co-PI)
+    - Co-initiated and developed signal processing in financial markets program at Sarnoff
+    - Member medical image processing research team. Funded projects include blind signal processing for breast mammography and perceptually optimized image coding
 
--   Research in advanced signal processing algorithms, initiating new
-    technical and commercial thrusts, technical proposal writing and
-    project management.
--   Principal investigator of funded projects on keyword spotting,
-    digital hearing aids signal processing, speech enhancement and
-    noise-robust speech recognition (co-PI).
--   Co-initiated and developed signal processing in financial markets
-    program at Sarnoff.
--   Member medical image processing research team. Funded projects
-    include blind signal processing for breast mammography and
-    perceptually optimized image coding.
 
-**'92-'93, Postdoctoral Fellow, [David Sarnoff Research
-Center](http://www.sarnoff.com/)**, Princeton, NJ\
+* 1992-'93, **Postdoctoral Fellow**, [David Sarnoff Research Center](http://www.sri.com), Princeton, NJ
+    - Developed neural network based speech recognition method (50% error reduction relative to competing methods)
 
--   Developed neural network based speech recognition method (50% error
-    reduction relative to competing methods).
+* 1987-'91, **Research/Teaching Assistant**,  [University of Florida](http://www.ufl.edu/), Gainesville, FL
+    - Taught and assisted in graduate classes in digital signal processing, control theory and computer architecture.
 
-**'87-'91, Research/Teaching Assistant, [University of
-Florida](http://www.ufl.edu/)**, Gainesville, FL\
-
--   Taught and assisted in graduate classes in digital signal
-    processing, control theory and computer architecture. Developed and
-    patented gamma neural network for Ph.D. research.
+<a name="achievements"></a>  
 
 Special Achievements
-====================
+--------------------
 
-#### Awards
+### Awards
+* _Return-on-Performance Award_, for "technical work on Speech Enhancement technology", Sarnoff Corporation, 1998
+* _David Sarnoff Achievement Award_, for "leadership and technical contributions in
+the area of adaptive speech enhancement", Sarnoff Corporation, 1997
+* _David Sarnoff Event Focus Award_ for "Winning Sarnoff's First Commercial Contract for Speech Processing", David Sarnoff Research Center, 1996
+* _Presidential Recognition Award_, University of Florida, 1988
+* _&#948;-Butterweck Award_ (awards top GPA), Technical University Eindhoven, 1984  
 
--   Return-on-Performance Award, for technical work on Speech
-    Enhancement technology, Sarnoff Corporation, 1998
--   Achievement Award, for ''Leadership and technical contributions in
-    the area of adaptive speech enhancement'', Sarnoff Corporation, 1997
--   David Sarnoff Event Focus Award for ''Winning Sarnoff's First
-    Commercial Contract for Speech Processing'', David Sarnoff Research
-    Center, 1996.
--   Presidential Recognition Award, University of Florida, 1988.
--   δ-Butterweck Award (awards top GPA), Technical University Eindhoven,
-    1984.
+### Invited Lectures (selection)
 
-#### Invited Lectures (selection)
+* Radboud University Nijmegen, "Probabilistic Hearing Loss Compensation", Nijmegen, March 2015
+* INCAS3 Institute, "In Situ Personalization of Signal Processing Systems", Assen, October 2014
+* Leiden University Medical Center, keynote lecture on "Personalization of Medical Signal Processing Systems", Leiden, January 2014
+* Int'l Symposium on Auditory and Audiological Research (ISAAR), "Is Hearing Aid Signal Processing ready for Machine Learning?", Nyborg (DK), August 2013
+* Clinical Physicist Post-graduate school,''The Future of Hearing Aids'', Amersfoort January 2013
+* Delft Univ. of Technology, ''Machine Learning for Hearing Aids Technology'', Delft March 2012
+* International Forum for Hearing Instrument Developers, ''Bayesian Machine Learning for Hearing Aid Design, Fitting and Personalization'', Oldenburg (Germany), June 2011
+* University of Florida, ''Machine Learning Trends in the Hearing Aids Industry'', Gainesville, FL, April 2010
+* SIKS Research School, ''Gaussian mixture models and the EM Algorithm'', Vught, NL, Dec 2008
+* GN Nordic Audiology College, ''Learning technology in hearing aids'', Oslo, Norway, Sep 29, 2006
+* University of Nijmegen, ''Machine learning for hearing aids'', Nijmegen, Netherlands, June 2004
+* University of Florida, ''DSP for modern industrial hearing
+aids'', Gainesville, FL, January 2004
+* International Forum for Hearing Aid Developers, ''Warped-frequency filterbanks'',
+Oldenburg, Germany, July 2003
+* Keynote address ''An industrial perspective on intelligent hearing aids'' at 2nd
+McMaster-Gennum Workshop on Intelligent Hearing Instruments, Niagara-on-the-Lake, ON, Sep 2001
+* NIDCA/NASA/VA Hearing Aids Improvement Conference, May 1997
+* Lucent Technologies, Bell Laboratories, November 1996
+* AT&T Research, Murray Hill, NJ, July 1996
+*  NSA (U.S. Government), June 1993
+* Neural Network Workshop, Rutgers University, October 1992
+* David Sarnoff Research Center, October 1991
 
--   Clinical Physicist Post-graduate school, (''The Future of Hearing
-    Aids''), Amersfoort January 2013
--   Delft Univ. of Technology, (''Machine Learning for Hearing Aids
-    Technology''), Delft, March 2012
--   International Forum for Hearing Instrument Developers, (''Bayesian
-    Machine Learning for Hearing Aid Design, Fitting and
-    Personalization''), Oldenburg (Germany), June 2011
--   University of Florida, (''Machine Learning Trends in the Hearing
-    Aids Industry''), Gainesville, FL, April 2010
--   SIKS Research School, (''Gaussian mixture models and the EM
-    Algorithm''), Vught, Dec 2008
--   GN Nordic Audiology College, (''Learning technology in hearing
-    aids''), Oslo, Norway, Sep 29, 2006
--   University of Nijmegen, (''Machine learning for hearing aids''),
-    Nijmegen, Netherlands, June 3rd, 2004
--   University of Florida, (''DSP for modern industrial hearing aids''),
-    Gainesville, FL, January 2004
--   International Forum for Hearing Aid Developers (''Warped-frequency
-    filterbanks''), Oldenburg, Germany, July 2003
--   Keynote address (''An industrial perspective on intelligent hearing
-    aids'') at 2nd McMaster-Gennum Workshop on Intelligent Hearing
-    Instruments, Niagara-on-the-Lake, ON, Sep 2001
--   NIDCA/NASA/VA Hearing Aids Improvement Conference, May 1997
--   Lucent Technologies, Bell Laboratories, November 1996
--   AT&T Research, July 1996
--   NSA (U.S. Government), June 1993
--   Neural Network Workshop, Rutgers University, October 1992
--   David Sarnoff Research Center, October 1991
 
-#### Professional Activities (selection)
+### Professional Activities (selection)
 
--   Associate Editor for [IEEE Transactions on Neural Systems and
-    Rehabilitation Engineering](http://tnsre.bme.columbia.edu), 2012 -
-    present
--   Invited jury member for Open Technology Program (OTP) research
-    proposals to Dutch Technology Foundation STW, Dec. 2010
--   Invited DSP expert on IWT (Flemish Institute for Science and
-    Technology) panel to evaluate candidate PhD proposals, Brussels,
-    Nov. 2005 and May 2006
--   Organizer/chair special session on 'DSP for Intelligent Hearing
-    Aids', ICASSP 2002, Orlando, FL, May 2002.
--   Publicity chair, Neural Networks for Signal Processing Workshop,
-    Amelia island, Florida, 1997 and Cambridge, UK, 1998.
--   Session chair Non-linear Systems Identification, ICASSP96, Atlanta,
-    GA, May 1996, and IEEE NNSP-98 Workshop, Cambridge, UK, September
-    1998
--   (Elected) member of ''IEEE Technical Committee on Neural Networks
-    for Signal Processing Society'', 1995-1998.
--   Invited researcher in USA government sponsored Robust Speech
-    Processing Workshop, July-August 1993.
--   Member of various professional societies (e.g., IEEE, INNS)
+* 2012 - pres., **Associate Editor** for [IEEE Transactions on Neural Systems and Rehabilitation Engineering](http://tnsre.embs.org/)
+* 2012 - pres., Invited member annual European Mathworks Advisory Board meetings
+* 2010, Invited jury member for Open Technology Program (OTP) research proposals to Dutch Technology Foundation (STW)
+* 11/2005 and 5/2006, Invited DSP expert on IWT (Flemish Institute for Science and Technology) panel to evaluate candidate PhD proposals, Brussels
+* 5/2002, Organizer/chair special session `DSP for Intelligent Hearing Aids', ICASSP 2002,
+Orlando, FL
+* 1997-'98, Publicity chair, Neural Networks for Signal Processing Workshop,
+Amelia island, Florida (1997) and Cambridge, UK (1998)
+* 1996 and 1998, Session chair Non-linear Systems Identification, ICASSP-96,
+Atlanta, GA (1996) and IEEE NNSP-98 Workshop, Cambridge, UK (1998)
+* 1995-'98, (Elected) member of ''IEEE Technical Committee on Neural Networks for Signal Processing Society''
+* 1993, Invited researcher in government sponsored ''Robust Speech Processing Workshop''
+* 1986 - pres., Member of various professional societies (e.g. IEEE, INNS)
 
-#### Refereed Publications
 
-IEEE Transactions on Signal Processing, IEEE Transactions on Neural
-Networks, NeuroComputing Journal, Neural Networks Journal, EURASIP
-Journal of Applied Signal Processing, Advances in Neural Information
-Processing Systems (NIPS) Conferences, ICASSP Conferences and others.
+### Refereed Publications
 
-Activities at Technical University Eindhoven
-============================================
+IEEE Transactions on Signal Processing, IEEE Transactions on
+Neural Networks, NeuroComputing Journal, Neural Networks Journal,
+EURASIP Journal of Applied Signal Processing, Advances in Neural
+Information Processing Systems (NIPS) Conferences, ICASSP
+Conferences and others
 
-#### Teaching
+<a name="university"></a>  
 
--   [Adaptive Information Processing](../teaching/5mb20/index.html).
-    Together with [Tjalling
-    Tjalkens](http://www.sps.ele.tue.nl/members/T.J.Tjalkens/), since
-    spring 2005 I teach a core graduate class on the fundamentals of
-    machine learning.
--   [Machine Learning](../teaching/mlrc04/home.html). I organized a
-    machine learning reading club for GN ReSound staff and TU/e graduate
-    students. Fall 2004.
+Eindhoven Univ. of Technology (TU/e) Activities
+---------------------
 
-#### Research
+### Teaching
 
-My current research focuses on applications of Bayesian machine learning
-to personalization of hearing aid algorithms. In July 2006, together
-with [Tom Heskes](http://www.cs.ru.nl/staff/Tom.Heskes) and [Wouter
-Dreschler](http://www.ac-amc.nl/medewerkers/dreschler.html), we received
-a 650K € grant from [STW](www.stw.nl) to pursue further research on
-*Personalization of Hearing Aids through Bayesian Preference
-Elicitation*.
+* **2005 - pres.**, **[Adaptive Information Processing](http://www.sps.ele.tue.nl/members/B.Vries/teaching/5mb20/index.html)**. Together with [dr.ir. Tjalling Tjalkens](http://www.sps.ele.tue.nl/members/T.J.Tjalkens), since spring 2005 I teach a core graduate class on the fundamentals of machine learning.
+* 2004, [Machine Learning](http://www.sps.ele.tue.nl/members/b.vries/teaching/mlrc04/home.html). I organized a machine learning reading club for TU/e graduate students and GN ReSound staff.
 
-#### Recent Student Supervision
 
--   Maarten Thomassen, M.Sc. practical training project, *Spectral Audio
-    Monitoring*, July 2012
--   Joris Kraak, M.Sc.-thesis, *Computer-Aided Algorithm Design for
-    Audio Processing*, April 2012
--   Joris Kraak, M.Sc. practical training project, *Optimization of a
-    Spectral Noise Tracking Algorithm*, Dec. 2010
--   Jianfeng Li, M.Sc.-thesis, *Acoustic scene-adaptive speech
-    enhancement*, Aug. 2010
--   Jianfeng Li, M.Sc.-project, *Spatial defect clustering on
-    semiconductor wafers using image processing techniques*, Aug. 2009
--   Xueru Zhang, P.D.Eng.-thesis: *Bayesian periodogram smoothing for
-    speech enhancement*, Sep. 2008
--   Rene Besseling, M.Sc. project: *Gaussian processes in Bekesy
-    audiometry*, June 2008
--   Serkan Ozer, M.Sc.-thesis: *Bayesian linear regression for
-    user-adaptive hearing aids*, Aug. 2007
--   Anton Vakrushev, P.D.Eng.-thesis: *Interactive machine learning for
-    Personalization of hearing aid algorithms*, Sep. 2006.
--   Ronnie van Loon, M.Sc.-thesis: *a Probabilistic Approach to Sound
-    Classification*, June 2007.
--   Jorik Caljouw, M.Sc. practical training on *PDA-based Interfacing to
-    a real-time audio platform*, Dec. 2005.
--   Paul Aelen, M.Sc. project, [Determination of the Intra Uterine
-    Pressure with electrodes on the
-    abdomen](../papers/AelenP05-Determination-of-the-Intra-Uterine-Pressure.pdf),
-    Dec. 2005.
--   Job Geurts, M.Sc. practical training on *[A PC-based real-time
-    simulation platform for evaluating hearing aid
-    algorithms](../papers/GeurtsJ05-A-PC-based-real-time-simulation-platform.pdf)*,
-    Jun. 2005.
+### Research
 
-#### Care and Cure theme
+My current research focuses on applications of Bayesian machine learning to personalization of hearing aid algorithms.
 
-I actively participated in the development of the Care and Cure theme
-roadmap for the EE department, 2008.
+- In December 2014, together with [Tjalling Tjalkens](http://www.sps.ele.tue.nl/members/T.J.Tjalkens/), we received a ~500K euro grant from Dutch Technology Foundation [STW](http://www.stw.nl/en/) to pursue research on [Data-driven Hearing Aids](http://stw.nl/nl/content/hearscan-towards-data-driven-hearing-aids).
+- In July 2006, together with [Tom Heskes](http://www.cs.ru.nl/staff/Tom.Heskes) and [Wouter Dreschler](http://www.ac-amc.nl/medewerkers/dreschler.html}), we received a ~650K euro grant from [STW](http://www.stw.nl) to pursue further research on [Personalization of Hearing Aids through Bayesian Preference Elicitation](http://www.nwo.nl/en/research-and-results/research-projects/35/2300148635.html).
 
-Personal
-========
+### Recent Student Supervision at TU/e
+* 10/2014, Rene Duijkers, M.Sc. thesis project, _A Factor Graph Approach to Hearing Loss Compensation_
+* 10/2014, Max Schoonderbeek, M.Sc. thesis project, _A Factor Graph Approach to Gaussian Process Preference Learning_
+* 6/2014, Art Senders, M.Sc. practical training project, _A Julia Toolbox for Forney-style Factor Graphs_
+* 4/2014, Robert Leenders, B.Sc. final project, _Gaussian Process based Preference Learning as a Classification Problem_
+* 1/2014, Rene Duijkers, M.Sc. practical training project, [_Online Bayesian Spectral Tracking_](https://dl.dropboxusercontent.com/u/4512522/cv/Duijkers%20-%202014%20-%20Bayesian%20Online%20Spectral%20Tracking.pdf)
+* 12/2013, Brian Hutama Susilo, M.Sc. practical training project, _Automated Tuning Algorithm for Low-latency PC-based Audio Processing_
+* 8/2013, Zijian Xu, M.Sc. thesis project, [_Fast Design of Audio Processing Algorithms by Interactive Parameter Exploration_](https://dl.dropboxusercontent.com/u/4512522/cv/ZijianXu%20-%202013%20-%20Fast%20Design%20of%20Audio%20Processing%20Algorithms%20by%20Interactive%20Parameter%20Exploration.pdf)
+* 8/2013, Timur Bagautdinov, M.Sc. thesis project, [_A Machine Learning Framework for Bayesian Signal Processing_](https://dl.dropboxusercontent.com/u/4512522/cv/Bagautdinov%20-%202013%20-%20A%20Machine%20Learning%20Framework%20for%20Bayesian%20Signal%20Processing.pdf)
+* 6/2013 Marno van der Maas, B.Sc. research project, _Browser-based Remote Control of Hearing Aids_
+* 12/2012 Timur Bagautdinov, traineeship project, [_A MATLAB/C++ toolbox for Factor Graph Modeling_](https://dl.dropboxusercontent.com/u/4512522/cv/Bagautdinov%20-%202012%20-%20A%20MATLAB-C%2B%2B%20toolbox%20for%20Factor%20Graph%20Modeling.pdf)
+* 6/2012, Maarten Thomassen, M.Sc. practical training project, _Spectral Audio Monitoring_
+* 4/2012, Joris Kraak, M.Sc.-thesis, [_Computer-Aided Algorithm Design for Audio Processing_](https://dl.dropboxusercontent.com/u/4512522/cv/Kraak%20-%202012%20-%20Computer-Aided%20Algorithm%20Design%20for%20Audio%20Processing.pdf)
+* 10/2010, Joris Kraak, M.Sc. practical training project, _Optimization of a Spectral
+Noise Tracking Algorithm_
+* 8/2010, Jianfeng Li, M.Sc.-thesis, [_Acoustic scene-adaptive speech enhancement_](https://dl.dropboxusercontent.com/u/4512522/cv/Li%20-%202010%20-%20acoustic-scene-adaptive-speech-enhancement.pdf)
+* 8/2009, Jianfeng Li, M.Sc.-project, _Spatial defect clustering on semiconductor wafers using image processing techniques_
+* 9/2008, Xueru Zhang, P.D.Eng.-thesis, _Bayesian periodogram smoothing for speech enhancement_
+* 6/2008, Rene Besseling, M.Sc.-project, _Gaussian processes in Bekesy audiometry_
+* 8/2007, Serkan Ozer, M.Sc.-thesis, _Bayesian linear regression for user-adaptive hearing aids_
+* 6/2007, Ronnie van Loon, M.Sc.-thesis, _a Probabilistic Approach to Sound Classification_
+* 9/2006, Anton Vakrushev, P.D.Eng.-thesis, _Interactive machine learning for Personalization of hearing aid algorithms_
+* 10/2005, Jorik Caljouw, M.Sc. practical training on _PDA-based Interfacing to a real-time audio platform_
+* 10/2005, Paul Aelen, M.Sc. project, _Determination of the Intra-Uterine Pressure with electrodes on the abdomen_
+* 6/2005, Job Geurts, M.Sc. practical training on _A PC-based real-time simulation platform for evaluating hearing aid algorithms_
 
-Born on June 28th 1962. Dutch citizen. Leisure interests: sports, travel
-and reading.
+### Member of Ph.D. Committee
 
-references
-==========
+* 6/2015, Yuan Zeng, Ph.D., Distributed Speech Enhancement in Wireless Acoustic Sensor Networks, TU Delft
+* 12/2013, Ingeborg Brons, Ph.D., Perceptual evaluation of noise reduction in hearing aids, University of Amsterdam
+* 9/2013, Jelte Vink, Ph.D., Machine Learning for Efficient Object Recognition, TU Eindhoven
+* 10/2011, Adriana Birlutiu, Ph.D., Machine Learning for Pairwise Data, University of Nijmegen
 
-[Dr. Jose C. Principe](http://www.cnel.ufl.edu/principe/principe.html),
-Distinguished Professor of Electrical Engineering, (Ph.D. supervisor).\
- University of Florida, Gainesville, FL\
 
-Other references on request.
+<a name="publications"></a>
 
 Publications
-============
+------------
 
-#### Impact Factor
+* See also my [google scholar page](http://scholar.google.nl/citations?user=x3EIIHEAAAAJ)
 
-10 journal articles, 13 patents, 50 conference contributions with
-citation numbers (high to low)
-146,108,69,33,33,31,30,29,21,16,14,12,11,11,10,7,7, ... Hirsch- index =
-12, Google Scholar, Feb-2011.
 
-(\>60 unpublished technical reports (company confidential))
+### Journal Articles and Book Chapters
 
-#### Journal Articles and Book Chapters
+1.  Rik Vullings et al., An Adaptive Kalman Filter for ECG Signal Enhancement, _IEEE Transactions on Biomedical Engineering_, vol.58, no.4, April 2011
 
-Rik Vullings et al., An Adaptive Kalman Filter for ECG Signal
-Enhancement, *IEEE Transactions on Biomedical Engineering*, vol.58,
-no.4, April 2011
+1. A. Ypma et al., [On-line Personalization of Hearing Instruments](http://www.hindawi.com/GetArticle.aspx?doi=10.1155/2008/183456), _EURASIP Journal on Audio, Speech, and Music Processing_, September 2008
 
-Alexander Ypma et al., [On-line Personalization of Hearing
-Instruments](http://www.hindawi.com/GetArticle.aspx?doi=10.1155/2008/183456),*EURASIP
-Journal on Audio, Speech and Music Processing*, September 2008.
+1. Tjeerd Dijkstra et al., [The Learning Hearing Aid: Common-Sense Reasoning in Hearing Aid Circuits](http://www.hearingreview.com/issues/articles/2007-10_05.asp), The Hearing Review, issue October 2007
 
-Tjeerd Dijkstra et al., The Learning Hearing Aid: Common-Sense Reasoning
-in Hearing Aid Circuits, *The Hearing Review*, issue October 2007.
+1. David Zhao et al., On-line Noise Estimation Using Stochastic-Gain HMM for Speech Enhancement, _IEEE Transactions on Audio, Speech and Language Processing_, vol.16, no.4, May 2008
 
-David Zhao et al., On-line Noise Estimation Using Stochastic-Gain HMM
-for Speech Enhancement, *IEEE Transactions on Audio, Speech and Language
-Processing*, vol.16, no.4, May 2008.
+1. Jose Principe et al., Locally Recurrent Networks: The Gamma Operator, Properties and Extensions, invited book chapter in _Neural Networks and Pattern Recognition_, Omidvar and Dayhoff (eds.), Academic Press, 1997
 
-Jose Principe et al., Locally Recurrent Networks: The Gamma Operator,
-Properties and Extensions, invited book chapter in *Neural Networks and
-Pattern Recognition*, Omidvar and Dayhoff (eds.), Academic Press, 1997.
+1. Bert de Vries, Short term memory structures for dynamic neural networks, book chapter in: _Artificial Neural Networks for Speech and Vision_, Richard Mammone (ed.), Chapman \& Hall Ltd., 1994
 
-Bert de Vries, Short term memory structures for dynamic neural networks,
-book chapter in: *Artificial Neural Networks for Speech and Vision*,
-Richard Mammone (ed.), Chapman & Hall Ltd., 1994.
+1. Bert de Vries and Jose Principe, The gamma model--A new neural network for temporal processing, _Neural Networks_ vol. 5(4), pp. 565-576, 1992
 
-Bert de Vries and Jose Principe, [The gamma model-A new neural network
-for temporal processing](../papers/nn92.pdf), *Neural Networks* vol.
-5(4), pp. 565-576, 1992.
+1. Jose Principe and Bert de Vries, The gamma filter--A new class of adaptive IIR filters
+with restricted feedback, _ IEEE transactions on signal
+processing_  vol. 41(2), pp. 649-656, 1992
 
-Jose Principe and Bert de Vries, [The gamma filter-A new class of
-adaptive IIR filters with restricted
-feedback](../papers/ieeetrsp92.pdf), *IEEE transactions on signal
-processing* vol. 41(2), pp. 649-656, 1992.
+1. Bert de Vries, [Temporal processing with neural networks-the development of the Gamma model](http://ufdc.ufl.edu/UF00082173/00001), _Ph.D. dissertation_, University of Florida, 1991
 
-Bert de Vries, [Temporal processing with neural networks-the development
-of the Gamma model](http://ufdc.ufl.edu/UF00082173/00001), *Ph.D.
-dissertation*, University of Florida, 1991.
+1. Joachim Gravenstein et al., Sampling intervals for clinical monitoring of variables during anesthesia, _Journal of clinical monitoring_ vol 5(1), 1989
 
-Joachim Gravenstein et al., Sampling intervals for clinical monitoring
-of variables during anesthesia, *Journal of clinical monitoring* vol
-5(1), 1989.
+1. Jan J. van der Aa, Bert de Vries and Joachim
+Gravenstein, Toward more sophisticated monitoring alarms, _Journal of clinical monitoring_ 4 (2), 1986
 
-Jan J. van der Aa, Bert de Vries and Joachim Gravenstein, Toward more
-sophisticated monitoring alarms, *Journal of clinical monitoring* 4 (2),
-1986.
+<!---
+1. Bert de Vries et al., Evidence-based design of hearing aid algorithms, submitted to _J. acoustic soc. of America_, Jan.\ 2008
+2. * Thomas Beierholm et al., Non-Stationary Noise Reduction by Particle Filtering in a Cascade Formant Synthesizer Model, submitted to _IEEE Trans. on Audio, Speech and Language Processing_, June 2007
+--->
 
-#### Patents
+### Patents
 
-Bert de Vries et al., Efficient evaluation of hearing ability, submitted
-by GNR Ref.: P1669 EP, Albihns Ref.: P13304 US / P13303, April 2009
+1. Fredrik Gran et al., Performance-based In Situ Optimization of Hearing Aids, filed by GN ReSound, with the Danish Patent and Trademark Office, PA 2015-70379, June 2015
 
-Alexander Ypma et al., Asymmetric synchronization of hearing aid
-algorithms, submitted by GN ReSound, patent no. 09174982.0-2225, filed
-4-Nov-2009.
+1. Bert de Vries and Erik van der Werf, A Multi-band Signal Processor for Digital Audio Signals, filed by GN ReSound with European Patent and Office, Feb. 2014
 
-Alexander Ypma et al., Learning control of hearing aid parameter
-settings, submitted by GN ReSound, filed 16-Mar-2007.
+1. Andrew Dittberner et al., A Location Learning Hearing Aid, filed by GN ReSound with European Patent and Office, App. 13197214.3-1901, December 2013
 
-Bert de Vries and Alexander Ypma, Optimization of Hearing Aid
-Parameters, filed by GN ReSound, patent no. 06791465.5-1224, 10/13/06.
+1. Bert de Vries and Mojtaba Farmani, A Hearing Aid with Probabilistic Hearing Loss Compensation, filed by GN ReSound with US Patent and Trademark Office, App. number 14077031, Nov. 2013
 
-David Zhao, Bastiaan Kleijn, Alexander Ypma and Bert de Vries, Method
-and Apparatus for Improved Estimation of Non-stationary Noise for Speech
-Enhancement, filed by GN ReSound, patent no. 06119399.1-224, 08/23/06.
+1. Bert de Vries et al., Efficient evaluation of hearing ability, submitted by GNR Ref.: P1669 EP, Albihns Ref.: P13304 US / P13303, April 2009
 
-Bert de Vries and Rob de Vries, Fitting methodology and hearing
-prosthesis based on signal-to-noise ratio loss data, USA patent
-registered for GN ReSound, no. 20040047474, 03/11/2004.
+1. Alexander Ypma et al., Asymmetric synchronization of hearing aid algorithms, submitted by GN ReSound, patent no. 09174982.0-2225, filed 4-Nov-2009
 
-L. Parra and B. de Vries, Method and apparatus for adaptive speech
-detection by applying a probabilistic description to the classification
-and tracking of signal components, patent registered for Sarnoff
-Corporation, LG Electronics, Inc., no. 6691087, 10-Feb. 2004.
+1. Alexander Ypma et al., Learning control of hearing aid parameter settings, submitted by GN ReSound, filed 16-Mar-2007
 
-Bert de Vries, Noise Spectrum Tracking for Speech Enhancement, patent
-registered for Sarnoff Corporation, no. US6289309, 9/11/01.
+1. Bert de Vries and Alexander Ypma, Optimization of Hearing Aid Parameters, filed by GN ReSound, patent no. WO/2007/042043, 10/13/06
 
-J. Lubin et al., Method and apparatus for training a neural network to
-learn and use fidelity metric as a control mechanism , patent registered
-for Sarnoff Corporation, no. US6075884, 6/13/2000.
+1. Bert de Vries, Bastiaan Kleijn, Alexander Ypma and David Zhao, Method and Apparatus for Improved Estimation of Non-stationary Noise for Speech Enhancement, filed by GN ReSound, patent no. 06119399.1-224, 08/23/06
 
-Bert de Vries, Method and apparatus for filtering signals using a gamma
-delay line based estimation of power spectrum, patent registered for
-Sarnoff Corporation, no. US6073152, 6/6/2000.
+1. Bert de Vries and Rob de Vries, Fitting methodology and hearing prosthesis based on signal-to-noise ratio loss data, USA patent registered for
+GN ReSound, no. 20040047474, 03/11/2004
 
-J. Lubin, M. Brill, B. de Vries, O. Finard, Method and apparatus for
-assessing the visibility of differences between two image sequences,
-patent registered for Sarnoff Corporation, no. US5974159, 10/26/1999.
+1. L. Parra and B. de Vries, Method and apparatus for adaptive speech detection by applying a probabilistic description to the classification and tracking of signal components, patent registered for Sarnoff Corporation, LG Electronics, Inc., no. 6691087, 10-Feb. 2004
 
-Bert de Vries, Method and system for training a neural network with
-adaptive weight updating and adaptive pruning in principal components
-space, patent registered for David Sarnoff Research Center, no.
-5,812,992, 9/22/98.
-
-Bert de Vries and Jose Principe, An adaptive filter based on a recursive
-delay line, patent registered for University of Florida, no. 5,301,135,
-April 1994.
-
-#### Conferences and Workshops
-
-Ungureanu C. et al., A Bayesian Network for Detection of Seizures, *1st
-Jan Beneken Conference on Modeling and Simulation of Human Physiology*,
-Eindhoven, Netherlands, 2013
-
-Petkov P. et al., Discrete Choice Models for Non-Intrusive Quality
-Assessment, *Interspeech 2011*, Florence, Italy, 2011
-
-Rob de Vries et al., A software suite for automatic beamforming
-calibration, *Int'l Hearing Aid Research Conference*, Lake Tahoe, CA,
-August 2010
-
-S.I. Mossavat et al., A Bayesian hierarchical mixture of experts
-approach to estimate speech quality, *QoMEX 2010*, Trondheim, Norway,
-June 2010
-
-Jos Leenen and Bert de Vries, Current DSP and Machine Learning Trends in
-the Hearing Aids Industry, *IEEE Benelux Signal Processing Symposium:
-Signal Processing for Digital Hearing Aids*, Delft, NL, April 2010
-
-Xueru Zhang et al., Bayesian periodogram smoothing for speech
-enhancement, *European Symposium on Artificial Neural Networks
-(ESANN-09)*, Bruges, April 2009
-
-Adriana Birlutiu et al., Towards hearing aid personalization: preference
-elicitation from audiological data, *Scientific ICT-Research Event
-Netherlands (SIREN)*, Amsterdam, Sep. 2008
-
-Tjeerd Dijkstra et al., HearClip: an Application of Bayesian Machine
-Learning to Personalization of Hearing Aids, Presentation at *Dutch
-Society for Audiology Meeting*, Sep. 2008
-
-Bert de Vries, Fast Model-Based Fitting through Active Data Selection,
-*Int'l Hearing Aid Research Conference*, Lake Tahoe, CA, August 2008
-
-Rolph Houben et al., Construction of a virtual subject response database
-to reduce subject testing, *Int'l Hearing Aid Research Conference*, Lake
-Tahoe, CA, August 2008
-
-Bert de Vries et al., The Complexity of Hearing Aid Fitting, presented
-at *International Symposium on Auditory and Audiological Research*,
-Helsingor, Denmark, August 2007
-
-Jos Leenen et al., Learning Volume Control for Hearing Aids, presented
-at *International Symposium on Auditory and Audiological Research*,
-Helsingor, Denmark, August 2007
-
-Alexander Ypma et al., Bayesian Feature Selection for Hearing Aid
-Personalization, *MLSP-07*, Thessaloniki, Greece, 2007
-
-Adriana Birlutiu et al., Personalization of Hearing Aids through
-Bayesian Preference Elicitation, *NIPS workshop on User Adaptive
-Systems*, Whistler, BC, Canada, December 2006
-
-Bert de Vries et al., Bayesian Machine Learning for Personalization of
-Hearing Aid Algorithms, *Int'l Hearing Aid Research Conference*, Lake
-Tahoe, CA, August 2006
-
-Alexander Ypma, Bert de Vries and Job Geurts, [Robust Volume Control
-Personalization from On-line Preference
-Feedback](../papers/YpmaA06-Robust-Volume-Control-Personalization.pdf),
-*IEEE Int. Workshop on Machine Learning for Signal Processing*,
-Maynooth, Ireland, 2006
-
-Bert de Vries, Tom M. Heskes and Tjeerd M. H. Dijkstra, [Bayesian
-Incremental Utility Elicitation with Application to Hearing Aids
-Personalization](../papers/060602-Valencia-Personalization-poster.pdf),
-*Valencia/ISBA 8th World Meeting on Bayesian Statistics*, Benidorm,
-Spain, June 2006
-
-Tjeerd M. H. Dijkstra et al., [A Bayesian decision-theoretic framework
-for
-psychophysics](../papers/DijkstraT06-Bayesian-decision-theoretic-framework-for-psychophysics.pdf),
-*Valencia/ISBA 8th World Meeting on Bayesian Statistics*, Benidorm,
-Spain, June 2006
-
-Alexander Ypma, Bert de Vries and Job Geurts, A learning volume control
-that is robust to user inconsistency, *The second annual IEEE
-BENELUX/DSP Valley Signal Processing Symposium*, Antwerp, March 2006
-
-Paul Aelen et al., Electrohysterographic Estimation of the Intra-Uterine
-Pressure, *The second annual IEEE BENELUX/DSP Valley Signal Processing
-Symposium*, Antwerp, March 2006
-
-Tom Heskes and Bert de Vries, [Incremental Utility Elicitation for
-Adaptive
-Personalization](../papers/Heskes-deVries-05-Incremental-Utility-Elicitation-for-Adaptive-Personalization.pdf),
-*Belgian-Dutch Conference on Artificial Intelligence (BNAIC)*, Brussels,
-October 2005
-
-Bert de Vries and Rob de Vries, An Integrated Approach to Hearing Aid
-Algorithm Design, *Int'l Hearing Aid Research Conference*, Lake Tahoe,
-CA, August 2004
-
-Harald Pobloth et al., Speech Coding for Wireless Communication in the
-Hearing Aid Environment, *Int'l Hearing Aid Research Conference*, Lake
-Tahoe, CA, August 2004
-
-Bert de Vries and Rob de Vries, An Integrated Approach to Hearing Aid
-Algorithm Design for Enhancement of Audibility, Intelligibility and
-Comfort, *IEEE Benelux Signal Processing Symposium*, Hilvarenbeek,
-Netherlands, April 2004
-
-Rob de Vries and Bert de Vries, [Toward SNR-Loss Restoration in Digital
-Hearing Aids](../papers/icassp02.pdf), *ICASSP 2002*, Orlando, FL, May
-2002
+1. Bert de Vries, Noise Spectrum Tracking for Speech Enhancement,
+patent registered for Sarnoff Corporation, no. US6289309,
+9/11/2001
 
-Bert de Vries, Jos Leenen, A Low Power Digital AGC Circuit for Dynamic
-Range Control of an A/D Converter, *International Hearing Aid Research
-(IHCON) Conference 2000*, Lake Tahoe (CA), August 2000
+1. J. Lubin et al., Method and apparatus for training a neural network to learn and use fidelity metric as a control mechanism, patent registered for
+Sarnoff Corporation, no. US6075884, 6/13/2000
 
-Lucas Parra, Clay Spence and Bert de Vries, Convolutive Blind Source
-Separation based on Multiple Decorrelation, *IEEE workshop on Neural
-Networks for Signal Processing VIII*, pp.23-32, Cambridge, UK, 1998
+1. Bert de Vries, Method and apparatus for filtering signals using a gamma delay line based estimation of power spectrum, patent
+registered for Sarnoff Corporation, no. US6073152, 6/6/2000
 
-Bert de Vries, Blind Signal Processing for Hearing Aids, *NIH Hearing
-Aids Improvement Conference, Bethesda*, MA, May 1997
+1. M. Brill, J. Lubin, B. de Vries, O. Finard, Method and apparatus for assessing the visibility of differences between two image sequences, patent registered for Sarnoff Corporation, no.
+US5974159, 10/26/1999
 
-Bert de Vries, Adaptive Gamma Filters for Miniature Hearing Aids, *NIH
-Hearing Aids Improvement Conference*, Bethesda, MA, May 1997
-
-Bert de Vries, [Adaptive rank filtering based on error
-minimization](../papers/icassp97.pdf), *ICASSP-97*, Munich, April 1997
-
-Lucas Parra, Clay Spence, Bert De Vries, [Convolutive Source Separation
-and Signal Modeling with Maximum
-Likelihood](http://humanism.org/%7Elucas/publish/isis97.pdf),
-*International Symposium on Inteligent Systems* (ISIS'97), 1997, Regio
-Calabria, Italy
-
-Q. Lin et al., [Robust distant-talking speech
-recognition](../papers/icassp96.pdf), *ICASSP-96*, Atlanta,GA, May 1996
-
-Bert de Vries et al., [Neural network speech enhancement for noise
-robust speech recognition](../papers/iwannt95.pdf), *International
-Workshop on Applications of Neural Networks to Telecommunications*,
-Sweden, May 1995
-
-Lin et al., Experiments on distant-talking speech recognition, *ARPA
-Workshop on Spoken Language Technology*, Austin, TX, January 1995.
-
-Qiguang Lin et al., System of microphone arrays and neural networks for
-robust speech recognition in multimedia environments, Proceedings
-*International Conference on Spoken Language Processing*, Yokohama,
-Japan, September 1994.
-
-Bert de Vries, Gradient-based adaptation of network structure,
-*International Conference on Artificial Neural Networks 94*, Sorrento,
-Italy, May 94.
-
-Che et al., Microphone Arrays and Neural Networks for Robust Speech
-Recognition, *ARPA Workshop on Human Language Technology*, Princeton,
-NJ, March 1994.
-
-Bert de Vries et al., An application of Gamma delay lines to "BDG"
-phoneme classification, *Government Microcircuit Applications Conference
-proceedings*, New Orleans, LA, November 1993.
-
-Bert de Vries, Time-varying neural networks for large tasks,
-*International Conference on Artificial Neural Networks proceedings*,
-Amsterdam, the Netherlands, September 13-16, 1993.
-
-J.C. Principe et al., Backpropagation through time with fixed memory
-size requirements, *Proceedings of Workshop on Neural Networks for
-Signal Processing*, Linthicum Heights, MD, USA, Sep. 1993.
-
-Bert de Vries et al.,Learning with target trajectory constraints for
-sequence classification tasks, *ICASSP-93*, Minneapolis, MN, April 1993.
-
-Jyh-Ming Kuo, Jose Principe and Bert de Vries, Noise reduction using the
-focused gamma network, *Advances in Neural Information Processing
-Systems*, vol. 5, 1993.
-
-Bert de Vries et al., [Short Term Memory Structures for Dynamic Neural
-Networks](../papers/asilomar92.pdf), *Asilomar-92* Conference
-proceedings, Pacific Grove, CA, 1992.
-
-T. Oliveira a Silva et al., Generalized feedforward filters with complex
-poles, *Proceedings of the 1992 IEEE workshop on Neural Networks for
-Signal Processing*, Copenhagen, Denmark, 1992.
-
-Jyh-Ming Kuo, Jose Principe and Bert de Vries, Prediction of chaotic
-time series using recurrent networks, *Proc. of the 1992 IEEE workshop
-on Neural Networks for Signal Processing*, 1992.
-
-Jose Principe, Bert de Vries and Pedro G. de Oliveira, Generalized
-feedforward structures: a new class of adaptive filters, *ICASSP-92*,
-San Francisco, vol. IV, pp. 245-248, 1992.
-
-T. Oliveira e Silva, P. Guedes de Oliveira, J. C. Prmncipe and B. de
-Vries, A Complex Pole Extension to the Gamma Filter, *The INESC Journal
-of Research & Development*, vol. 3, no. 1, pp. 35-41, Jan./Jun. 1992.
-
-Bert de Vries et al., [Adaline with adaptive recursive
-memory](../papers/nnsp91.pdf), *Proceedings IEEE workshop on signal
-processing*, Princeton, NJ, 1991.
-
-Bert de Vries et al., Modeling applications with the focused gamma net,
-*NIPS-4 proceedings*, Denver, CO, 1992.
-
-Bert de Vries et al., Some practical issues concerning the gamma neural
-net, *Proceedings IJCNN-91*, Seattle, WA, 1991.
-
-Bert de Vries and Jose Principe, [A theory for neural nets with time
-delays](../papers/nips3.pdf), *NIPS-3 Proceedings*, Denver, 1991.
-
-Bert de Vries et al., Neural net models for temporal processing,
-*Proceedings nineth southern biom. eng. conference*, Miami, FL, 1991.
-
-Bert de Vries et al., A new neural net model for temporal processing,
-*12th ann. int. conf. IEEE on the eng. in medicine and biology society*,
-Philadelphia, PA, 1990.
-
-Bert de Vries et al., Artificial neural networks as a computational
-paradigm for detection of anaesthetic complications, *Computers in
-Anesthesia 10*, New Orleans, LA, 1989.
-
-Bert de Vries et al., Distribution of anesthesia related occurrences
-during surgical operations, *Anesthesiology review* 14 (6), 1987.
+1. Bert de Vries, Method and system for training a neural network with adaptive
+weight updating and adaptive pruning in principal components space,
+patent registered for David Sarnoff Research
+Center, no. 5,812,992, 9/22/98
+
+1. Bert de Vries and Jose Principe, An adaptive filter based on a recursive delay line,  patent registered
+for University of Florida, no. 5,301,135, April 1994
+
+### Professional Interviews
+
+1. [Introducing Data Science: Hearing Aids on the Brink of a Paradigm Shift](http://www.audiology-worldnews.com/focus-on/1215-introducing-data-science-hearing-aids-on-the-brink-of-a-paradigm-shift). Interview in [Audiology Info Magazine](http://www.audiology-worldnews.com/), Dec 2014
+
+### Conferences and Workshops
+
+1. Mojtaba Farmani and Bert de Vries, A Probabilistic Approach To Hearing Loss Compensation, _IEEE Machine Learning for Signal Processing workshop_ (MLSP), Reims, FR, Sep 2014
+
+1. Bert de Vries et al., Efficient Hearing Aid Spectral Signal Processing with an Asynchronous Warped Filterbank, _Int'l Hearing Aid Research Conference_ (IHCON), Lake Tahoe, CA, August 2014
+
+1. Bert de Vries and Andrew Dittberner, Is Hearing Aid Signal Processing Ready for Machine Learning? _Int'l Symposium on Auditory and Audiological Research_, Nyborg, DK, Aug. 2013
+
+1. Ungureanu C. et al., A Bayesian Network for Detection of Seizures, _1st Jan Beneken Conference on Modeling and Simulation of Human Physiology_, Eindhoven, NL, 2013
+
+1.  Petkov P. et al., Discrete Choice Models for Non-Intrusive Quality Assessment, _Interspeech 2011_, Florence, Italy, 2011
+
+1.  Rob de Vries et al., A software suite for automatic beamforming calibration, _Int'l Hearing Aid Research Conference_, Lake Tahoe, CA, August 2010
+
+1. S.I. Mossavat et al., A Bayesian hierarchical mixture of experts approach to estimate speech quality, _QoMEX 2010_,  Trondheim, Norway, June 2010
+
+1. Jos Leenen and Bert de Vries, Current DSP and Machine Learning Trends in the Hearing Aids Industry,  _IEEE Benelux Signal Processing Symposium: Signal Processing for Digital Hearing Aids_, Delft, NL, April 2010
+
+1. Xueru Zhang et al., Bayesian periodogram smoothing for speech enhancement, _European Symposium on Artificial Neural Networks (ESANN-09)_, Bruges, April 2009
+
+1. Adriana Birlutiu et al., Towards hearing aid personalization: preference elicitation from audiological data, _Scientific ICT-Research Event Netherlands (SIREN)_, Amsterdam, Sep. 2008
+
+1. Tjeerd Dijkstra et al., HearClip: an Application of Bayesian Machine Learning to Personalization of Hearing Aids, Presentation at _Dutch Society for Audiology Meeting_, Sep. 2008
+
+1. Bert de Vries, Fast Model-Based Fitting through Active Data Selection, _Int'l Hearing Aid Research Conference_, Lake Tahoe, CA, August 2008
+
+1. Rolph Houben et al., Construction of a virtual subject response database to reduce subject testing, _Int'l Hearing Aid Research Conference_, Lake Tahoe, CA, August 2008
+
+1. Bert de Vries et al., The Complexity of Hearing Aid Fitting, presented at _International Symposium on Auditory and Audiological Research 2007_, Helsingor, Denmark, August 2007
+
+1. Jos Leenen et al., Learning Volume Control for Hearing Aids, presented at _International Symposium on Auditory and Audiological Research 2007_, Helsingor, Denmark, August 2007
+
+1. Alexander Ypma et al., Bayesian Feature Selection for Hearing Aid Personalization,  _MLSP-07_, Thessaloniki, Greece, 2007
+
+1. Adriana Birlutiu et al., Personalization of Hearing Aids through Bayesian Preference Elicitation, _NIPS workshop on User Adaptive Systems_, Whistler, BC, Canada, December 2006
+
+1. Bert de Vries et al., Bayesian Machine Learning for Personalization of Hearing Aid Algorithms, _Int'l Hearing Aid Research Conference_, Lake Tahoe, CA, August 2006
+
+1. Alexander Ypma, Bert de Vries and Job Geurts, Robust Volume Control Personalization from On-line Preference Feedback, _IEEE Int. Workshop on
+Machine Learning for Signal Processing_, Maynooth, Ireland, 2006
+
+1. Bert de Vries, Tom M. Heskes and Tjeerd M. H. Dijkstra, Bayesian Incremental Utility Elicitation with Application to Hearing Aids Personalization, _Valencia/ISBA 8th World Meeting on Bayesian Statistics_, Benidorm, Spain, June 2006
+
+1. Tjeerd M. H. Dijkstra et al., A Bayesian decision-theoretic framework for psychophysics, _Valencia/ISBA 8th World Meeting on Bayesian Statistics_, Benidorm, Spain, June 2006
+
+1. Alexander Ypma, Bert de Vries and Job Geurts, A learning volume control that is robust to user inconsistency,  _The second annual
+IEEE BENELUX/DSP Valley Signal Processing Symposium_, Antwerp, March 2006
+
+1. Paul Aelen et al., Electrohysterographic Estimation of the Intra-Uterine Pressure, _The second annual
+IEEE BENELUX/DSP Valley Signal Processing Symposium_, Antwerp, March 2006
+
+1. Tom Heskes and Bert de Vries, Incremental Utility Elicitation for Adaptive
+Personalization, _The 17th Belgian-Dutch Conference on Artificial Intelligence_, Brussels, Belgium, October 2005
+
+1. Bert de Vries and Rob de Vries, An Integrated Approach to Hearing Aid Algorithm Design, _Int'l Hearing Aid Research Conference_,
+Lake Tahoe, CA, August 2004
+
+1. Harald Pobloth et al., Speech Coding for Wireless Communication
+in the Hearing Aid Environment, _Int'l Hearing Aid Research Conference_,
+Lake Tahoe, CA, August 2004
+
+1. Bert de Vries and Rob de Vries,An Integrated Approach to Hearing
+Aid Algorithm Design for Enhancement of Audibilit y,
+Intelligibility and Comfort, _IEEE Benelux Signal Processing
+Symposium_, Hilvarenbeek, Netherlands, April 2004
+
+1. Rob de Vries and Bert de Vries, Toward SNR-Loss Restoration in Digital Hearing Aids, _ICASSP 2002_, Orlando, FL, May 2002
+
+1. Bert de Vries, Jos Leenen, A Low Power Digital AGC Circuit for
+Dynamic Range Control of an A/D Converter, _International
+Hearing Aids Research (IHCON) Conference 2000_, Lake Tahoe (CA),
+August 2000
+
+1. Lucas Parra, Clay Spence and Bert de Vries, Convolutive Blind Source
+Separation based on Multiple Decorrelation, _IEEE workshop on Neural
+Networks for Signal Processing VIII_, pp.23-32, Cambridge, UK, 1998
+
+1. Bert de Vries, Blind Signal Processing for Hearing Aids, _NIH Hearing Aids Improvement Conference_, Bethesda, MA, May 1997
+
+1. Bert de Vries, Adaptive Gamma Filters for Miniature Hearing Aids, _NIH Hearing Aids Improvement Conference_,
+Bethesda, MA, May 1997
+
+1. Bert de Vries, Adaptive rank filtering based on error minimization,
+_ICASSP-97_, Munich, April 1997
+
+1. Lucas Parra, Clay Spence, Bert De Vries, Convolutive Source Separation
+and Signal Modeling with Maximum Likelihood, _International
+Symposium on Intelligent Systems_ (ISIS'97), Regio Calabria,
+Italy, 1997
+
+1. Q. Lin et al., Robust distant-talking speech recognition,  
+_ICASSP-96_, Atlanta,GA, May 1996
+
+1. Bert de Vries et al., Neural network speech enhancement for noise robust speech recognition,
+_International Workshop on Applications of Neural Networks to Telecommunications_, Sweden, May
+1995
+
+1. Lin et al., Experiments on distant-talking speech recognition, _ARPA Workshop on Spoken
+Language Technology_, Austin, TX, January 1995
+
+1. Qiguang Lin et al., System of microphone arrays and neural networks for robust speech recognition in multimedia
+environments, Proceedings _International Conference on Spoken Language
+Processing_, Yokohama, Japan, September 1994
+
+1. Bert de Vries, Gradient-based adaptation of network structure, _International Conference on
+Artificial Neural Networks 94_, Sorrento, Italy, May 94
+
+1. Che et al., Microphone Arrays and Neural Networks for Robust Speech
+Recognition, _ARPA
+Workshop on Human Language Technology_, Princeton, NJ, March 1994
+
+1. Bert de Vries et al., An application of Gamma delay lines to "BDG" phoneme classification,
+_Government Microcircuit Applications Conference proceedings_, New
+Orleans, LA, November 1993
+
+1. Bert de Vries, Time-varying neural networks for large tasks, _International Conference on Artificial
+Neural Networks proceedings_, Amsterdam, the Netherlands, September
+13-16, 1993
+
+1.  J.C. Principe et al., Backpropagation through time with fixed memory size requirements, _Proceedings of Workshop on Neural Networks for Signal Processing_, Linthicum Heights, MD, USA, Sep. 1993
+
+1. Bert de Vries et al.,Learning with target trajectory constraints for sequence classification tasks,
+_ICASSP-93_, Minneapolis, MN, April 1993
+
+1. Bert de Vries et al.,Short Term Memory Structures for Dynamic Neural
+Networks,  _Asilomar-92_
+Conference proceedings, Pacific Grove, CA, 1992
+
+1. T. Oliveira a Silva et al., Generalized feedforward filters with
+complex poles, _Proceedings of the
+1992 IEEE workshop on Neural Networks for Signal Processing_,
+Copenhagen, Denmark, 1992
+
+1. Jyh-Ming Kuo, Jose Principe and Bert de
+Vries, Prediction of chaotic time series using recurrent networks,
+_Proc. of the 1992 IEEE workshop on Neural Networks for Signal
+Processing_, 1992
+
+1. Jose Principe, Bert de Vries and
+Pedro G. de Oliveira, Generalized feedforward structures: a new class
+of adaptive filters, _ICASSP-92_, San Francisco, vol. IV,
+pp. 245-248, 1992
+
+1. T. Oliveira e Silva, P. Guedes de Oliveira, J. C. Principe and B.
+de Vries, A Complex Pole Extension to the Gamma Filter, _The
+INESC Journal of Research and Development_, vol. 3, no. 1, pp.
+35-41, Jan./Jun. 1992
+
+1. Bert de Vries et al., Adaline with adaptive recursive memory, _Proceedings IEEE workshop on signal
+processing_, Princeton, NJ, 1991
+
+1. Principe et al., Modeling applications with the focused gamma
+net,  _NIPS-4 proceedings_,
+Denver, CO, 1992
+
+1. Bert de Vries et al., Some practical issues concerning the gamma
+neural net, _Proceedings IJCNN-91_,
+Seattle, WA, 1991
+
+1. Bert de Vries and Jose Principe, A theory for neural nets with time
+delays, _NIPS-3 Proceedings_,
+Denver, 1991
+
+1. Bert de Vries et al., Neural net models for temporal processing, _Proceedings nineth southern biom. eng. conference_, Miami, FL, 1991
+
+1. Bert de Vries et al., A new neural net model for temporal processing,
+_12th ann. int. conf. IEEE on
+the eng. in medicine and biology society_, Philadelphia, PA, 1990
+
+1. Bert de Vries et al., Artificial neural networks as a computational paradigm for detection of anaesthetic complications,
+_Computers in Anesthesia 10_, New Orleans, LA, 1989
+
+1. Bert de Vries et al., Distribution of anesthesia related occurrences during surgical operations,
+_Anesthesiology review_ 14 (6), 1987
