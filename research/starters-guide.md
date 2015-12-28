@@ -10,16 +10,18 @@ This document is a starter's guide for students who do an internship or graduate
 
 ### Mission
 
+{% include image.html url="/images/design-loop.png" width=450 align="right" %}
+
 We are interested in methods that support **in situ design of real-world signal processing systems by
 end users**, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) **machine learning** and **computational neuroscience**. In particular, we derive inspiration from recent work on **probabilistic graphical models** (PGM) and **message passing** (MP) algorithms for machine learning and inference. In our team, we are building a very efficient PGM/MP toolbox ourselves and 'eat our own dogfood' by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.
 
 In short, **we work on (Bayesian) machine learning** methods with applications to the design of audio processing algorithms. Our methods are just as easily applicable though to design problems in related fields such as biomedical and communications engineering.
 
-#### Methodology
+### Methodology
 
 I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you're doing research now. Find a simpler question that will put you on the path to an answer. Doing **research is a continuous process of adaptation** in _both_ posing the questions _and_ proposing solutions. In other words, *if you can't find the answer, change the question*! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming's lecture on 'You and Your Research', [video](http://www.youtube.com/watch?v=a1zDuOPkMSw "Hamming video, 1995") (1995) or [html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming html, 1986") (1986), and think about how this relates to your work.
 
-#### Expectations and Deliverables
+### Expectations and Deliverables
 
 Your project will likely be embedded as a building block in our research plan. I expect a **professional attitude** which includes that you conduct yourself as a **team player**. Be aware that this is _your_ project so _you_ are responsible for keeping an eye on departmental regulations and deadlines. Stick to deadlines and promises or inform me ahead of time when plans cannot be maintained.
 
@@ -45,33 +47,42 @@ If you are from another department, please find out and notify me of which depar
 
 I like the idea of **working together asynchronously**, see [Zach's Holman talk](http://zachholman.com/talk/how-github-uses-github-to-build-github/) if this idea interests you. This means we use tools like [slack](https://slack.com/) (a chatroom) and [github](https://github.com/) (for source version control) to share ideas and code without a strict need to be in the same meeting room at the same time.
 
-If you want to talk to me, you can always check if I'm available to meet, and if needed we can start a [google+ hangout](http://www.google.com/+/learnmore/hangouts/) ([tutorial](http://www.youtube.com/watch?v=cu4pZirx5S0)) video chat. The latter option allows us to share a screen if you want to show something, e.g. to look at code together.
+If you want to talk to me, you can always check if I'm available to meet, and if needed we can start a [google+ hangout](http://www.google.com/+/learnmore/hangouts/) video chat. The latter option allows us to share a screen if you want to show something, e.g. to look at code together.
 
-#### Slack
+### Slack
 
+{% include image.html url="/images/slack-logo.png" width=100 align="left" %}
 Ideas are usually discussed in a [slack](https://slack.com/) chatroom. Slack stores a record of the chats so our discussions are automatically documented for later use, such as getting newcomers in the team up to speed.
 
-#### Git and Github
+<br />
 
+### Git and Github
+
+ {% include image.html url="/images/Octocat.jpg" width=100 align="left" %}
  We use the [git](http://git-scm.com) version control system to track the various developments of our code base and we organize our projects in repositories at [github](http://github.com). It is important to become a smooth user of both git and github. We use git and github also to track all documents that we write ourselves, including your thesis report. In the windows environment, I recommend that you install [github for windows](http://windows.github.com/) and/or [TortoiseGit](http://code.google.com/p/tortoisegit/).  [Github bootcamp](https://help.github.com/articles/set-up-git) and Dudler's [git guide](http://rogerdudler.github.com/git-guide/) are good places to start. Our workflow is loosely based on [github flow](http://scottchacon.com/2011/08/31/github-flow.html). The articles on [Team collaboration with github](http://net.tutsplus.com/articles/general/team-collaboration-with-github/) and [How to collaborate on Github](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) also contain interesting discussions.
 
 
-#### Julia
+### Julia
 
+{% include image.html url="/images/julia-logo.png" width=120 align="left" %}
 We use [Julia](http://julialang.org/) as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don't worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.
 
 I also recommend that you spend some time on getting familiar with [Test-Driven Development](https://www.youtube.com/watch?t=11&v=ZB66AKW87M0) (TDD) of code.
 
 
-#### LaTeX
+### LaTeX
 
+{% include image.html url="/images/latex-logo.png" width=120 align="left" %}
 The project's final report should be written in [LaTeX](http://www.latex-project.org/). You must get familiar with LaTeX early during your project, because we start writing the final report very soon after the start of the project.
 
-#### Zotero
+### Zotero
 
+{% include image.html url="/images/zotero-logo.png" width=100 align="left" %}
 After you join the spsbrats team you will also get access to our literature collection that we store online in a  [Zotero](https://www.zotero.org/) repository. This will help you get an overview of all relevant papers in our field.
 
-#### Reporting Tips
+<br />
+
+### Reporting Tips
 
 Start working on the final report in the first month of the project. In particular, if you follow [Magnusson's advice to write backwards](https://dl.dropboxusercontent.com/u/4512522/Magnusson_1996-How_to_write_backwards.pdf) (*start with the conclusions*!), then you can **turn report writing into a powerful research tool** that reveals your next steps to pursue. I _strongly_ encourage you to have a look at [Simon Peyton Jones](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm)' lectures on **writing a paper** ([video](http://sms.cam.ac.uk/media/1464870) and [slides](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)) and **giving a talk** ([video](http://research.microsoft.com/apps/video/default.aspx?id=168648) and [slides](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-slides.pdf)).
 
