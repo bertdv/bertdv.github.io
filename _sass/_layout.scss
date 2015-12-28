@@ -11,7 +11,8 @@
 
     .page-link {
         color: #ffffff;
-    background: #f66733;
+//    background: #f66733;
+    background: #023F88;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -66,7 +67,7 @@
         }
     }
 }
-*/ 
+*/
 
 
 
@@ -223,8 +224,8 @@ h1 /* .post-title */ {
 }
 
 						.footnotes ol li {list-style-type:decimal;}
-						.footnotes ol {font-size:.85em; color:#666666;}	
-	
+						.footnotes ol {font-size:.85em; color:#666666;}
+
 html {
   overflow-y: scroll;
 }
@@ -254,4 +255,3 @@ ul.listing li.listing-item a {
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
-

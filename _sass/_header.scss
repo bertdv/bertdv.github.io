@@ -5,7 +5,8 @@
     border-top: 0px solid $grey-color-dark;
 	border-bottom: 4px solid $clemson-purple;
     min-height: 56px;
-    background: #f66733;
+//    background: #f66733;
+    background: #023F88;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -87,7 +88,7 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: $tue-blue;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
@@ -97,8 +98,8 @@ color: #522d80;
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+	border-left-color: $tue-blue;
+	border-right-color: $tue-blue;
 	border-right: 0px;
 
 }
@@ -157,7 +158,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
+    background: $tue-blue;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -212,5 +213,3 @@ z-index:999;
         }
     }
 }
-
-
