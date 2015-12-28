@@ -1,0 +1,14 @@
+
+- title: "Teaching"
+  href: "/teaching/AIP-5SSB0/"
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Available Projects"
+      subhref: "/research/available-projects/"
+    - subtitle: "Student Starter's Guide"
+      subhref: "/research/starters-guide/"
+
+- title: "CV"
+  href: "/cv/"

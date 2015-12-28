@@ -1,8 +1,0 @@
-\select@language {english}
-\contentsline {section}{Objective}{1}{section*.2}
-\contentsline {section}{Background}{1}{section*.3}
-\contentsline {subsection}{Research}{1}{section*.4}
-\contentsline {subsubsection}{(grant) writing}{2}{section*.5}
-\contentsline {subsection}{Management}{3}{section*.6}
-\contentsline {subsection}{Teaching}{3}{section*.7}
-\contentsline {section}{Curriculum Vitae}{4}{section*.8}
