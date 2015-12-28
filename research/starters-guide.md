@@ -134,8 +134,6 @@ In principle, you are not required to prepare anything before your project start
 
 - For more information on the specific PGM style that we use (Forney-style Factor Graphs), please see [this lecture](https://www.youtube.com/watch?v=Fv2YbVg9Frc&t=31) by Frederico Wadehn or these papers: [Sascha Korl dissertation, 2005](http://e-collection.library.ethz.ch/eserv/eth:28176/eth-28176-02.pdf) and [Loeliger et al., 2007](http://www.isiweb.ee.ethz.ch/papers/docu/aloe-jdau-juhu-skor-2007-1.pdf).
 
-The doctoral dissertation by Sascha Korl is quite important and it would be the first thing I'd ask you to read once your project has started (if you haven't read it yet by then).
-
 - If you want to see how we have used factor graphs in one of our projects, here is a [recent MSc thesis](https://dl.dropboxusercontent.com/u/4512522/Duijkers%20-%202014%20MSc%20Thesis%20-%20A%20Factor%20Graph%20Approach%20to%20Hearing%20Loss%20Compensation.pdf) from one of my graduate students. No need to read this in detail, but it is an example of what we do.
 
 - You could also get started in Julia if you like. See the ['learning' site at julialang.org](http://julialang.org/learning/) . You can get started to program in julia e.g. at [JuliaBox](https://www.juliabox.org/), or you can [install Julia yourself](http://julialang.org/).
