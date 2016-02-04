@@ -10,6 +10,8 @@ My research at TU/e focuses on in situ personalization of medical signal process
 
 ## Recent Articles and Theses
 
+- Thijs van de Laar and Bert de Vries, [A Probabilistic Modeling Approach to Hearing Loss Compensation](http://arxiv.org/abs/1602.01345), under review, Feb. 2016
+
 - Marco Cox and Bert de Vries, [A Bayesian binary classification approach to pure tone audiometry](http://arxiv.org/abs/1511.08670), under review, Sep. 2015
 
 - Rene Duijkers, [A Factor Graph Approach to Hearing Loss Compensation](https://www.dropbox.com/s/znir6dfzfgnmn3g/Duijkers%20-%202014%20MSc%20Thesis%20-%20A%20Factor%20Graph%20Approach%20to%20Hearing%20Loss%20Compensation.pdf?dl=0), M.Sc.-thesis, TU Eindhoven, Oct. 2014
