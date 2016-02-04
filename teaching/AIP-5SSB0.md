@@ -7,7 +7,6 @@ Instructors: [prof. Bert de Vries](http://bertdv.nl), [dr. Tjalling J. Tjalkens]
 
 {% include image.html url="/images/5SSB0-banner.png" width="900" align="left" %}
 
-
 In this course, using fundamental concepts of probability theory, we
 present an introduction to the design of adaptive information processing
 systems. This course extends coursework on adaptive signal processing and can also be taken as an introduction to **machine learning** and **data science**. Typical application areas include pattern
@@ -17,8 +16,6 @@ In the 2015/16 academic year, this class is taught in semester B (3rd quarter) a
 
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
-
-
 
 ## Materials
 
@@ -48,6 +45,8 @@ Markov models and various latent component analysis models. Furthermore, we deri
 - [13- Dynamic Latent Variable Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/13_dynamic_latent_variable_models/Dynamic-Latent-Variable-Models.ipynb)
 - [14- EM as a Message Passing Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/14_EM_as_message_passing/EM-as-Message-Passing.ipynb)
 
+- Code examples in the lecture notes are in the [Julia](http://julialang.org/) language, which is syntactically similar to MATLAB. In order to run the code examples straight in the browser, you will need to run the lecture notes files in a [Jupyter](http://jupyter.org/) notebook. We recommend that you run the cloud-based [JuliaBox](https://www.juliabox.org/) service to run Jupyter notebooks. Please see [these instructions](https://github.com/bertdv/AIP-5SSB0) (scroll to down to the README) if you want to run the lecture notes in JuliaBox.     
+
 ### Part 2: Model Complexity Control and the MDL Principle
 
 - Instructor: [Dr.ir. Tjalling J. Tjalkens](https://www.tue.nl/en/university/departments/electrical-engineering/department/staff/detail/ep/e/d/ep-uid/19830719/)
@@ -63,7 +62,7 @@ used to _select_ appropriate models. The lessons are structured as follows:
 
 ## Exam Preparation
 
-- Each year there will be two written exam opportunities. Check the official [TUE course site](http://education.tue.nl/Activiteiten/Pages/Informatie.aspx?coursecode=5SSB0&educationyear=2015) for exam dates
+- Each year there will be two written exam opportunities. Check the official [TUE course site](http://education.tue.nl/Activiteiten/Pages/Informatie.aspx?coursecode=5SSB0&educationyear=2015) for exam dates.
 - In preparation for the exam, we recommend that you work through the following exercises and old exams:
   * [exercises for part 1](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-1.pdf); [same with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-1-with-solutions.pdf)
   * [exercises for part 2](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-2.pdf); [same with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-2-hints.pdf)
