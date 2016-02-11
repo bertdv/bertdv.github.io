@@ -17,6 +17,8 @@ In the 2015/16 academic year, this class is taught in semester B (3rd quarter) a
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
 
+- <span style="color:red">11-Feb-2016:</span> A PDF bundle of all classes for part-1 is now available at [this link](https://www.dropbox.com/s/qaffbkaohhwb19t/AIP-5SSB0.pdf?dl=0). This is a draft version. The final version will be made available after the final class of part-1 (early March 2016).
+-
 ## Materials
 
 - In principle, you can download all needed materials from this site. We strongly recommend that you acquire the following text book: [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm ) (Springer, 2006) by [Christopher M. Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).  Try to get the book before classes start.
