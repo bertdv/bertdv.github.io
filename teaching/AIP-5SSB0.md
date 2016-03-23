@@ -17,9 +17,10 @@ In the 2015/16 academic year, this class is taught in semester B (3rd quarter) a
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
 
+- <span style="color:red">23-Mar-2016:</span> Added notes on [Markov structures and summary of essential content](https://www.dropbox.com/s/i54rxgv2iiqu2qy/summary-beamer.pdf?dl=0) by Tjalling Tjalkens.
 - <span style="color:red">2-Mar-2016:</span> Added [Information Theory notes](https://www.dropbox.com/s/goqcvh4b4kywvgj/combined-article.pdf?dl=0) by Tjalling Tjalkens.
 - <span style="color:red">2-Mar-2016:</span> **Notification**: For part-1, only lessons 1-13 will be examined.
-- <span style="color:red">11-Feb-2016:</span> A PDF bundle of all classes for part-1 is now available at [this link](https://www.dropbox.com/s/qaffbkaohhwb19t/AIP-5SSB0.pdf?dl=0). This is a draft version. The final version will be made available after the final class of part-1 (early March 2016).
+- <span style="color:red">11-Feb-2016:</span> A PDF bundle of all classes for part-1 is now available at [this link](https://www.dropbox.com/s/qaffbkaohhwb19t/AIP-5SSB0.pdf?dl=0). This is **now a FINAL version**.
 
 
 ## Materials
