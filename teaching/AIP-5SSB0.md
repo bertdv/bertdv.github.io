@@ -65,6 +65,7 @@ used to _select_ appropriate models. The lessons are structured as follows:
 
 - [Click here to view or download the lecture notes for part-2](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20%20-%20part-2%20-%20slides4.pdf).       
 - Background on [information theory](https://www.dropbox.com/s/goqcvh4b4kywvgj/combined-article.pdf?dl=0).
+- [Markov structures and summary of essential content](https://www.dropbox.com/s/i54rxgv2iiqu2qy/summary-beamer.pdf?dl=0)
 
 ## Exam Preparation
 
