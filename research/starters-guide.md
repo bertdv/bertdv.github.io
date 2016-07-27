@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Starter's Guide for students at SPSbrats research team"
+title: "Starter's Guide for students at BIASlab research team"
 permalink: /research/starters-guide/
 ---
 
-This document is a starter's guide for students who do an internship or graduate level (M.Sc., Ph.D.) project with [me](http://bertdv.nl). For the duration of your project you will become part of our **SPSbrats** team of graduate students. I discuss here our research mission, our way of working, the tools we use and provide some links to key scientific papers that relate to our research. This guide is always a work in progress and each project will have its own goals and dynamics. Still, generally speaking, I would appreciate if you have a look at the links and think about the issues that I raise here. Talk to me when you have questions or ideas to improve this document.
+This document is a starter's guide for students who do an internship or graduate level (M.Sc., Ph.D.) project with [me](http://bertdv.nl). For the duration of your project you will become part of our [**BIASlab** team of graduate students](http://biaslab.org). I discuss here our research mission, our way of working, the tools we use and provide some links to key scientific papers that relate to our research. This guide is always a work in progress and each project will have its own goals and dynamics. Still, generally speaking, I would appreciate if you have a look at the links and think about the issues that I raise here. Talk to me when you have questions or ideas to improve this document.
 
 ## Research
 
@@ -25,13 +25,13 @@ I will generally ask you to work on problems that I have not solved myself and y
 
 Your project will likely be embedded as a building block in our research plan. I expect a **professional attitude** which includes that you conduct yourself as a **team player**. Be aware that this is _your_ project so _you_ are responsible for keeping an eye on departmental regulations and deadlines. Stick to deadlines and promises or inform me ahead of time when plans cannot be maintained.
 
-If you are an M.Sc.-EE student at TU/e, then you should be familiar with the [education guide](https://static.tue.nl/uploads/media/Opleidingsgids_Master_17.pdf) of the Electrical Engineering department. In particular, take note that your final evaluation will be based on the following criteria:
+If you are an M.Sc.-EE student at TU/e, then you should be familiar with the graduation project requirements as listed in the [education guide](https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering/curriculum/graduation-project/) of the Electrical Engineering department. In particular, take note that your final evaluation will be based on the following criteria:
 
 1. Understanding own specialization (25%)
   - You should (strive to) have a deep understanding of the field/topic that you work on. A good way to get feedback on this goal is to explain to others what you work on.
 1. Research skills (25%)
   - It's not enough to be smart and walk around commenting on the world around you. You should also 'get things done'. Essentially, this issue is about your skills to navigate through your project by posing the right research questions (see the comments above on methodology).
-1. Dedication (25%)
+1. Execution (25%)
   - This issue is about professionalism. You need to adhere to strict principles of academic honesty and contribute to technical discussions in the team. Your technical opinion is always appreciated but play the ball, not the person.
 1. Reporting (written 12.5%, oral 12.5%)
   - All your ideas are worth nothing to society if they remain locked up inside your head. As an engineer, you must communicate your ideas well, both to technical and more general audiences.
@@ -78,7 +78,7 @@ The project's final report should be written in [LaTeX](http://www.latex-project
 ### Zotero
 
 {% include image.html url="/images/zotero-logo.png" width=100 align="left" %}
-After you join the spsbrats team you will also get access to our literature collection that we store online in a  [Zotero](https://www.zotero.org/) repository. This will help you get an overview of all relevant papers in our field.
+After you join the BIASlab team you will also get access to our literature collection that we store online in a  [Zotero](https://www.zotero.org/) repository. This will help you get an overview of all relevant papers in our field.
 
 <br />
 
