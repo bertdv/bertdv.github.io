@@ -136,7 +136,7 @@ In principle, you are not required to prepare anything before your project start
 
 - If you want to see how we have used factor graphs in one of our projects, here is a [recent MSc thesis](https://www.dropbox.com/s/znir6dfzfgnmn3g/Duijkers%20-%202014%20MSc%20Thesis%20-%20A%20Factor%20Graph%20Approach%20to%20Hearing%20Loss%20Compensation.pdf?dl=0) from one of my graduate students. No need to read this in detail, but it is an example of what we do.
 
-- You could also get started in Julia if you like. See the ['learning' site at julialang.org](http://julialang.org/learning/) . You can get started to program in julia e.g. at [JuliaBox](https://www.juliabox.org/), or you can [install Julia yourself](http://julialang.org/).
+- You could also get started in Julia if you like. See the ['learning' site at julialang.org](http://julialang.org/learning/) . You can get started to program in julia e.g. at [JuliaBox](https://www.juliabox.com/), or you can [install Julia yourself](http://julialang.org/).
 
 - Finally, our research focuses more on machine learning methods than audio processing per se, but [Hamacher et al., 2005](http://asp.eurasipjournals.com/content/pdf/1687-6180-2005-152674.pdf "Hamacher at al, Signal Processing in High-End Hearing Aids: State of the Art, Challenges, and Future Trends, 2005") would be a good place to read up on hearing aid signal processing.
 
