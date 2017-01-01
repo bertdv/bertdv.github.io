@@ -1,0 +1,776 @@
+local utilitydata = { }
+
+utilitydata.comment={
+ ["escape"]="[===[ ... ]===]",
+ ["file"]="bdevries-cv",
+ ["format"]="cont-en",
+ ["stamp"]="2013.05.28 00:36",
+ ["version"]=1.22,
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_variables = utilitydata_job.variables if not utilitydata_job_variables then utilitydata_job_variables = { } utilitydata_job.variables = utilitydata_job_variables end
+
+utilitydata_job_variables.checksums={
+ ["new"]="22AF645D1859CB5CA6DA0C484F1F37EA",
+ ["old"]="149603E6C03516362A8DA23F624DB945",
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_variables = utilitydata_job.variables if not utilitydata_job_variables then utilitydata_job_variables = { } utilitydata_job.variables = utilitydata_job_variables end
+
+utilitydata_job_variables.collected={
+ ["randomseed"]=0.86172578617079,
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_passes = utilitydata_job.passes if not utilitydata_job_passes then utilitydata_job_passes = { } utilitydata_job.passes = utilitydata_job_passes end
+
+utilitydata_job_passes.collected={
+ ["itemgroup"]={
+  { 4, "0" },
+  { 3, "0" },
+  { 5, "0" },
+  { 1, "0" },
+  { 5, "0" },
+  { 24, "0" },
+  { 10, "0" },
+  { 5, "0" },
+  { 3, "0" },
+  { 26, "0" },
+  { 5, "0" },
+  { 1, "0" },
+  { 12, "0" },
+  { 19, "0" },
+  { 1, "0" },
+  { 57, "0" },
+ },
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_datasets = utilitydata_job.datasets if not utilitydata_job_datasets then utilitydata_job_datasets = { } utilitydata_job.datasets = utilitydata_job_datasets end
+
+utilitydata_job_datasets.collected={
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_pagestates = utilitydata_job.pagestates if not utilitydata_job_pagestates then utilitydata_job_pagestates = { } utilitydata_job.pagestates = utilitydata_job_pagestates end
+
+utilitydata_job_pagestates.collected={
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_structure = utilitydata_job.structure if not utilitydata_job_structure then utilitydata_job_structure = { } utilitydata_job.structure = utilitydata_job_structure end
+
+utilitydata_job_structure.collected={
+ ["branches"]={},
+ ["name"]="bdevries-cv",
+ ["type"]="text",
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_specials = utilitydata_structures.specials if not utilitydata_structures_specials then utilitydata_structures_specials = { } utilitydata_structures.specials = utilitydata_structures_specials end
+
+utilitydata_structures_specials.collected={
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_counters = utilitydata_structures.counters if not utilitydata_structures_counters then utilitydata_structures_counters = { } utilitydata_structures.counters = utilitydata_structures_counters end
+
+utilitydata_structures_counters.collected={
+ ["chemical"]={
+  { 0 },
+ },
+ ["combination"]={
+  { 0 },
+ },
+ ["endnote"]={
+  { 0 },
+ },
+ ["figure"]={
+  { 0 },
+ },
+ ["footnote"]={
+  { 0 },
+ },
+ ["formula"]={
+  { 0 },
+ },
+ ["graphic"]={
+  { 0 },
+ },
+ ["intermezzo"]={
+  { 0 },
+ },
+ ["itemgroup:itemize"]={
+  { 0, 4, 3, 5, 1, 5, 24, 10, 5, 3, 26, 5, 1, 12, 19, 1, 57 },
+ },
+ ["linenote"]={
+  { 0 },
+ },
+ ["paragraph"]={
+  { 0 },
+ },
+ ["realpage"]={
+  { 10 },
+ },
+ ["subpage"]={
+  { 0 },
+ },
+ ["table"]={
+  { 0 },
+ },
+ ["userpage"]={
+  { 10 },
+ },
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_lists = utilitydata_structures.lists if not utilitydata_structures_lists then utilitydata_structures_lists = { } utilitydata_structures.lists = utilitydata_structures_lists end
+
+utilitydata_structures_lists.collected={
+ {
+  ["metadata"]=1,
+  ["numberdata"]=3,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=1,
+   ["realpage"]=1,
+   ["reference"]="principal-interests",
+   ["section"]=1,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Principal Interests",
+  },
+ },
+ {
+  ["metadata"]=1,
+  ["numberdata"]=5,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=2,
+   ["realpage"]=1,
+   ["reference"]="academic-background",
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Academic Background",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=3,
+   ["order"]=1,
+   ["realpage"]=1,
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["title"]="1999",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=4,
+   ["order"]=2,
+   ["realpage"]=1,
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["title"]="1986",
+  },
+ },
+ {
+  ["metadata"]=1,
+  ["numberdata"]=8,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=5,
+   ["realpage"]=1,
+   ["reference"]="employment-history",
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Employment History",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=6,
+   ["order"]=3,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="2012-pres.",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=7,
+   ["order"]=4,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="1999-pres.",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=8,
+   ["order"]=5,
+   ["realpage"]=2,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="1992-'99",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=9,
+   ["order"]=6,
+   ["realpage"]=2,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="1987-'91",
+  },
+ },
+ {
+  ["metadata"]=1,
+  ["numberdata"]=10,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=10,
+   ["realpage"]=2,
+   ["reference"]="special-achievements",
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Special Achievements",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=13,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=11,
+   ["realpage"]=2,
+   ["reference"]="awards",
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Awards",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=15,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=12,
+   ["realpage"]=2,
+   ["reference"]="invited-lectures-selection",
+   ["section"]=6,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Invited Lectures (selection)",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=17,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=13,
+   ["realpage"]=3,
+   ["reference"]="professional-activities-selection",
+   ["section"]=7,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Professional Activities (selection)",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=19,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=14,
+   ["realpage"]=3,
+   ["reference"]="refereed-publications",
+   ["section"]=8,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Refereed Publications",
+  },
+ },
+ {
+  ["metadata"]=1,
+  ["numberdata"]=21,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=15,
+   ["realpage"]=4,
+   ["reference"]="activities-at-eindhoven-univ.-of-technology-tue",
+   ["section"]=9,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Activities at Eindhoven Univ. of Technology (TU/e)",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=23,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=16,
+   ["realpage"]=4,
+   ["reference"]="research-funding",
+   ["section"]=10,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Research Funding",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=25,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=17,
+   ["realpage"]=4,
+   ["reference"]="teaching",
+   ["section"]=11,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Teaching",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=27,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=18,
+   ["realpage"]=4,
+   ["reference"]="student-supervision",
+   ["section"]=12,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Student Supervision",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=29,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=19,
+   ["realpage"]=5,
+   ["reference"]="member-of-ph.d.committee",
+   ["section"]=13,
+  },
+  ["titledata"]={
+   ["bookmark"]="Member of Ph.D. Committee",
+   ["label"]="subsubsection",
+   ["title"]="Member of Ph.D.~Committee",
+  },
+ },
+ {
+  ["metadata"]=1,
+  ["numberdata"]=31,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=20,
+   ["realpage"]=5,
+   ["reference"]="publications",
+   ["section"]=14,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Publications",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=33,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=21,
+   ["realpage"]=5,
+   ["reference"]="journal-articles-and-book-chapters",
+   ["section"]=15,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Journal Articles and Book Chapters",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=35,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=22,
+   ["realpage"]=6,
+   ["reference"]="patents",
+   ["section"]=16,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Patents",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=37,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=23,
+   ["realpage"]=7,
+   ["reference"]="professional-interviews",
+   ["section"]=17,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Professional Interviews",
+  },
+ },
+ {
+  ["metadata"]=11,
+  ["numberdata"]=39,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=24,
+   ["realpage"]=7,
+   ["reference"]="conferences-and-workshops",
+   ["section"]=18,
+  },
+  ["titledata"]={
+   ["label"]="subsubsection",
+   ["title"]="Conferences and Workshops",
+  },
+ },
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_pages = utilitydata_structures.pages if not utilitydata_structures_pages then utilitydata_structures_pages = { } utilitydata_structures.pages = utilitydata_structures_pages end
+
+utilitydata_structures_pages.collected={
+ {
+  ["block"]="bodypart",
+  ["number"]=1,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=2,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=3,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=4,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=5,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=6,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=7,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=8,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=9,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+ {
+  ["block"]="bodypart",
+  ["number"]=10,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+ },
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_references = utilitydata_structures.references if not utilitydata_structures_references then utilitydata_structures_references = { } utilitydata_structures.references = utilitydata_structures_references end
+
+utilitydata_structures_references.collected={
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_references = utilitydata_structures.references if not utilitydata_structures_references then utilitydata_structures_references = { } utilitydata_structures.references = utilitydata_structures_references end
+
+utilitydata_structures_references.referred={
+ { 1, 1 },
+ { 2, 10 },
+ { 3, 14 },
+ { 4, 15 },
+ { 4, 19 },
+ { 5, 30 },
+ { 6, 37 },
+ { 7, 40 },
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_registers = utilitydata_structures.registers if not utilitydata_structures_registers then utilitydata_structures_registers = { } utilitydata_structures.registers = utilitydata_structures_registers end
+
+utilitydata_structures_registers.collected={
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_positions = utilitydata_job.positions if not utilitydata_job_positions then utilitydata_job_positions = { } utilitydata_job.positions = utilitydata_job_positions end
+
+utilitydata_job_positions.collected={
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_objects = utilitydata_job.objects if not utilitydata_job_objects then utilitydata_job_objects = { } utilitydata_job.objects = utilitydata_job_objects end
+
+utilitydata_job_objects.collected={
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_synonyms = utilitydata_structures.synonyms if not utilitydata_structures_synonyms then utilitydata_structures_synonyms = { } utilitydata_structures.synonyms = utilitydata_structures_synonyms end
+
+utilitydata_structures_synonyms.collected={
+}
+
+local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
+local utilitydata_structures_blocks = utilitydata_structures.blocks if not utilitydata_structures_blocks then utilitydata_structures_blocks = { } utilitydata_structures.blocks = utilitydata_structures_blocks end
+
+utilitydata_structures_blocks.collected={
+}
+
+local utilitydata_job = utilitydata.job if not utilitydata_job then utilitydata_job = { } utilitydata.job = utilitydata_job end
+local utilitydata_job_files = utilitydata_job.files if not utilitydata_job_files then utilitydata_job_files = { } utilitydata_job.files = utilitydata_job_files end
+
+utilitydata_job_files.collected={
+}
+
+utilitydata.job.packed={
+ ["index"]={
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["increment"]="yes",
+   ["kind"]="section",
+   ["name"]="subsection",
+  },
+  { 0, 0, 0, 1 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=2,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 2 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=4,
+   ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["kind"]="construction",
+   ["level"]=4,
+   ["name"]="description",
+  },
+  { 0, 0, 0, 3 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=7,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 4 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=9,
+   ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["coding"]="tex",
+   ["increment"]="yes",
+   ["kind"]="section",
+   ["name"]="subsubsection",
+  },
+  { 0, 0, 0, 4, 1 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=12,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 4, 2 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=14,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 4, 3 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=16,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 4, 4 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=18,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 5 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=20,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 5, 1 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=22,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 5, 2 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=24,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 5, 3 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=26,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 5, 4 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=28,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 6 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=30,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 6, 1 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=32,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 6, 2 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=34,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 6, 3 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=36,
+   ["set"]="all",
+  },
+  { 0, 0, 0, 6, 4 },
+  {
+   ["block"]="bodypart",
+   ["hidenumber"]=true,
+   ["numbers"]=38,
+   ["set"]="all",
+  },
+  {
+   ["conversionset"]="pagenumber",
+  },
+  {
+   ["connector"]="–",
+   ["prefix"]="no",
+   ["set"]="part",
+  },
+ },
+ ["keys"]={
+  ["directives"]=true,
+  ["metadata"]=true,
+  ["numberdata"]=true,
+  ["numbers"]=true,
+  ["pagedata"]=true,
+  ["prefixdata"]=true,
+  ["processors"]=true,
+  ["sectiondata"]=true,
+  ["specification"]=true,
+ },
+ ["version"]=1.02,
+}
+
+return utilitydata
