@@ -65,21 +65,21 @@ used to _select_ appropriate models. The lessons are structured as follows:
 - Part 2C: Descriptive complexity
 
 - [Click here to view or download the lecture notes for part-2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/alltext4.pdf?dl=0).
-- Background on [information theory](https://www.dropbox.com/s/goqcvh4b4kywvgj/combined-article.pdf?dl=0).
-- [Markov structures and summary of essential content](https://www.dropbox.com/s/i54rxgv2iiqu2qy/summary-beamer.pdf?dl=0)
+- Background on [information theory](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/combined-article.pdf?dl=0).
+- [Markov structures and summary of essential content](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/summary-beamer.pdf?dl=0)
 
 ## Exam Preparation
 
 - Each year there will be two written exam opportunities. Check the official [TUE course site](http://education.tue.nl/Activiteiten/Pages/Informatie.aspx?coursecode=5SSB0&educationyear=2016) for exam dates.
 - In preparation for the exam, we recommend that you work through the following exercises and old exams:
-  * [exercises for part 1](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-1.pdf); [same with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-1-with-solutions.pdf)
-  * [exercises for part 2](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-2.pdf); [same with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-exercises-part-2-hints.pdf)
-  * [exam 2010/06/24](https://dl.dropboxusercontent.com/u/4512522/5mb20/100624-5mb20-exam.pdf); [with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/100624-5mb20-exam-with-solutions.pdf)
-  * [exam 2011/04/14](https://dl.dropboxusercontent.com/u/4512522/5mb20/110414-5mb20-exam.pdf); [with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/110414-5mb20-exam-with-solutions.pdf)
-  * [exam 2011/06/20](https://dl.dropboxusercontent.com/u/4512522/5mb20/110620-5MB20-exam.pdf); [with solutions](https://dl.dropboxusercontent.com/u/4512522/5mb20/110620-5MB20-exam-with-solutions.pdf)
+  * [exercises for part 1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1.pdf); [same with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1-with-solutions.pdf)
+  * [exercises for part 2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-2.pdf); [same with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-2-hints.pdf)
+  * [exam 2011/04/14](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/110414-5mb20-exam.pdf); [with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/110414-5mb20-exam-with-solutions.pdf)
+  * [exam 2011/06/20](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/110620-5MB20-exam.pdf); [with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/110620-5MB20-exam-with-solutions.pdf)
+  * [exam 2016/04/15](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/160415-5mb20-5SSB0-exam.pdf); [with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/160415-5mb20-5SSB0-exam-with-solutions.pdf)
 - Please feel free to consult the following matrix and Gaussian cheat sheets (by Sam Roweis) when making exercises.
-  * [Gaussian Identities](https://dl.dropboxusercontent.com/u/4512522/5mb20/Roweis-gaussian-identities.pdf)
-  * [Matrix Identities](https://dl.dropboxusercontent.com/u/4512522/5mb20/Roweis-matrix-identities.pdf)
+  * [Gaussian Identities](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/RoweisS-gaussian_formulas.pdf?dl=0)
+  * [Matrix Identities](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/RoweisS-matrix_identities.pdf?dl=0)
 - Note however that **you cannot bring notes or books to the exam. All needed formulas are supplied at the exam sheet**.
 
 ## Video
@@ -94,7 +94,7 @@ follow the class only from video.
 - **Prerequisites**: Mathematical maturity equivalent to undergraduate engineering program.
 Some MATLAB programming skills are helpful.
 
-- This course replaces the 3-ECTS course **5MB20-Adaptive Information Processing**, which was taught between 2005-2014. The new course 5SSB0 is a 5-ECTS course and while the contents are similar to 5MB20, some lessons have been extended with new materials. The slide materials for [5MB20 for the academic year 2014/15 are still available here](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-part-1-slides-all.pdf).
+- This course replaces the 3-ECTS course **5MB20-Adaptive Information Processing**, which was taught between 2005-2014. The new course 5SSB0 is a 5-ECTS course and while the contents are similar to 5MB20, some lessons have been extended with new materials. The slide materials for [5MB20 for the academic year 2014/15 are still available here](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/5MB20-part-1-slides-all.pdf?dl=0).
 
 - You're advised to bring the lecture notes (either in soft- or hardcopy) with you to class in order to add your personal comments.
 
