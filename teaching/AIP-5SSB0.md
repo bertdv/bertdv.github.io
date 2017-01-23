@@ -19,7 +19,7 @@ In the 2016/17 academic year, this class is taught in semester B (3rd quarter) a
 
 <!--
 - <span style="color:red">2-Mar-2016:</span> **Notification**: For part-1, only lessons 1-13 will be examined.
---> 
+-->
 
 ## Materials
 
@@ -49,9 +49,9 @@ Markov models and various latent component analysis models. Furthermore, we deri
 - [13- Dynamic Latent Variable Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/13_dynamic_latent_variable_models/Dynamic-Latent-Variable-Models.ipynb)
 - [14- EM as a Message Passing Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/14_EM_as_message_passing/EM-as-Message-Passing.ipynb) (this lesson not at exam!)
 
-- Here is a [PDF bundle of all classes for part-1](https://www.dropbox.com/s/qaffbkaohhwb19t/AIP-5SSB0.pdf?dl=0). The lecture notes may change a bit during the course, e.g., to process comments by students. A final PDF version will be posted after the last lecture.
- 
-- Code examples in the lecture notes are in the [Julia](http://julialang.org/) language, which is syntactically similar to MATLAB. In order to run the code examples straight in the browser, you will need to run the lecture notes files in a [Jupyter](http://jupyter.org/) notebook. We recommend that you run the cloud-based [JuliaBox](https://www.juliabox.org/) service to run Jupyter notebooks. Please see [these instructions](https://github.com/bertdv/AIP-5SSB0) (scroll to down to the README) if you want to run the lecture notes in JuliaBox.     
+- Here is a [PDF bundle of all classes for part-1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/AIP-5SSB0-part-1-lectures-booklet.pdf?dl=0). The lecture notes may change a bit during the course, e.g., to process comments by students. A final PDF version will be posted after the last lecture.
+
+- Code examples in the lecture notes are in the [Julia](http://julialang.org/) language, which is syntactically similar to MATLAB. In order to run the code examples straight in the browser, you will need to run the lecture notes files in a [Jupyter](http://jupyter.org/) notebook. We recommend that you run the cloud-based [JuliaBox](https://www.juliabox.org/) service to run Jupyter notebooks. Please see [these instructions](https://github.com/bertdv/AIP-5SSB0) (scroll to down to the README) if you want to run the lecture notes in JuliaBox.
 
 ### Part 2: Model Complexity Control and the MDL Principle
 
@@ -64,7 +64,7 @@ used to _select_ appropriate models. The lessons are structured as follows:
 - Part 2B: Bayesian model estimation and Context-tree model selection
 - Part 2C: Descriptive complexity
 
-- [Click here to view or download the lecture notes for part-2](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20%20-%20part-2%20-%20slides4.pdf).       
+- [Click here to view or download the lecture notes for part-2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/alltext4.pdf?dl=0).
 - Background on [information theory](https://www.dropbox.com/s/goqcvh4b4kywvgj/combined-article.pdf?dl=0).
 - [Markov structures and summary of essential content](https://www.dropbox.com/s/i54rxgv2iiqu2qy/summary-beamer.pdf?dl=0)
 
@@ -94,7 +94,7 @@ follow the class only from video.
 - **Prerequisites**: Mathematical maturity equivalent to undergraduate engineering program.
 Some MATLAB programming skills are helpful.
 
-- This course replaces the 3-ECTS course **5MB20-Adaptive Information Processing**, which was taught between 2005-2014. The new course 5SSB0 is a 5-ECTS course and while the contents are similar to 5MB20, some lessons have been extended with new materials. The slide materials for [5MB20 for the academic year 2014/15 are still available here](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-part-1-slides-all.pdf). 
+- This course replaces the 3-ECTS course **5MB20-Adaptive Information Processing**, which was taught between 2005-2014. The new course 5SSB0 is a 5-ECTS course and while the contents are similar to 5MB20, some lessons have been extended with new materials. The slide materials for [5MB20 for the academic year 2014/15 are still available here](https://dl.dropboxusercontent.com/u/4512522/5mb20/5MB20-part-1-slides-all.pdf).
 
 - You're advised to bring the lecture notes (either in soft- or hardcopy) with you to class in order to add your personal comments.
 
