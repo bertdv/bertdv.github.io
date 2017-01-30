@@ -49,9 +49,11 @@ Markov models and various latent component analysis models. Furthermore, we deri
 - [13- Dynamic Latent Variable Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/13_dynamic_latent_variable_models/Dynamic-Latent-Variable-Models.ipynb)
 - [14- EM as a Message Passing Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/14_EM_as_message_passing/EM-as-Message-Passing.ipynb) (this lesson not at exam!)
 
+- The [source files for these lecture notes are accessible at github](https://github.com/bertdv/AIP-5SSB0). If you catch an error or if you have a specific update request, please [file a github issue](https://github.com/bertdv/AIP-5SSB0/issues/new). 
+
 - Here is a [PDF bundle of all classes for part-1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/AIP-5SSB0-part-1-lectures-booklet.pdf?dl=0). The lecture notes may change a bit during the course, e.g., to process comments by students. A final PDF version will be posted after the last lecture.
 
-- Code examples in the lecture notes are in the [Julia](http://julialang.org/) language, which is syntactically similar to MATLAB. In order to run the code examples straight in the browser, you will need to run the lecture notes files in a [Jupyter](http://jupyter.org/) notebook. We recommend that you run the cloud-based [JuliaBox](https://www.juliabox.org/) service to run Jupyter notebooks. Please see [these instructions](https://github.com/bertdv/AIP-5SSB0) (scroll to down to the README) if you want to run the lecture notes in JuliaBox.
+- Code examples in the lecture notes are in the [Julia](http://julialang.org/) language, which is syntactically similar to MATLAB. In order to run the code examples straight in the browser, you will need to run the lecture notes files in a [Jupyter](http://jupyter.org/) notebook. We recommend that you run the cloud-based [JuliaBox](https://www.juliabox.com/) service to run Jupyter notebooks. Please see [these instructions](https://github.com/bertdv/AIP-5SSB0) (scroll to down to the README) if you want to run the lecture notes in JuliaBox.
 
 ### Part 2: Model Complexity Control and the MDL Principle
 
