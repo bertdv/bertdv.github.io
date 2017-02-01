@@ -1,79 +1,80 @@
-(/usr/share/texmf/tex/context/base/cont-yes.mkiv
+open source     > 1 > 1 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
 
-ConTeXt  ver: 2013.05.28 00:36 MKIV current  fmt: 2015.8.19  int: english/english
+ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2017.2.1  int: english/english
 
 system          > 'cont-new.mkiv' loaded
-(/usr/share/texmf/tex/context/base/cont-new.mkiv)
+open source     > 2 > 2 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
+close source    > 2 > 2 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
 system          > files > jobname 'bdevries-cv', input './bdevries-cv', result 'bdevries-cv'
 fonts           > latin modern fonts are not preloaded
 languages       > language 'en' is active
-(/home/bert/Dropbox/Public/cv/bdevries-cv.tex
+open source     > 2 > 3 > /Users/bert/github/bertdv/bertdv.github.io/cv/bdevries-cv.tex
 colors          > defining > unknown library 'hex'
-fonts           > typescripts > unknown library 'loc'
-(/usr/share/texmf/tex/context/base/type-imp-texgyre.mkiv){/usr/share/texmf/fonts/map/dvips/lm/lm-math.map}{/usr/share/texmf/fonts/map/dvips/lm/lm-rm.map}{/usr/share/texmf/fonts/map/pdftex/context/mkiv-base.map}
+open source     > 3 > 4 > /usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv
+close source    > 3 > 4 > /usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv
 structure       > sectioning > subsection @ level 4 : 0.0.0.1 -> Principal Interests
 structure       > sectioning > subsection @ level 4 : 0.0.0.2 -> Academic Background
 structure       > sectioning > subsection @ level 4 : 0.0.0.3 -> Employment History
 
-Overfull \hbox (2.22954pt too wide) in paragraph at lines 148--151
- [][]\3>helvetica-11pt-ss-bf-0--0 Prin-ci-pal Sci-en-tist\3>helvetica-11pt-ss-tf-0--0 , \3>helvetica-11pt-ss-bf-0--0 GN Re-Sound \3>helvetica-11pt-ss-tf-0--0 (Philips Hear-ing Tech-nolo-gies un-til 2001), Eind-
+Overfull \hbox (2.22954pt too wide) in paragraph at lines 147--150
+ []\3>helvetica-11pt-ss-bf-0--0 Prin-ci-pal Sci-en-tist\3>helvetica-11pt-ss-tf-0--0 , \3>helvetica-11pt-ss-bf-0--0 GN Re-Sound \3>helvetica-11pt-ss-tf-0--0 (Philips Hear-ing Tech-nolo-gies un-til 2001), Eind-
 
-\hbox(11.62029+4.51895)x483.69687, glue set - 1.0, direction TLT
+\hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
 .\glue(\leftskip) 91.0488
-.\whatsit
+.\localpar
 ..\localinterlinepenalty=0
 ..\localbrokenpenalty=0
 ..\localleftbox=null
 ..\localrightbox=null
-.\hbox(11.62029+4.51895)x0.0, glue set - 91.0488fil, direction TLT
+.\hbox(11.62027+4.51897)x0.0, glue set - 91.0488fil, direction TLT
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-..\hbox(11.62029+4.51895)x91.0488, direction TLT
-...\hbox(11.62029+4.51895)x91.0488, glue set 39.83385fil, direction TLT []
+..\hbox(11.62027+4.51897)x91.0488, direction TLT
+...\hbox(11.62027+4.51897)x91.0488, glue set 39.83385fil, direction TLT []
+.\penalty 10000
 .\3>helvetica-11pt-ss-bf-0--0 P
-.\3>helvetica-11pt-ss-bf-0--0 r
 .etc.
 
-backend         > xmp > using file '/usr/share/texmf/tex/context/base/lpdf-pdx.xml'
+backend         > xmp > using file '/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1
 structure       > sectioning > subsection @ level 4 : 0.0.0.4 -> Special Achievements
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.4.1 -> Awards
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.4.2 -> Invited Lectures (selection)
 
-Overfull \hbox (9.36499pt too wide) in paragraph at lines 239--242
- [][][][] \3>helvetica-11pt-ss-tf-0--0 Keynote lec-ture on [] []“  The Fu-ture of Hear-ing Aid per-son-al-iza-tion []  ”, Cochlear/Re-Sound Event, Sep.2016 
+Overfull \hbox (9.41998pt too wide) in paragraph at lines 238--241
+ [][][] \3>helvetica-11pt-ss-tf-0--0 Keynote lec-ture on [][]“ The Fu-ture of Hear-ing Aid per-son-al-iza-tion[]”, Cochlear/Re-Sound Event, Sep.2016 
 
-\hbox(11.62029+4.51895)x483.69687, glue set - 1.0, direction TLT
+\hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
 .\glue(\leftskip) 16.5
-.\whatsit
+.\localpar
 ..\localinterlinepenalty=0
 ..\localbrokenpenalty=0
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\hbox(11.62029+4.51895)x0.0, glue set - 16.5fil, direction TLT
+.\hbox(11.62027+4.51897)x0.0, glue set - 16.5fil, direction TLT
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-..\hbox(11.62029+4.51895)x16.5, direction TLT
-...\hbox(11.62029+4.51895)x16.5, glue set 10.17503fil, direction TLT []
-.\hbox(11.62029+4.51895)x0.0, direction TLT
+..\hbox(11.62027+4.51897)x16.5, direction TLT
+...\hbox(11.62027+4.51897)x16.5, glue set 10.17503fil, direction TLT []
+.\hbox(11.62027+4.51897)x0.0, direction TLT
 .etc.
 
 
-Overfull \hbox (0.50847pt too wide) in paragraph at lines 250--253
- [][][][] \3>helvetica-11pt-ss-tf-0--0 Rad-boud Uni-ver-sity Ni-jmegen, [] []“  Prob-a-bilis-tic Hear-ing Loss Com-pen-sa-tion []  ”, Ni-jmegen, March 2015 
+Overfull \hbox (0.56346pt too wide) in paragraph at lines 249--252
+ [][][] \3>helvetica-11pt-ss-tf-0--0 Rad-boud Uni-ver-sity Ni-jmegen, [][]“ Prob-a-bilis-tic Hear-ing Loss Com-pen-sa-tion[]”, Ni-jmegen, March 2015 
 
-\hbox(11.62029+4.51895)x483.69687, glue set - 1.0, direction TLT
+\hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
 .\glue(\leftskip) 16.5
-.\whatsit
+.\localpar
 ..\localinterlinepenalty=0
 ..\localbrokenpenalty=0
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\hbox(11.62029+4.51895)x0.0, glue set - 16.5fil, direction TLT
+.\hbox(11.62027+4.51897)x0.0, glue set - 16.5fil, direction TLT
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-..\hbox(11.62029+4.51895)x16.5, direction TLT
-...\hbox(11.62029+4.51895)x16.5, glue set 10.17503fil, direction TLT []
-.\hbox(11.62029+4.51895)x0.0, direction TLT
+..\hbox(11.62027+4.51897)x16.5, direction TLT
+...\hbox(11.62027+4.51897)x16.5, glue set 10.17503fil, direction TLT []
+.\hbox(11.62027+4.51897)x0.0, direction TLT
 .etc.
 
 pages           > flushing realpage 2, userpage 2
@@ -85,22 +86,22 @@ structure       > sectioning > subsubsection @ level 5 : 0.0.0.5.1 -> Research F
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.5.2 -> Teaching
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.5.3 -> Student Supervision
 
-Overfull \hbox (2.32315pt too wide) in paragraph at lines 460--465
- [][][][] \3>helvetica-11pt-ss-tf-0--0 8/2013, Timur Bagaut-di-nov, M.Sc. the-sis project, \3>helvetica-11pt-ss-bs-0--0 A Ma-chine Learn-ing Frame-work for Bayesian
+Overfull \hbox (2.21317pt too wide) in paragraph at lines 459--464
+ [][][] \3>helvetica-11pt-ss-tf-0--0 8/2013, Timur Bagaut-di-nov, M.Sc. the-sis project, \3>helvetica-11pt-ss-bs-0--0 A Ma-chine Learn-ing Frame-work for Bayesian
 
-\hbox(11.62029+4.51895)x483.69687, glue set - 1.0, direction TLT
+\hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
 .\glue(\leftskip) 22.0
-.\whatsit
+.\localpar
 ..\localinterlinepenalty=0
 ..\localbrokenpenalty=0
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.\hbox(11.62029+4.51895)x0.0, glue set - 22.0fil, direction TLT
+.\hbox(11.62027+4.51897)x0.0, glue set - 22.0fil, direction TLT
 ..\glue 0.0 plus 1.0fil minus 1.0fil
-..\hbox(11.62029+4.51895)x22.0, direction TLT
-...\hbox(11.62029+4.51895)x22.0, glue set 6.71fil, direction TLT []
-.\hbox(11.62029+4.51895)x0.0, direction TLT
+..\hbox(11.62027+4.51897)x22.0, direction TLT
+...\hbox(11.62027+4.51897)x22.0, glue set 6.71fil, direction TLT []
+.\hbox(11.62027+4.51897)x0.0, direction TLT
 .etc.
 
 pages           > flushing realpage 4, userpage 4
@@ -110,48 +111,14 @@ structure       > sectioning > subsubsection @ level 5 : 0.0.0.6.1 -> Journal Ar
 pages           > flushing realpage 5, userpage 5
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.6.2 -> Patents
 pages           > flushing realpage 6, userpage 6
-
-Overfull \hbox (7.82558pt too wide) in paragraph at lines 649--653
- \3>helvetica-11pt-ss-tf-0--0 nal-to-noise ra-tio loss data, USA patent reg-is-tered for GN Re-Sound, no. 20040047474, 03/11/2004 
-
-\hbox(8.217+2.398)x483.69687, glue set - 1.0, direction TLT
-.\glue(\leftskip) 22.0
-.\3>helvetica-11pt-ss-tf-0--0 n
-.\3>helvetica-11pt-ss-tf-0--0 a
-.\3>helvetica-11pt-ss-tf-0--0 l
-.\3>helvetica-11pt-ss-tf-0--0 -
-.etc.
-
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.6.3 -> Professional Interviews
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.6.4 -> Conferences and Workshops
 pages           > flushing realpage 7, userpage 7
 pages           > flushing realpage 8, userpage 8
 pages           > flushing realpage 9, userpage 9
 pages           > flushing realpage 10, userpage 10
- ) )</usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf></usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf>
-
-system          > files > start used files
-
-used files      >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/cont-yes.mkiv usedmethod=database
-used files      >    2: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/cont-new.mkiv usedmethod=database
-used files      >    3: filename=lang-us.lua filetype=lua foundname=/usr/share/texmf/tex/context/patterns/lang-us.lua usedmethod=database
-used files      >    4: filename=/home/bert/Dropbox/Public/cv/bdevries-cv.tex foundname=/home/bert/Dropbox/Public/cv/bdevries-cv.tex usedmethod=direct
-used files      >    5: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/type-imp-texgyre.mkiv usedmethod=database
-used files      >    6: filename=lm.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/lm.lfg usedmethod=database
-used files      >    7: filename=lm-math.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/lm-math.lfg usedmethod=database
-used files      >    8: filename=lm-math.map filetype=map format=map foundname=/usr/share/texmf/fonts/map/dvips/lm/lm-math.map usedmethod=database
-used files      >    9: filename=lm-rm.map filetype=map format=map foundname=/usr/share/texmf/fonts/map/dvips/lm/lm-rm.map usedmethod=database
-used files      >   10: filename=mkiv-base.map filetype=map format=map foundname=/usr/share/texmf/fonts/map/pdftex/context/mkiv-base.map usedmethod=database
-used files      >   11: filename=texgyreheros-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf usedmethod=database
-used files      >   12: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
-used files      >   13: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
-used files      >   14: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
-used files      >   15: filename=texgyreheros-bold filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
-used files      >   16: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
-used files      >   17: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/lpdf-pdx.xml usedmethod=database
-
-system          > files > stop used files
-
+close source    > 2 > 4 > /Users/bert/github/bertdv/bertdv.github.io/cv/bdevries-cv.tex
+close source    > 1 > 4 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
 
 system          > structure > start used structure
 
@@ -162,34 +129,31 @@ system          > structure > stop used structure
 
 system          > files > start used files
 
-used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/cont-yes.mkiv usedmethod=database
-used file       >    2: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/cont-new.mkiv usedmethod=database
-used file       >    3: filename=lang-us.lua filetype=lua foundname=/usr/share/texmf/tex/context/patterns/lang-us.lua usedmethod=database
-used file       >    4: filename=/home/bert/Dropbox/Public/cv/bdevries-cv.tex foundname=/home/bert/Dropbox/Public/cv/bdevries-cv.tex usedmethod=direct
-used file       >    5: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/type-imp-texgyre.mkiv usedmethod=database
-used file       >    6: filename=lm.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/lm.lfg usedmethod=database
-used file       >    7: filename=lm-math.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/lm-math.lfg usedmethod=database
-used file       >    8: filename=lm-math.map filetype=map format=map foundname=/usr/share/texmf/fonts/map/dvips/lm/lm-math.map usedmethod=database
-used file       >    9: filename=lm-rm.map filetype=map format=map foundname=/usr/share/texmf/fonts/map/dvips/lm/lm-rm.map usedmethod=database
-used file       >   10: filename=mkiv-base.map filetype=map format=map foundname=/usr/share/texmf/fonts/map/pdftex/context/mkiv-base.map usedmethod=database
-used file       >   11: filename=texgyreheros-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf usedmethod=database
-used file       >   12: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
-used file       >   13: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
-used file       >   14: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
-used file       >   15: filename=texgyreheros-bold filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
-used file       >   16: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
-used file       >   17: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/lpdf-pdx.xml usedmethod=database
+used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/local/texlive/2016/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    5: filename=/Users/bert/github/bertdv/bertdv.github.io/cv/bdevries-cv.tex foundname=/Users/bert/github/bertdv/bertdv.github.io/cv/bdevries-cv.tex usedmethod=direct
+used file       >    6: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
+used file       >    7: filename=lm.lfg filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+used file       >    8: filename=texgyreheros-regular filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf usedmethod=database
+used file       >    9: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
+used file       >   10: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
+used file       >   11: filename=texgyreheros-bold filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
+used file       >   12: filename=lmmonolt10-bold filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf usedmethod=database
+used file       >   13: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/local/texlive/2016/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
+used file       >   14: filename=lpdf-pdx.xml filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
 
 system          > files > stop used files
 
 
 system          > options > start commandline options
 
-used option     > currentrun="2"
+used option     > currentrun="1"
 used option     > fulljobname="./bdevries-cv.tex"
 used option     > input="./bdevries-cv.tex"
-used option     > kindofrun="2"
-used option     > maxnofruns="8"
+used option     > kindofrun="1"
+used option     > maxnofruns="9"
 used option     > no-parse-first-line="true"
 
 system          > options > stop commandline options
@@ -201,30 +165,29 @@ used file       >    1: ./bdevries-cv.tex
 system          > options > stop commandline files
 
 
-
-mkiv lua stats  > used config file: selfautodir:/share/texmf/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/f919750633122078d706dd10f1cfd39b' | readable+writable: '/home/bert/.texmf-var/luatex-cache/context/f919750633122078d706dd10f1cfd39b'
-mkiv lua stats  > resource resolver: loadtime 0.073 seconds, 1 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: /home/bert/texmf
-mkiv lua stats  > stored bytecode data: 329 modules (0.180 sec), 69 tables (0.003 sec), 398 chunks (0.183 sec)
-mkiv lua stats  > cleaned up reserved nodes: 47 nodes, 9 lists of 441
-mkiv lua stats  > node memory usage: 2 glue, 3 penalty, 12 attribute, 101 glue_spec, 3 attribute_list
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 2185 calls
-mkiv lua stats  > h-node processing time: 0.253 seconds including kernel
-mkiv lua stats  > attribute processing time: 0.054 seconds front- and backend
+mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable: '/usr/local/texlive/2016/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9' | readable+writable: '/var/folders/j5/cl6mv66d2qb3p6zpvmp78zwr0000gn/T/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
+mkiv lua stats  > resource resolver: loadtime 0.291 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 387 modules (0.514 sec), 82 tables (0.011 sec), 469 chunks (0.524 sec)
+mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
+mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 9 lists of 444
+mkiv lua stats  > node memory usage: 36 glue, 3 penalty, 125 attribute, 37 glue_spec, 33 attribute_list, 2 temp
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 1624 calls
+mkiv lua stats  > h-node processing time: 0.100 seconds including kernel
+mkiv lua stats  > attribute processing time: 0.022 seconds front- and backend
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.003 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: 3416 direct, 1461 indirect, 4877 total
+mkiv lua stats  > randomizer: resumed with value 0.0014536855749105
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > jobdata time: 0.004 seconds saving, 0.002 seconds loading
-mkiv lua stats  > callbacks: 4216 direct, 1386 indirect, 5602 total
-mkiv lua stats  > randomizer: resumed with value 0.86172578617079
-mkiv lua stats  > lxml preparation time: 0.000 seconds, 0 nodes, 15 lpath calls, 0 cached calls
 mkiv lua stats  > interactive elements: 50 references, 24 destinations
-mkiv lua stats  > v-node processing time: 0.020 seconds 
-mkiv lua stats  > result saved in file: bdevries-cv.pdf, compresslevel 3, objectcompreslevel 3
-mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf (experimental), texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > fonts load time: 0.183 seconds 
-mkiv lua stats  > pdf annotations: 50 embedded, 50 unique
-mkiv lua stats  > luatex banner: this is luatex, version beta-0.76.0-2013121407  (tex live 2013/dev/debian) (rev 4627)
-mkiv lua stats  > control sequences: 37694 of 65536 + 100000
-mkiv lua stats  > current memory usage: 75 MB (ctx: 70 MB)
-mkiv lua stats  > runtime: 1.474 seconds, 10 processed pages, 10 shipped pages, 6.784 pages/second
+mkiv lua stats  > result saved in file: bdevries-cv.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmonolt10-bold.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 3 shared in backend, 0 common vectors, 3 common hashes, load time 0.199 seconds 
+mkiv lua stats  > pdf annotations: 50 links (50 unique), 0 special
+mkiv lua stats  > used platform: osx-64, type: unix, binary subtree: bin
+mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
+mkiv lua stats  > control sequences: 44152 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 103 MB (ctx: 102 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.335 seconds, 10 processed pages, 10 shipped pages, 7.491 pages/second
 

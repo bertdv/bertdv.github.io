@@ -249,6 +249,8 @@ Research at TU/e focusses on applications of Bayesian machine learning to person
 
 ### Member of Ph.D. Committee
 
+1. 01/2017, Math Verstraelen, Ph.D., The WaveCore - A Scalable Architecture for Real-time Audio Procesing, University of Twente.
+
 1. 12/2016, Amir Jalalirad, Ph.D., Supervised Learning through Feature-based Models, TU Eindhoven
 
 1. 6/2015, Yuan Zeng, Ph.D., Distributed Speech Enhancement in Wireless Acoustic Sensor Networks, TU Delft
