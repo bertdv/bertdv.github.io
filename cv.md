@@ -6,4 +6,4 @@ permalink: /cv/
 
 My CV is embedded below. You can also [download the PDF here](/cv/bdevries-cv.pdf).
 
-{% include embedpdf.html code="4512522/cv/bdevries-cv.pdf" width=100 height=800 %}
+{% include embedpdf.html code="cv/bdevries-cv.pdf" width=100 height=800 %}
