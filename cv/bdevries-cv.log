@@ -1,6 +1,6 @@
 open source     > 1 > 1 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
 
-ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2017.2.1  int: english/english
+ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2017.2.18  int: english/english
 
 system          > 'cont-new.mkiv' loaded
 open source     > 2 > 2 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
@@ -130,9 +130,9 @@ system          > structure > stop used structure
 system          > files > start used files
 
 used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=lua foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
 used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/local/texlive/2016/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=lua foundname=/usr/local/texlive/2016/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
 used file       >    5: filename=/Users/bert/github/bertdv/bertdv.github.io/cv/bdevries-cv.tex foundname=/Users/bert/github/bertdv/bertdv.github.io/cv/bdevries-cv.tex usedmethod=direct
 used file       >    6: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
 used file       >    7: filename=lm.lfg filetype=tex foundname=/usr/local/texlive/2016/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
@@ -149,10 +149,10 @@ system          > files > stop used files
 
 system          > options > start commandline options
 
-used option     > currentrun="1"
+used option     > currentrun="2"
 used option     > fulljobname="./bdevries-cv.tex"
 used option     > input="./bdevries-cv.tex"
-used option     > kindofrun="1"
+used option     > kindofrun="2"
 used option     > maxnofruns="9"
 used option     > no-parse-first-line="true"
 
@@ -167,14 +167,14 @@ system          > options > stop commandline files
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/usr/local/texlive/2016/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9' | readable+writable: '/var/folders/j5/cl6mv66d2qb3p6zpvmp78zwr0000gn/T/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.291 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 387 modules (0.514 sec), 82 tables (0.011 sec), 469 chunks (0.524 sec)
+mkiv lua stats  > resource resolver: loadtime 0.308 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 387 modules (0.527 sec), 82 tables (0.009 sec), 469 chunks (0.536 sec)
 mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 9 lists of 444
 mkiv lua stats  > node memory usage: 36 glue, 3 penalty, 125 attribute, 37 glue_spec, 33 attribute_list, 2 temp
 mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 1624 calls
-mkiv lua stats  > h-node processing time: 0.100 seconds including kernel
-mkiv lua stats  > attribute processing time: 0.022 seconds front- and backend
+mkiv lua stats  > h-node processing time: 0.085 seconds including kernel
+mkiv lua stats  > attribute processing time: 0.015 seconds front- and backend
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > jobdata time: 0.003 seconds saving, 0.001 seconds loading
 mkiv lua stats  > callbacks: 3416 direct, 1461 indirect, 4877 total
@@ -183,11 +183,11 @@ mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > interactive elements: 50 references, 24 destinations
 mkiv lua stats  > result saved in file: bdevries-cv.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmonolt10-bold.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 3 shared in backend, 0 common vectors, 3 common hashes, load time 0.199 seconds 
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 3 shared in backend, 0 common vectors, 3 common hashes, load time 0.235 seconds 
 mkiv lua stats  > pdf annotations: 50 links (50 unique), 0 special
 mkiv lua stats  > used platform: osx-64, type: unix, binary subtree: bin
 mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
-mkiv lua stats  > control sequences: 44152 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 103 MB (ctx: 102 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.335 seconds, 10 processed pages, 10 shipped pages, 7.491 pages/second
+mkiv lua stats  > control sequences: 44151 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 80 MB (ctx: 80 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.285 seconds, 10 processed pages, 10 shipped pages, 7.782 pages/second
 

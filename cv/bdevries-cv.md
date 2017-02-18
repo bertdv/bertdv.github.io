@@ -2,14 +2,14 @@
 
 ----
 
-> GN ReSound & Eindhoven University of Technology\
+> GN Hearing & Eindhoven University of Technology\
 > Het Eeuwsel 6\
 > 5612 AS Eindhoven, the Netherlands\
 > tel. +31-6-1922-2046\
 > email bdevries _at_ ieee _dot_ org\
 > web [http://bertdv.nl](http://bertdv.nl)
 >
-> Version: Dec. 2016
+> Version: Jan. 2017
 
 ----
 
@@ -24,7 +24,7 @@ Signal processing, machine learning, computational neuroscience, data science, b
 Academic Background
 -------------------
 
-1999
+1991
 :    **Ph.D. Electrical Engineering**, [University of Florida](http://www.ece.ufl.edu/), Gainesville, FL
 
      Ph.D. research in signal processing under direction of Professor Jose C. Principe.
