@@ -195,6 +195,8 @@ Research at TU/e focusses on applications of Bayesian machine learning to person
 
 ### Student Supervision
 
+1. 5/2017, Anouk van Diepen, M.Sc. thesis report, _A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition_
+
 1. 6/2016, Wouter van Roosmalen, M.Sc. thesis project, _In-situ Design of Noise Reduction Algorithms_
 
 1. 6/2016, Anouk van Diepen, M.Sc. internship, _Derivation and Implementation of Gausssian Mixture Model in a Forney-style Factor Graph_
@@ -350,6 +352,14 @@ for University of Florida, no. 5,301,135, April 1994
 1. [Introducing Data Science: Hearing Aids on the Brink of a Paradigm Shift](http://www.audiology-worldnews.com/focus-on/1215-introducing-data-science-hearing-aids-on-the-brink-of-a-paradigm-shift). Interview in [Audiology Info Magazine](http://www.audiology-worldnews.com/), Dec 2014
 
 ### Conferences and Workshops
+
+1. Marco Cox and Bert de Vries, A Gaussian Process Mixture Prior for Hearing Loss Modeling, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017
+
+1. Anouk van Diepen et al., An In-situ Trainable Gesture Classifier, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017
+
+1. Quan (Eric) Nguyen et al., Probabilistic Inference-based Reinforcement Learning, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017
+
+1. Thijs van de Laar and Bert de Vries, A Probabilistic Modeling Approach to Hearing Loss Compensation, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017 
 
 1. Mojtaba Farmani and Bert de Vries, A Probabilistic Approach To Hearing Loss Compensation, _IEEE Machine Learning for Signal Processing workshop_ (MLSP), Reims, FR, Sep 2014
 
