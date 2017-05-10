@@ -46,7 +46,7 @@ utilitydata.job.passes.collected={
   { 4, 0 },
  },
  ["itemgroup:itemize:10"]={
-  { 26, 0 },
+  { 27, 0 },
  },
  ["itemgroup:itemize:11"]={
   { 6, 0 },
@@ -64,7 +64,7 @@ utilitydata.job.passes.collected={
   { 1, 0 },
  },
  ["itemgroup:itemize:16"]={
-  { 57, 0 },
+  { 61, 0 },
  },
  ["itemgroup:itemize:2"]={
   { 3, 0 },
@@ -139,7 +139,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 3, 5, 1, 5, 24, 10, 5, 3, 26, 6, 1, 12, 19, 1, 57 },
+  { 0, 4, 3, 5, 1, 5, 24, 10, 5, 3, 27, 6, 1, 12, 19, 1, 61 },
  },
  ["linenote"]={
   { 0 },
