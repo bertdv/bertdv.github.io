@@ -43,6 +43,7 @@ Employment History
 :   **Professor**, [Eindhoven University of Technology](http://tue.nl), [Signal Processing Systems Group](http://www.sps.ele.tue.nl/) (EE dept.),  Eindhoven, the Netherlands
 
     - 1 day/week appointment; previous engagement: Research Fellow ('04-'11)
+    - Director [BIASlab](http://biaslab.org) research laboratory
     - Research on _Personalization of Medical Signal Processing Systems_
     - Teach graduate class on [Adaptive Information Processing](http://www.sps.ele.tue.nl/members/b.vries/teaching/5mb20/index.html)
     - Inaugural lecture: [_In Situ Personalization of Signal Processing Systems_](./files/Bert%20de%20Vries%20-%2013sep2013%20-%20In%20situ%20personalization%20of%20signal%20processing%20systems%20-%20%20inaugural%20lecture%20booklet%20%28final%20version%29.pdf) (at [youtube](http://goo.gl/EoU0SE)), Sep. 2013
@@ -354,6 +355,8 @@ for University of Florida, no. 5,301,135, April 1994
 1. [Introducing Data Science: Hearing Aids on the Brink of a Paradigm Shift](http://www.audiology-worldnews.com/focus-on/1215-introducing-data-science-hearing-aids-on-the-brink-of-a-paradigm-shift). Interview in [Audiology Info Magazine](http://www.audiology-worldnews.com/), Dec 2014
 
 ### Conferences and Workshops
+
+1. Thijs van de Laar, Marco Cox, Anouk van Diepen and Bert de Vries, Variational Stabilized Linear Forgetting in State-Space Models, EUSIPCO-2017, KOS Island (Greece), Aug.2017
 
 1. Marco Cox and Bert de Vries, A Gaussian Process Mixture Prior for Hearing Loss Modeling, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017
 
