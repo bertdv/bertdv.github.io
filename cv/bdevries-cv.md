@@ -306,28 +306,27 @@ Gravenstein, Toward more sophisticated monitoring alarms, _Journal of clinical m
 
 1. Bert de Vries and Joris Kraak, Automated Scanning for Hearing Aid Parameters, filed by GN ReSound, July 2016
 
-1. Fredrik Gran et al., Performance-based In Situ Optimization of Hearing Aids, filed by GN ReSound, with the Danish Patent and Trademark Office, PA 2015-70379, June 2015
+1. Fredrik Gran et al., Performance-based In Situ Optimization of Hearing Aids, filed by GN ReSound, US-2017055090, priority date June 2015, pub date Dec 2016
 
-1. Bert de Vries and Erik van der Werf, A Multi-band Signal Processor for Digital Audio Signals, filed by GN ReSound with European Patent and Office, Feb. 2014
+1. Bert de Vries and Erik van der Werf, A Multi-band Signal Processor for Digital Audio Signals, filed by GN ReSound, US-2015317995, EP-2941020, priority date May 2014
 
-1. Andrew Dittberner et al., A Location Learning Hearing Aid, filed by GN ReSound with European Patent and Office, App. 13197214.3-1901, December 2013
+1. Andrew Dittberner, Bert de Vries et al., A Location Learning Hearing Aid, filed by GN ReSound, JP-2015130659, US-2015172831, EP-2884766, priority date Dec. 2013
 
-1. Bert de Vries and Mojtaba Farmani, A Hearing Aid with Probabilistic Hearing Loss Compensation, filed by GN ReSound with US Patent and Trademark Office, App. number 14077031, Nov. 2013
+1. Bert de Vries and Mojtaba Farmani, A Hearing Aid with Probabilistic Hearing Loss Compensation, filed by GN ReSound, CN-105706466, EP-2871858, priority date Nov. 2013
 
-1. Bert de Vries et al., Efficient evaluation of hearing ability, submitted by GNR Ref.: P1669 EP, Albihns Ref.: P13304 US / P13303, April 2009
+1. Bert de Vries et al., Efficient evaluation of hearing ability, filed by GN ReSound,  US Patent 9,560,991 (granted 2017), priority date April 2009
 
-1. Alexander Ypma et al., Asymmetric synchronization of hearing aid algorithms, submitted by GN ReSound, patent no. 09174982.0-2225, filed 4-Nov-2009
+1. Alexander Ypma et al., Asymmetric adjustment, filed by GN ReSound, US patent 8792659 (granted 7/2014), priority date Nov-2008
 
-1. Alexander Ypma et al., Learning control of hearing aid parameter settings, submitted by GN ReSound, filed 16-Mar-2007
+1. Alexander Ypma et al., Learning control of hearing aid parameter settings, filed by GN ReSound, US patent 9408002 (granted 8/2016), priority date Mar-2006
 
-1. Bert de Vries and Alexander Ypma, Optimization of Hearing Aid Parameters, filed by GN ReSound, patent no. WO/2007/042043, 10/13/06
+1. Bert de Vries and Alexander Ypma, Optimization of Hearing Aid Parameters, filed by GN ReSound, US patent 9084066 (granted 7/2015), priority date Oct 2005
 
-1. Bert de Vries, Bastiaan Kleijn, Alexander Ypma and David Zhao, Method and Apparatus for Improved Estimation of Non-stationary Noise for Speech Enhancement, filed by GN ReSound, patent no. 06119399.1-224, 08/23/06
+1. David Zhao, Bastiaan Kleijn, Alexander Ypma and Bert de Vries, Method and Apparatus for Improved Estimation of Non-stationary Noise for Speech Enhancement, filed by GN ReSound, US patent 7590530 (granted 8/2009), priority date Sep 2005
 
-1. Bert de Vries and Rob de Vries, Fitting methodology and hearing prosthesis based on signal-to-noise ratio loss data, USA patent registered for
-GN ReSound, no. 20040047474, 03/11/2004
+1. Bert de Vries and Rob de Vries, Fitting methodology and hearing prosthesis based on signal-to-noise ratio loss data, US patent 7804973 (granted 9/2010), priority date 2/2002
 
-1. L. Parra and B. de Vries, Method and apparatus for adaptive speech detection by applying a probabilistic description to the classification and tracking of signal components, patent registered for Sarnoff Corporation, LG Electronics, Inc., no. 6691087, 10-Feb. 2004
+1. L. Parra and B. de Vries, Method and apparatus for adaptive speech detection by applying a probabilistic description to the classification and tracking of signal components, patent registered for Sarnoff Corporation, LG Electronics, Inc., US patent 6691087 (granted Feb-2004), priority date Nov 1997
 
 1. Bert de Vries, Noise Spectrum Tracking for Speech Enhancement,
 patent registered for Sarnoff Corporation, no. US6289309,
@@ -364,7 +363,7 @@ for University of Florida, no. 5,301,135, April 1994
 
 1. Quan (Eric) Nguyen et al., Probabilistic Inference-based Reinforcement Learning, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017
 
-1. Thijs van de Laar and Bert de Vries, A Probabilistic Modeling Approach to Hearing Loss Compensation, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017 
+1. Thijs van de Laar and Bert de Vries, A Probabilistic Modeling Approach to Hearing Loss Compensation, _Machine Learning Conference of the Benelux_ (Benelearn), Eindhoven, 2017
 
 1. Mojtaba Farmani and Bert de Vries, A Probabilistic Approach To Hearing Loss Compensation, _IEEE Machine Learning for Signal Processing workshop_ (MLSP), Reims, FR, Sep 2014
 
