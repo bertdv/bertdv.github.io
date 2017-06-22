@@ -55,7 +55,7 @@ utilitydata.job.passes.collected={
   { 1, 0 },
  },
  ["itemgroup:itemize:13"]={
-  { 12, 0 },
+  { 13, 0 },
  },
  ["itemgroup:itemize:14"]={
   { 19, 0 },
@@ -139,7 +139,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4, 3, 5, 1, 5, 24, 10, 5, 3, 27, 6, 1, 12, 19, 1, 61 },
+  { 0, 4, 3, 5, 1, 5, 24, 10, 5, 3, 27, 6, 1, 13, 19, 1, 61 },
  },
  ["linenote"]={
   { 0 },
@@ -603,7 +603,7 @@ utilitydata.structures.references.referred={
  { 4, 19 },
  { 5, 30 },
  { 6, 36 },
- { 7, 40 },
+ { 7, 41 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end

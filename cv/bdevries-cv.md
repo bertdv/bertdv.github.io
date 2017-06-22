@@ -270,6 +270,8 @@ Publications
 
 ### Journal Articles and Book Chapters
 
+1. Karl J. Friston, Thomas Parr and Bert de Vries, [The graphical brain: belief propagation and active inference](http://www.mitpressjournals.org/doi/abs/10.1162/NETN_a_00018), _Network Neuroscience_, the MIT Press, vol.1, no.1, pp.1-78, 2017
+
 1. Thijs van de Laar and Bert de Vries, [A Probabilistic Modeling Approach to Hearing Loss Compensation](http://arxiv.org/abs/1602.01345), _IEEE Tr. on Audio, Speech and Language Processing_, Nov. 2016
 
 1.  Rik Vullings et al., An Adaptive Kalman Filter for ECG Signal Enhancement, _IEEE Transactions on Biomedical Engineering_, vol.58, no.4, April 2011 **[58]**
