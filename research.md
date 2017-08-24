@@ -20,6 +20,6 @@ My research at TU/e focuses on in situ personalization of medical signal process
 
 - Mojtaba Farmani and Bert de Vries, [A Probabilistic Approach To Hearing Loss Compensation](https://www.dropbox.com/s/jwtcszccsihbt3d/FarmaniDevries%20-%20MLSP%202014%20-%20Probabilistic-approach-to-hearing.pdf?dl=0), IEEE Machine Learning for Signal Processing workshop (MLSP), Reims (FR), Sep. 2014
 
-- Timur Bagautdinov, [A Machine Learning Framework for Bayesian Signal Processing](https://www.dropbox.com/s/d4j5v5y9nt55v8n/bagautdinov-thesis.final.pdf?dl=0), MSc thesis, TU Eindhoven, Aug. 2013
+- Timur Bagautdinov, [A Machine Learning Framework for Bayesian Signal Processing](/files/bagautdinov-thesis.final.pdf), MSc thesis, TU Eindhoven, Aug. 2013
 
 - Bert de Vries, [In Situ Personalization of Signal Processing Systems](https://pure.tue.nl/ws/files/3682681/vries2013.pdf), booklet for inaugural lecture (also at [youtube](http://goo.gl/EoU0SE)), Sep. 2013
