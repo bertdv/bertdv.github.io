@@ -196,6 +196,8 @@ Research at TU/e focusses on applications of Bayesian machine learning to person
 
 ### Student Supervision
 
+1. 9/2017, Jiyang Li, M.Sc. internship, _Online Preference Learning_ 
+
 1. 5/2017, Anouk van Diepen, M.Sc. thesis report, _A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition_
 
 1. 6/2016, Wouter van Roosmalen, M.Sc. thesis project, _In-situ Design of Noise Reduction Algorithms_
