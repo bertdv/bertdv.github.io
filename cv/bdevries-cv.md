@@ -91,6 +91,8 @@ Special Achievements
 
 ### Invited Lectures (selection)
 
+* Annual conference Kring Klinische Audiologie, "In-situ Personalization of Hearing Devices", Putten (NL), Nov. 2017
+
 * University College London (UCL), "A Factor Graph Approach to Active Inference", Nov. 2016
 
 * Keynote lecture on "The Future of Hearing Aid personalization", Cochlear/ReSound Event, Sep.2016
@@ -150,7 +152,7 @@ Special Achievements
 
 * 11/2005 and 5/2006, Invited DSP expert on IWT (Flemish Institute for Science and Technology) panel to evaluate candidate PhD proposals, Brussels
 
-* 5/2002, Organizer/chair special session `DSP for Intelligent Hearing Aids', ICASSP 2002, Orlando, FL
+* 5/2002, Organizer/chair special session "DSP for Intelligent Hearing Aids", ICASSP 2002, Orlando, FL
 
 * 1997-'98, Publicity chair, Neural Networks for Signal Processing Workshop, Amelia island, Florida (1997) and Cambridge, UK (1998)
 
@@ -196,7 +198,7 @@ Research at TU/e focusses on applications of Bayesian machine learning to person
 
 ### Student Supervision
 
-1. 9/2017, Ismail Senoz, M.Sc. thesis report, _Generative Probabilistic Models for Audio Textures_
+1. 10/2017, Ismail Senoz, M.Sc. thesis report, _Generative Probabilistic Models for Audio Textures_
 
 1. 9/2017, Jiyang Li, M.Sc. internship, _Online Preference Learning_
 
@@ -274,6 +276,8 @@ Publications
 * Publications with more than 50 citations at January 2016 are indicated by **[#citations]**. See also my [google scholar page](http://scholar.google.nl/citations?user=x3EIIHEAAAAJ).
 
 ### Journal Articles and Book Chapters
+
+1. Bert de Vries and Karl J. Friston, [A Factor Graph Description of Deep Temporal Active Inference](https://www.frontiersin.org/articles/10.3389/fncom.2017.00095/full), _Frontiers in Computational Neuroscience_, https://doi.org/10.3389/fncom.2017.00095, Oct. 2017
 
 1. Karl J. Friston, Thomas Parr and Bert de Vries, [The graphical brain: belief propagation and active inference](http://www.mitpressjournals.org/doi/abs/10.1162/NETN_a_00018), _Network Neuroscience_, the MIT Press, vol.1, no.1, pp.1-78, 2017
 

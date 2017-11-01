@@ -55,7 +55,7 @@ utilitydata.job.passes.collected={
   { 1, 0 },
  },
  ["itemgroup:itemize:13"]={
-  { 13, 0 },
+  { 14, 0 },
  },
  ["itemgroup:itemize:14"]={
   { 19, 0 },
@@ -79,7 +79,7 @@ utilitydata.job.passes.collected={
   { 5, 0 },
  },
  ["itemgroup:itemize:6"]={
-  { 24, 0 },
+  { 25, 0 },
  },
  ["itemgroup:itemize:7"]={
   { 10, 0 },
@@ -139,7 +139,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 5, 3, 5, 1, 5, 24, 10, 5, 3, 29, 6, 1, 13, 19, 1, 62 },
+  { 0, 5, 3, 5, 1, 5, 25, 10, 5, 3, 29, 6, 1, 14, 19, 1, 62 },
  },
  ["linenote"]={
   { 0 },
@@ -348,7 +348,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=14,
-   ["realpage"]=3,
+   ["realpage"]=4,
    ["reference"]="refereed-publications",
    ["section"]=8,
   },
@@ -439,7 +439,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=20,
-   ["realpage"]=5,
+   ["realpage"]=6,
    ["reference"]="publications",
    ["section"]=14,
   },
@@ -603,7 +603,7 @@ utilitydata.structures.references.referred={
  { 4, 20 },
  { 5, 30 },
  { 6, 36 },
- { 7, 42 },
+ { 7, 43 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
