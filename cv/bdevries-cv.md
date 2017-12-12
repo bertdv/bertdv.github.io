@@ -178,6 +178,8 @@ Activities at Eindhoven Univ. of Technology (TU/e)
 
 Research at TU/e focusses on applications of Bayesian machine learning to personalization of hearing aid algorithms.
 
+* 2018 - 2022, together with dr. [Henkjan Huisman](https://www.linkedin.com/in/henkjan-huisman-28a7b34b/) and prof. [Henk Corporaal](http://www.es.ele.tue.nl/~heco/), **~275K euro** to support 1 PhD student, from [NWO](https://www.nwo.nl/en) for research on "deep learning for human and animal health", in the context of [Efficient Deep Learning](https://www.nwo.nl/en/news-and-events/news/2017/32-million-euros-for-top-level-technological-research.html#zelflerend).
+
 * 2017 - 2021, together with dr. [Sander Stuijk](http://www.es.ele.tue.nl/~sander/) and prof. [Henk Corporaal](http://www.es.ele.tue.nl/~heco/), **~550K euro** supporting 3 PhD students, from [STW](http://www.stw.nl/en) to pursue research on [Autonomous Acoustic Systems]() in the context of [energy-autonomous systems for IoT](http://www.stw.nl/en/node/8025).
 
 * 2015 - 2019, together with dr. [Tjalling Tjalkens](http://www.sps.ele.tue.nl/members/T.J.Tjalkens/), **~500K euro** supporting 2 PhD students, from Dutch Technology Foundation [STW](http://www.stw.nl/en/) to pursue research on [Data-driven Hearing Aids](http://stw.nl/nl/content/hearscan-towards-data-driven-hearing-aids).
@@ -310,6 +312,8 @@ Gravenstein, Toward more sophisticated monitoring alarms, _Journal of clinical m
 
 ### Patents
 
+1. Bert de Vries, Marco Cox and Joris Kraak, Hearing Device and Method for Tuning Hearing Device Parameters, filed by GN, 2017P00065EP, Dec 2017
+
 1. Almer van den Berg and Bert de Vries, Sound signal modelling based on recorded object sound, filed by GN ReSound,  EP16206941.3, Dec. 2016
 
 1. Bert de Vries and Joris Kraak, Automated Scanning for Hearing Aid Parameters, filed by GN ReSound, July 2016
@@ -362,6 +366,10 @@ for University of Florida, no. 5,301,135, April 1994
 1. [Introducing Data Science: Hearing Aids on the Brink of a Paradigm Shift](http://www.audiology-worldnews.com/focus-on/1215-introducing-data-science-hearing-aids-on-the-brink-of-a-paradigm-shift). Interview in [Audiology Info Magazine](http://www.audiology-worldnews.com/), Dec 2014
 
 ### Conferences and Workshops
+
+1. Ivan Bocharov, Bert de Vries and Tjalling Tjalkens, K-shot Learning of Acoustic Context, NIPS-2017 workshop on [machine learning for audio signal processing](http://media.aau.dk/smc/ml4audio/), Long Beach (CA), Dec 2017
+
+1. Marco Cox and Bert de Vries, A parametric approach to Bayesian optimization with pairwise comparisons. [NIPS-2017 workshop on Bayesian Optimization](http://bayesopt.com/), Long Beach (CA), Dec 2017
 
 1. Thijs van de Laar, Marco Cox, Anouk van Diepen and Bert de Vries, Variational Stabilized Linear Forgetting in State-Space Models, EUSIPCO-2017, KOS Island (Greece), Aug.2017
 

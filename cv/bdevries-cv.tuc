@@ -58,13 +58,13 @@ utilitydata.job.passes.collected={
   { 14, 0 },
  },
  ["itemgroup:itemize:14"]={
-  { 19, 0 },
+  { 20, 0 },
  },
  ["itemgroup:itemize:15"]={
   { 1, 0 },
  },
  ["itemgroup:itemize:16"]={
-  { 62, 0 },
+  { 64, 0 },
  },
  ["itemgroup:itemize:2"]={
   { 3, 0 },
@@ -85,7 +85,7 @@ utilitydata.job.passes.collected={
   { 10, 0 },
  },
  ["itemgroup:itemize:8"]={
-  { 5, 0 },
+  { 6, 0 },
  },
  ["itemgroup:itemize:9"]={
   { 3, 0 },
@@ -139,7 +139,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 5, 3, 5, 1, 5, 25, 10, 5, 3, 29, 6, 1, 14, 19, 1, 62 },
+  { 0, 5, 3, 5, 1, 5, 25, 10, 6, 3, 29, 6, 1, 14, 20, 1, 64 },
  },
  ["linenote"]={
   { 0 },
@@ -148,7 +148,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 10 },
+  { 11 },
  },
  ["subpage"]={
   { 0 },
@@ -157,7 +157,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["userpage"]={
-  { 10 },
+  { 11 },
  },
 }
 
@@ -499,7 +499,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=24,
-   ["realpage"]=7,
+   ["realpage"]=8,
    ["reference"]="conferences-and-workshops",
    ["section"]=18,
   },
@@ -584,6 +584,13 @@ utilitydata.structures.pages.collected={
   ["prefixdata"]=41,
   ["state"]="start",
  },
+ {
+  ["block"]="bodypart",
+  ["number"]=11,
+  ["numberdata"]=40,
+  ["prefixdata"]=41,
+  ["state"]="start",
+ },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -600,10 +607,11 @@ utilitydata.structures.references.referred={
  { 2, 11 },
  { 3, 15 },
  { 4, 16 },
- { 4, 20 },
- { 5, 30 },
- { 6, 36 },
- { 7, 43 },
+ { 4, 24 },
+ { 5, 34 },
+ { 6, 40 },
+ { 7, 47 },
+ { 8, 49 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
