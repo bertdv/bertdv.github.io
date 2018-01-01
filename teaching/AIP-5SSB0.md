@@ -12,7 +12,7 @@ present an introduction to the design of adaptive information processing
 systems. This course extends coursework on adaptive signal processing and can also be taken as an introduction to **machine learning** and **data science**. Typical application areas include pattern
 recognition, medical signal analysis, speech and language processing, image processing, bio-informatics and robotics.
 
-In the 2016/17 academic year, this class is taught in semester B (3rd quarter) and **starts on 6-Feb-2017**. Please check the official [TUE course site](http://education.tue.nl/Activiteiten/Pages/Informatie.aspx?coursecode=5SSB0&educationyear=2016) for more detailed information on meeting times and location.
+In the 2017/18 academic year, this class is taught in semester B (3rd quarter) and **starts on 5-Feb-2018**.
 
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
@@ -23,7 +23,7 @@ In the 2016/17 academic year, this class is taught in semester B (3rd quarter) a
 
 ## Materials
 
-- In principle, you can download all needed materials from this site. We strongly recommend that you acquire the following text book: [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm ) (Springer, 2006) by [Christopher M. Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).  Try to get the book before classes start.
+- In principle, you can download all needed materials from this site. We strongly recommend that you acquire the following text book: [Pattern Recognition and Machine Learning](https://www.bol.com/nl/p/pattern-recognition-and-machine-learning/1001004002773122) (Springer, 2006) by [Christopher M. Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/index.htm).  Try to get the book before classes start.
 
 ### Part 1: Linear Gaussian Models and the EM Algorithm
 
@@ -33,25 +33,25 @@ In the 2016/17 academic year, this class is taught in semester B (3rd quarter) a
 Models, including models for regression and classification problems, Gaussian mixture models, Kalman filters, hidden
 Markov models and various latent component analysis models. Furthermore, we derive the **Expectation Maximization** (EM) algorithm for maximum likelihood estimation problems and present factor graphs as a unifying framework for efficient realization of probabilistic inference algorithms. In part 1, the emphasis will be on parameter estimation for a given model specification. You can **view the lecture notes** through the links below:
 
-- [ 0 - Introduction](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/00_introduction/Introduction.ipynb)
-- [1 - Machine Learning Overview](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/01_machine_learning_overview/Machine-Learning-Overview.ipynb)
-- [2 - Probability Theory Review](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/02_probability_review/Probability-Review.ipynb)
-- [3 - Bayesian Machine Learning](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/03_Bayesian_machine_learning/Bayesian-Machine-Learning.ipynb)
-- [4 - Working with Gaussians](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/04_working_with_Gaussians/Working-with-Gaussians.ipynb)
-- [5 - Density Estimation](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/05_density_estimation/Density-Estimation.ipynb)
-- [6 - Linear Regression](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/06_linear_regression/Linear-Regression.ipynb)
-- [7 - Generative Classification](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/07_generative_classification/Generative-Classification.ipynb)
-- [8 - Discriminative Classification](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/08_discriminative_classification/Discriminative-Classification.ipynb)
-- [9 - Clustering with Gaussian Mixture Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/09_clustering_with_Gaussian_mixture_models/Clustering-with-Gaussian-Mixture-Models.ipynb)
-- [10- The EM Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/10_the_EM_algorithm/The-General-EM-Algorithm.ipynb)
-- [11- Continuous Latent Variable Models - PCA and FA](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/11_continuous_latent_variable_models/Continuous-Latent-Variable-Models-PCA-and-FA.ipynb)
-- [12- Factor Graphs and Message Passing Algorithms](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/12_factor_graphs/Factor-Graphs-and-Message-Passing-Algorithms.ipynb)
-- [13- Dynamic Latent Variable Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/13_dynamic_latent_variable_models/Dynamic-Latent-Variable-Models.ipynb)
-- [14- EM as a Message Passing Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/14_EM_as_message_passing/EM-as-Message-Passing.ipynb) (this lesson not at exam!)
+- [ 0 - Introduction](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/00_Introduction.ipynb)
+- [1 - Machine Learning Overview](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/01_Machine-Learning-Overview.ipynb)
+- [2 - Probability Theory Review](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/02_Probability-Review.ipynb)
+- [3 - Bayesian Machine Learning](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/03_Bayesian-Machine-Learning.ipynb)
+- [4 - Working with Gaussians](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/04_Working-with-Gaussians.ipynb)
+- [5 - Density Estimation](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/05_Density-Estimation.ipynb)
+- [6 - Linear Regression](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/06_Linear-Regression.ipynb)
+- [7 - Generative Classification](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/07_Generative-Classification.ipynb)
+- [8 - Discriminative Classification](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/08_Discriminative-Classification.ipynb)
+- [9 - Clustering with Gaussian Mixture Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/09_Clustering-with-Gaussian-Mixture-Models.ipynb)
+- [10- The EM Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/10_The-General-EM-Algorithm.ipynb)
+- [11- Continuous Latent Variable Models - PCA and FA](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/11_Continuous-Latent-Variable-Models-PCA-and-FA.ipynb)
+- [12- Factor Graphs and Message Passing Algorithms](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/12_Factor-Graphs-and-Message-Passing-Algorithms.ipynb)
+- [13- Dynamic Latent Variable Models](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/13_Dynamic-Latent-Variable-Models.ipynb)
+- [14- EM as a Message Passing Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/14_EM-as-Message-Passing.ipynb) (this lesson not at exam!)
 
-- The [source files for these lecture notes are accessible at github](https://github.com/bertdv/AIP-5SSB0). If you catch an error or if you have a specific update request, please [file a github issue](https://github.com/bertdv/AIP-5SSB0/issues/new). 
+- The [source files for these lecture notes are accessible at github](https://github.com/bertdv/AIP-5SSB0). If you catch an error or if you have a specific update request, please [file a github issue](https://github.com/bertdv/AIP-5SSB0/issues/new).
 
-- Here is a [PDF bundle of all classes for part-1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/AIP-5SSB0-part-1-lectures-booklet.pdf?dl=0). The lecture notes may change a bit during the course, e.g., to process comments by students. A final PDF version will be posted after the last lecture.
+- Here is a [PDF bundle of all classes for part-1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/booklet/AIP-5SSB0-part-1-lectures-booklet.pdf?dl=0). The lecture notes may change a bit during the course, e.g., to process comments by students. A final PDF version will be posted after the last lecture.
 
 - Code examples in the lecture notes are in the [Julia](http://julialang.org/) language, which is syntactically similar to MATLAB. In order to run the code examples straight in the browser, you will need to run the lecture notes files in a [Jupyter](http://jupyter.org/) notebook. We recommend that you run the cloud-based [JuliaBox](https://www.juliabox.com/) service to run Jupyter notebooks. Please see [these instructions](https://github.com/bertdv/AIP-5SSB0) (scroll to down to the README) if you want to run the lecture notes in JuliaBox.
 
@@ -72,7 +72,7 @@ used to _select_ appropriate models. The lessons are structured as follows:
 
 ## Exam Preparation
 
-- Each year there will be two written exam opportunities. Check the official [TUE course site](http://education.tue.nl/Activiteiten/Pages/Informatie.aspx?coursecode=5SSB0&educationyear=2016) for exam dates.
+- Each year there will be two written exam opportunities. Check the official TUE course site for exam dates.
 - In preparation for the exam, we recommend that you work through the following exercises and old exams:
   * [exercises for part 1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1.pdf); [same with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1-with-solutions.pdf)
   * [exercises for part 2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-2.pdf); [same with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-2-hints.pdf)
@@ -80,8 +80,8 @@ used to _select_ appropriate models. The lessons are structured as follows:
   * [exam 2011/06/20](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/110620-5MB20-exam.pdf); [with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/110620-5MB20-exam-with-solutions.pdf)
   * [exam 2016/04/15](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/160415-5mb20-5SSB0-exam.pdf); [with solutions](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/160415-5mb20-5SSB0-exam-with-solutions.pdf)
 - Please feel free to consult the following matrix and Gaussian cheat sheets (by Sam Roweis) when making exercises.
-  * [Gaussian Identities](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/RoweisS-gaussian_formulas.pdf?dl=0)
-  * [Matrix Identities](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/RoweisS-matrix_identities.pdf?dl=0)
+  * [Gaussian Identities](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/files/RoweisS-gaussian_formulas.pdf?dl=0)
+  * [Matrix Identities](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/files/RoweisS-matrix_identities.pdf?dl=0)
 - Note however that **you cannot bring notes or books to the exam. All needed formulas are supplied at the exam sheet**.
 
 ## Video
@@ -96,7 +96,7 @@ follow the class only from video.
 - **Prerequisites**: Mathematical maturity equivalent to undergraduate engineering program.
 Some MATLAB programming skills are helpful.
 
-- This course replaces the 3-ECTS course **5MB20-Adaptive Information Processing**, which was taught between 2005-2014. The new course 5SSB0 is a 5-ECTS course and while the contents are similar to 5MB20, some lessons have been extended with new materials. The slide materials for [5MB20 for the academic year 2014/15 are still available here](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/files/5MB20-part-1-slides-all.pdf?dl=0).
+- This course is a replacement for the 3-ECTS course **5MB20-Adaptive Information Processing**, which was taught between 2005-2014. The new course 5SSB0 is a 5-ECTS course and while the contents are similar to 5MB20, some lessons have been extended with new materials. The slide materials for [5MB20 for the academic year 2014/15 are still available here](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/booklet/5MB20-part-1-slides-all.pdf?dl=0).
 
 - You're advised to bring the lecture notes (either in soft- or hardcopy) with you to class in order to add your personal comments.
 
