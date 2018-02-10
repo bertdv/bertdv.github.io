@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0.0014536855749105,
+ ["randomseed"]=0.27149731352529,
  ["sectionblockorder"]={},
 }
 
@@ -49,7 +49,7 @@ utilitydata.job.passes.collected={
   { 29, 0 },
  },
  ["itemgroup:itemize:11"]={
-  { 6, 0 },
+  { 7, 0 },
  },
  ["itemgroup:itemize:12"]={
   { 1, 0 },
@@ -139,7 +139,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 5, 3, 5, 1, 5, 25, 10, 6, 3, 29, 6, 1, 14, 20, 1, 64 },
+  { 0, 5, 3, 5, 1, 5, 25, 10, 6, 3, 29, 7, 1, 14, 20, 1, 64 },
  },
  ["linenote"]={
   { 0 },

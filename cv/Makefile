@@ -14,4 +14,4 @@ bdevries-cv.txt: bdevries-cv.md
 	pandoc --standalone --smart --from markdown --to plain -o bdevries-cv.txt bdevries-cv.md
 
 clean:
-	rm -f *.html *.pdf *.docx *.txt bdevries-cv.md bdevries-cv.tex *.tuc *.log
+	rm -f *.html *.pdf *.docx *.txt bdevries-cv.tex *.tuc *.log

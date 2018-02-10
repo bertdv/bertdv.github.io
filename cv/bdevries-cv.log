@@ -1,6 +1,8 @@
+system          > synctex functionality is enabled (1), expect runtime overhead!
+
 open source     > 1 > 1 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
 
-ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2017.12.12  int: english/english
+ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2018.2.10  int: english/english
 
 system          > 'cont-new.mkiv' loaded
 open source     > 2 > 2 > /usr/local/texlive/2016/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
@@ -16,7 +18,7 @@ structure       > sectioning > subsection @ level 4 : 0.0.0.1 -> Principal Inter
 structure       > sectioning > subsection @ level 4 : 0.0.0.2 -> Academic Background
 structure       > sectioning > subsection @ level 4 : 0.0.0.3 -> Employment History
 
-Overfull \hbox (2.22954pt too wide) in paragraph at lines 150--153
+Overfull \hbox (2.22954pt too wide) in paragraph at lines 151--154
  []\3>helvetica-11pt-ss-bf-0--0 Prin-ci-pal Sci-en-tist\3>helvetica-11pt-ss-tf-0--0 , \3>helvetica-11pt-ss-bf-0--0 GN Re-Sound \3>helvetica-11pt-ss-tf-0--0 (Philips Hear-ing Tech-nolo-gies un-til 2001), Eind-
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -40,7 +42,7 @@ structure       > sectioning > subsection @ level 4 : 0.0.0.4 -> Special Achieve
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.4.1 -> Awards
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.4.2 -> Invited Lectures (selection)
 
-Overfull \hbox (9.41998pt too wide) in paragraph at lines 244--247
+Overfull \hbox (9.41998pt too wide) in paragraph at lines 245--248
  [][][] \3>helvetica-11pt-ss-tf-0--0 Keynote lec-ture on [][]“ The Fu-ture of Hear-ing Aid per-son-al-iza-tion[]”, Cochlear/Re-Sound Event, Sep.2016 
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -59,7 +61,7 @@ Overfull \hbox (9.41998pt too wide) in paragraph at lines 244--247
 .etc.
 
 
-Overfull \hbox (0.56346pt too wide) in paragraph at lines 255--258
+Overfull \hbox (0.56346pt too wide) in paragraph at lines 256--259
  [][][] \3>helvetica-11pt-ss-tf-0--0 Rad-boud Uni-ver-sity Ni-jmegen, [][]“ Prob-a-bilis-tic Hear-ing Loss Com-pen-sa-tion[]”, Ni-jmegen, March 2015 
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -87,7 +89,7 @@ structure       > sectioning > subsubsection @ level 5 : 0.0.0.5.2 -> Teaching
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.5.3 -> Student Supervision
 pages           > flushing realpage 4, userpage 4
 
-Overfull \hbox (2.21317pt too wide) in paragraph at lines 484--489
+Overfull \hbox (2.21317pt too wide) in paragraph at lines 485--490
  [][][] \3>helvetica-11pt-ss-tf-0--0 8/2013, Timur Bagaut-di-nov, M.Sc. the-sis project, \3>helvetica-11pt-ss-bs-0--0 A Ma-chine Learn-ing Frame-work for Bayesian
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -115,7 +117,7 @@ structure       > sectioning > subsubsection @ level 5 : 0.0.0.6.3 -> Profession
 structure       > sectioning > subsubsection @ level 5 : 0.0.0.6.4 -> Conferences and Workshops
 pages           > flushing realpage 7, userpage 7
 
-Overfull \hbox (2.3317pt too wide) in paragraph at lines 766--770
+Overfull \hbox (2.3317pt too wide) in paragraph at lines 770--774
  [][][] \3>helvetica-11pt-ss-tf-0--0 Quan (Eric) Nguyen et al., Prob-a-bilis-tic Inference-based Re-in-force-ment Learn-ing, \3>helvetica-11pt-ss-sl-0--0 Ma-chine Learn-
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -169,12 +171,15 @@ system          > files > stop used files
 
 system          > options > start commandline options
 
-used option     > currentrun="1"
+used option     > autogenerate="true"
+used option     > currentrun="3"
+used option     > directives="system.synctex=1"
 used option     > fulljobname="./bdevries-cv.tex"
 used option     > input="./bdevries-cv.tex"
-used option     > kindofrun="1"
+used option     > kindofrun="2"
 used option     > maxnofruns="9"
 used option     > no-parse-first-line="true"
+used option     > synctex="1"
 
 system          > options > stop commandline options
 
@@ -187,27 +192,28 @@ system          > options > stop commandline files
 
 mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/usr/local/texlive/2016/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9' | readable+writable: '/var/folders/j5/cl6mv66d2qb3p6zpvmp78zwr0000gn/T/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
-mkiv lua stats  > resource resolver: loadtime 0.304 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 387 modules (0.512 sec), 82 tables (0.013 sec), 469 chunks (0.524 sec)
+mkiv lua stats  > synctex tracing: synctex has been enabled (extra log file generated)
+mkiv lua stats  > resource resolver: loadtime 0.318 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 387 modules (0.536 sec), 82 tables (0.012 sec), 469 chunks (0.548 sec)
 mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
 mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 9 lists of 444
 mkiv lua stats  > node memory usage: 40 glue, 3 penalty, 142 attribute, 37 glue_spec, 37 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 1729 calls
-mkiv lua stats  > h-node processing time: 0.090 seconds including kernel
-mkiv lua stats  > attribute processing time: 0.017 seconds front- and backend
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 1734 calls
+mkiv lua stats  > h-node processing time: 0.096 seconds including kernel
+mkiv lua stats  > attribute processing time: 0.019 seconds front- and backend
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > jobdata time: 0.003 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 3641 direct, 1532 indirect, 5173 total
-mkiv lua stats  > randomizer: resumed with value 0.0014536855749105
+mkiv lua stats  > callbacks: 3652 direct, 1536 indirect, 5188 total
+mkiv lua stats  > randomizer: resumed with value 0.27149731352529
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > interactive elements: 61 references, 24 destinations
 mkiv lua stats  > result saved in file: bdevries-cv.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmonolt10-bold.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 3 shared in backend, 0 common vectors, 3 common hashes, load time 0.230 seconds 
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 3 shared in backend, 0 common vectors, 3 common hashes, load time 0.232 seconds 
 mkiv lua stats  > pdf annotations: 61 links (61 unique), 0 special
-mkiv lua stats  > used platform: osx-64, type: unix, binary subtree: bin
+mkiv lua stats  > used platform: osx-ppc, type: unix, binary subtree: bin
 mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
-mkiv lua stats  > control sequences: 44152 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 80 MB (ctx: 80 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.299 seconds, 11 processed pages, 11 shipped pages, 8.468 pages/second
+mkiv lua stats  > control sequences: 44151 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 81 MB (ctx: 80 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.392 seconds, 11 processed pages, 11 shipped pages, 7.902 pages/second
 

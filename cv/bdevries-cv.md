@@ -17,7 +17,7 @@
 Principal Interests
 -------------------
 
-Signal processing, machine learning, computational neuroscience, data science, biomedical engineering, research management, technical writing; applications to multimedia processing, medical devices, hearing rehabilitation and clinical trial design/analysis.
+Signal processing, (Bayesian) machine learning, computational neuroscience, data science, biomedical engineering, research management, technical writing; applications to multimedia processing, medical devices, hearing rehabilitation and clinical trial design/analysis.
 
 
 
@@ -43,7 +43,7 @@ Employment History
 :   **Professor**, [Eindhoven University of Technology](http://tue.nl), [Signal Processing Systems Group](http://www.sps.ele.tue.nl/) (EE dept.),  Eindhoven, the Netherlands
 
     - 1 day/week appointment; previous engagement: Research Fellow ('04-'11)
-    - Director [BIASlab](http://biaslab.org) research laboratory
+    - Founder/director [BIASlab](http://biaslab.org) research laboratory
     - Research on _Personalization of Medical Signal Processing Systems_
     - Teach graduate class on [Adaptive Information Processing](http://www.sps.ele.tue.nl/members/b.vries/teaching/5mb20/index.html)
     - Inaugural lecture: [_In Situ Personalization of Signal Processing Systems_](./files/Bert%20de%20Vries%20-%2013sep2013%20-%20In%20situ%20personalization%20of%20signal%20processing%20systems%20-%20%20inaugural%20lecture%20booklet%20%28final%20version%29.pdf) (at [youtube](http://goo.gl/EoU0SE)), Sep. 2013
@@ -259,6 +259,8 @@ Research at TU/e focusses on applications of Bayesian machine learning to person
 1. 6/2005, Job Geurts, M.Sc. practical training on _A PC-based real-time simulation platform for evaluating hearing aid algorithms_
 
 ### Member of Ph.D. Committee
+
+1. 02/2018, Henk Kortier, Ph.D., Assessment of Hand Kinematics and Interactions with the Environment, University of Twente.
 
 1. 01/2017, Math Verstraelen, Ph.D., The WaveCore - A Scalable Architecture for Real-time Audio Procesing, University of Twente.
 
