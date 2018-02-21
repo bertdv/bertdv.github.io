@@ -17,9 +17,8 @@ In the 2017/18 academic year, this class is taught in semester B (3rd quarter) a
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
 
-<!--
-- <span style="color:red">2-Mar-2016:</span> **Notification**: For part-1, only lessons 1-13 will be examined.
--->
+- <span style="color:red">21-Feb-2018:</span> Per request of some students, I added the corresponding lesson number to the [exercises for part 1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1-with-solutions.pdf) (and reshuffled the sequence of exercises to match the sequence order of the lessons).
+
 
 ## Materials
 
