@@ -17,7 +17,7 @@ In the 2017/18 academic year, this class is taught in semester B (3rd quarter) a
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
 
-- <span style="color:red">8-Mar-2018:</span> Added answers to question 15 (on temporal models) in the [exercises for part-1]((https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1-with-solutions.pdf).
+- <span style="color:red">8-Mar-2018:</span> Added answers to question 15 (on temporal models) in the [exercises for part-1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1-with-solutions.pdf).
 
 - <span style="color:red">8-Mar-2018:</span> Class materials for part-2 have been updated.
 
