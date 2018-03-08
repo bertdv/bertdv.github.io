@@ -70,9 +70,9 @@ Markov models and various latent component analysis models. Furthermore, we deri
 - Part 2B: Bayesian model estimation and Context-tree model selection
 - Part 2C: Descriptive complexity
 
-- [Click here to view or download the lecture notes for part-2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/AIP-part2- handout.pdf?dl=0).
+- [Click here to view or download the lecture notes for part-2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/AIP-part2-handout.pdf?dl=0).
   - An extended version of the part-2 handouts is in preparation but only half-finished. You can download this [UNFINISHED work](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/AIP-part2-article.pdf?dl=0) as well.
-- Background on [information theory](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/combined-article.pdf?dl=0).
+- Background on [information theory](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/information-theory-background.pdf?dl=0).
 - [Markov structures and summary of essential content](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/summary-of-essential-content.pdf?dl=0).
 
 ## Exam Preparation
