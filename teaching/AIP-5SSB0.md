@@ -17,6 +17,10 @@ In the 2017/18 academic year, this class is taught in semester B (3rd quarter) a
 ## NEWS
 <span style="color:red"> &rarr; Watch this section for announcements</span>
 
+- <span style="color:red">8-Mar-2018:</span> Class materials for part-2 have been updated.
+
+- <span style="color:red">8-Mar-2018:</span> The [lecture booklet in PDF-format for part-1](https://github.com/bertdv/AIP-5SSB0/raw/master/lessons/booklet/AIP-5SSB0-part-1-lectures-booklet.pdf) has been updated to incorporate some minor updates that were added over the past few weeks. No need to print out a new version if you have a previous version.
+
 - <span style="color:red">5-Mar-2018:</span> There was a request to supply an answer to the three-coins problem (in [lesson 10 - The EM Algorithm](http://nbviewer.ipython.org/github/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/10_The-General-EM-Algorithm.ipynb)). You can google `three coins EM algorithm` to find many resources on the internet. The problem and solution was originally described in [Collins (1997), sec.3.1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/files/Collins-1997-The-EM-algorithm.pdf). I personally like [this concise summary](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/notebooks/files/Chen-EM-algorithm.pdf).
 
 - <span style="color:red">21-Feb-2018:</span> Per request of some students, I added the corresponding lesson number to the [exercises for part 1](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/exercises/5MB20-exercises-part-1-with-solutions.pdf) (and reshuffled the sequence of exercises to match the sequence order of the lessons).
@@ -60,16 +64,16 @@ Markov models and various latent component analysis models. Furthermore, we deri
 
 - Instructor: [Dr.ir. Tjalling J. Tjalkens](https://www.tue.nl/en/university/departments/electrical-engineering/department/staff/detail/ep/e/d/ep-uid/19830719/)
 
-- In part 2, the discussion on probabilistic modeling extends to model specification itself. Specifically, the notion of **Stochastic Complexity** will be developed and the **Minimum Description Length** (MDL) principle will be
-used to _select_ appropriate models. The lessons are structured as follows:
+- In part 2, the discussion on probabilistic modeling extends to model specification itself. Specifically, the notion of **Stochastic Complexity** will be developed and the **Minimum Description Length** (MDL) principle will be used to _select_ appropriate models. The lessons are structured as follows:
 
 - Part 2A: The Bayesian Information Criterion
 - Part 2B: Bayesian model estimation and Context-tree model selection
 - Part 2C: Descriptive complexity
 
-- [Click here to view or download the lecture notes for part-2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/alltext4.pdf?dl=0).
+- [Click here to view or download the lecture notes for part-2](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/AIP-part2- handout.pdf?dl=0).
+  - An extended version of the part-2 handouts is in preparation but only half-finished. You can download this [UNFINISHED work](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/AIP-part2-article.pdf?dl=0) as well.
 - Background on [information theory](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/combined-article.pdf?dl=0).
-- [Markov structures and summary of essential content](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/summary-beamer.pdf?dl=0)
+- [Markov structures and summary of essential content](https://github.com/bertdv/AIP-5SSB0/blob/master/lessons/Tjalling/summary-of-essential-content.pdf?dl=0).
 
 ## Exam Preparation
 
